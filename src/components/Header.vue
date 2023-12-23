@@ -4,24 +4,30 @@ const title: string = "TECH NEWS LINKS";
 
 <template>
   <div class="header">
-    <div class="title">
-      {{ title }}
+    <div class="header-content">
+      <span class="title">
+        {{ title }}
+      </span>
     </div>
   </div>
 </template>
 
 <style scoped>
 .header {
-  /* display: flex;
-  justify-content: center; */
+  position: sticky;
+  top: 0;
   background-color: black;
   width: 100%;
   opacity: 0.7;
 }
+
+.header-content {
+  padding: 0.4rem;
+  vertical-align: middle;
+}
 .title {
   color: white;
-  font-size: 20px;
+  font-size: 1.6rem;
   font-family: "Times New Roman", Times, serif;
-  margin: 8px;
 }
 </style>
