@@ -3,8 +3,9 @@ import Header from "./components/Header.vue";
 import Card from "./components/Card.vue";
 
 import { reactive } from "vue";
+type articleType = { [k: string]: string };
 const articlePath = "src/assets/articles.csv";
-const articles = reactive<any>([]);
+const articles = reactive<Array<articleType>>([]);
 
 fetch(articlePath)
   .then((res) => {
@@ -28,8 +29,8 @@ fetch(articlePath)
     <div class="padding">
       <div class="contents">
         <div v-for="article in articles">
-          <Card />
-          {{ article }}
+          <Card :article="article" />
+          <!-- {{ article }} -->
         </div>
       </div>
     </div>
