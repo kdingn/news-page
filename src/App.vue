@@ -30,7 +30,6 @@ fetch(articlePath)
       <div class="contents">
         <div v-for="article in articles">
           <Card :article="article" />
-          <!-- {{ article }} -->
         </div>
       </div>
     </div>
