@@ -22,7 +22,7 @@ const title: string = "TECH NEWS LINKS";
 }
 
 .header-content {
-  padding: 0.4rem;
+  padding: 0.2rem;
   vertical-align: middle;
 }
 .title {

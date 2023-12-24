@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import Content from "./components/Content.vue";
 import Header from "./components/Header.vue";
 </script>
 
@@ -7,7 +8,8 @@ import Header from "./components/Header.vue";
     <Header />
     <div class="padding">
       <div class="contents">
-        <div v-for="i in 100" :key="i">{{ i }}</div>
+        <Content />
+        <!-- <div v-for="i in 100" :key="i">{{ i }}</div> -->
       </div>
     </div>
   </div>
@@ -15,16 +17,17 @@ import Header from "./components/Header.vue";
 
 <style scoped>
 .padding {
-  padding: 1vw;
+  padding: 0.5vw;
 }
 .contents {
-  background-color: black;
-  opacity: 0.1;
+  background-color: rgba(0, 0, 0, 0.1);
+  min-height: 50vh;
 }
 .background {
   background-image: url("./assets/background.avif");
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
+  min-height: 100vh;
 }
 </style>
