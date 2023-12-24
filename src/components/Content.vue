@@ -9,10 +9,11 @@ fetch(articlePath)
   })
   .then((data) => {
     const rows = data.split("\r\n");
-    const columns = rows[0].split(", ");
+    const columns = rows[0].split(",");
     rows.slice(1).forEach((row) => {
+      const values = row.split(",");
       articles.push(
-        Object.fromEntries(columns.map((key, i) => [key, row.split(", ")[i]]))
+        Object.fromEntries(columns.map((key, i) => [key, values[i]]))
       );
     });
   });
