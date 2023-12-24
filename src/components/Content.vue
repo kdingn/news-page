@@ -1,11 +1,12 @@
 <script setup lang="ts">
-import Card from "./Card.vue";
+import Card from "@/components/Card.vue"; // ????
 
 import { reactive } from "vue";
-const articlePath = "src/assets/articles.csv";
+const articlePath = "@/assets/articles.csv";
+// const articlePath = "src/assets/articles.csv";
 const articles = reactive<any>([]);
 
-console.log(new URL(articlePath, import.meta.url).href);
+console.log(articlePath);
 
 fetch(articlePath)
   .then((res) => {

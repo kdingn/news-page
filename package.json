@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "file-url-to-path": "^1.0.0",
     "vue": "^3.3.11"
   },
   "devDependencies": {
