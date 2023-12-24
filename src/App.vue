@@ -9,7 +9,6 @@ import Header from "./components/Header.vue";
     <div class="padding">
       <div class="contents">
         <Content />
-        <!-- <div v-for="i in 100" :key="i">{{ i }}</div> -->
       </div>
     </div>
   </div>

@@ -1,7 +1,11 @@
 <script setup lang="ts">
+import Card from "./Card.vue";
+
 import { reactive } from "vue";
 const articlePath = "src/assets/articles.csv";
 const articles = reactive<any>([]);
+
+console.log(new URL(articlePath, import.meta.url).href);
 
 fetch(articlePath)
   .then((res) => {
@@ -21,6 +25,7 @@ fetch(articlePath)
 
 <template>
   <div v-for="article in articles">
+    <Card />
     {{ article }}
   </div>
 </template>
