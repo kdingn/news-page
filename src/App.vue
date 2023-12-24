@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import Content from "@/components/Content.vue";
-import Header from "@/components/Header.vue";
+import Content from "./components/Content.vue";
+import Header from "./components/Header.vue";
 </script>
 
 <template>
@@ -23,7 +23,7 @@ import Header from "@/components/Header.vue";
   min-height: 50vh;
 }
 .background {
-  background-image: url("@/assets/background.avif");
+  background-image: url("./assets/background.avif");
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
