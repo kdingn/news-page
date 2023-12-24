@@ -1,6 +1,25 @@
 <script setup lang="ts">
-import Content from "./components/Content.vue";
 import Header from "./components/Header.vue";
+import Card from "./components/Card.vue";
+
+import { reactive } from "vue";
+const articlePath = "src/assets/articles.csv";
+const articles = reactive<any>([]);
+
+fetch(articlePath)
+  .then((res) => {
+    return res.text();
+  })
+  .then((data) => {
+    const rows = data.split("\r\n");
+    const columns = rows[0].split(",");
+    rows.slice(1).forEach((row) => {
+      const values = row.split(",");
+      articles.push(
+        Object.fromEntries(columns.map((key, i) => [key, values[i]]))
+      );
+    });
+  });
 </script>
 
 <template>
@@ -8,7 +27,10 @@ import Header from "./components/Header.vue";
     <Header />
     <div class="padding">
       <div class="contents">
-        <Content />
+        <div v-for="article in articles">
+          <Card />
+          {{ article }}
+        </div>
       </div>
     </div>
   </div>
