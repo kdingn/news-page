@@ -5,24 +5,20 @@ on:
     branches: ["main"]
   # schedule:
   #   - cron: "0 * * * *"
-
-  # Actions タブから手動でワークフローを実行できるようにします
   workflow_dispatch:
 
-# GITHUB_TOKEN のパーミッションを設定し、GitHub Pages へのデプロイを許可します
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# 1 つの同時デプロイメントを可能にする
 concurrency:
   group: "pages"
   cancel-in-progress: true
 
 jobs:
   # run python and update articles
-  build:
+  update-articles:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -38,11 +34,12 @@ jobs:
         run: python ./python/get_articles.py
 
   # page build
-  deploy:
+  page-build:
+    runs-on: ubuntu-latest
+    needs: update-articles
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
