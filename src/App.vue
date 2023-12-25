@@ -1,26 +1,7 @@
 <script setup lang="ts">
-import Header from "./components/Header.vue";
+import articles from "./assets/articles.csv";
 import Card from "./components/Card.vue";
-
-import { reactive } from "vue";
-type articleType = { [k: string]: string };
-const articlePath = "src/assets/articles.csv";
-const articles = reactive<Array<articleType>>([]);
-
-fetch(articlePath)
-  .then((res) => {
-    return res.text();
-  })
-  .then((data) => {
-    const rows = data.split("\r\n");
-    const columns = rows[0].split(",");
-    rows.slice(1).forEach((row) => {
-      const values = row.split(",");
-      articles.push(
-        Object.fromEntries(columns.map((key, i) => [key, values[i]]))
-      );
-    });
-  });
+import Header from "./components/Header.vue";
 </script>
 
 <template>

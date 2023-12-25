@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@rollup/plugin-dsv": "^3.0.4",
     "vue": "^3.3.11"
   },
   "devDependencies": {
