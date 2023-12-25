@@ -24,6 +24,10 @@ import Header from "./components/Header.vue";
 .contents {
   background-color: rgba(0, 0, 0, 0.1);
   min-height: 50vh;
+  padding: 0.5vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 .background {
   background-image: url("./assets/background.avif");
