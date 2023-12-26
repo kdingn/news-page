@@ -14,10 +14,7 @@ const props = defineProps<{
         {{ props.article.title }}
       </div>
       <div>
-        <img
-          src="https://aiboom.net/wp-content/uploads/2023/12/AIDB_60765.jpg"
-          class="center-cropped"
-        />
+        <img :src="props.article.ogimage" class="center-cropped" />
       </div>
     </a>
   </div>
