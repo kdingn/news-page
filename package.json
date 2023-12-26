@@ -10,8 +10,7 @@
   },
   "dependencies": {
     "@rollup/plugin-dsv": "^3.0.4",
-    "vue": "^3.3.11",
-    "vuetify": "^3.4.8"
+    "vue": "^3.3.11"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.5.2",

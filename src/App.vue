@@ -1,30 +1,27 @@
 <script setup lang="ts">
-import articles from "./assets/articles.csv";
+import wholeArticles from "./assets/articles.csv";
 import Card from "./components/Card.vue";
 import Header from "./components/Header.vue";
+
+let articles = wholeArticles.slice(0, 20);
 </script>
 
 <template>
   <div class="background">
     <Header />
-    <div class="padding">
-      <div class="contents">
-        <div v-for="article in articles">
-          <Card :article="article" />
-        </div>
+    <!-- <div class="padding"> -->
+    <div class="contents">
+      <div v-for="article in articles">
+        <Card :article="article" />
       </div>
     </div>
   </div>
+  <!-- </div> -->
 </template>
 
 <style scoped>
-.padding {
-  padding: 0.5vw;
-}
 .contents {
   background-color: rgba(0, 0, 0, 0.1);
-  min-height: 50vh;
-  padding: 0.5vw;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
