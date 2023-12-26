@@ -29,13 +29,13 @@ a {
   text-decoration: none;
 }
 .date {
-  font-size: 1rem;
-  color: rgb(126, 48, 225);
+  font-size: 1.5rem;
 }
 .title {
-  font-size: 2rem;
+  font-size: 2.6rem;
   margin-bottom: 1vw;
-  color: rgb(73, 16, 139);
+  padding-left: 2vw;
+  padding-right: 2vw;
 }
 .center-cropped {
   width: 96vw;
@@ -47,7 +47,6 @@ a {
   opacity: 0.9;
   z-index: 3;
   border-radius: 1vw;
-  outline-color: rgb(226, 110, 229);
 }
 .card {
   padding: 1vw;
@@ -57,7 +56,6 @@ a {
   outline: solid;
   outline-width: 1px;
   background-color: rgb(243, 248, 255, 0.8);
-  outline-color: rgb(226, 110, 229);
   border-radius: 1vw;
 }
 </style>
