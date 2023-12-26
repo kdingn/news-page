@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 def get_ogimage(df):
-    print(f"{len(df)} new articles")
+    print(f"{len(df)} new aidb articles")
     images = []
     for link in df["link"]:
         soup = BeautifulSoup(requests.get(link).content, features="html.parser")
@@ -31,18 +31,17 @@ def get_aidb(df_org):
     df = pd.DataFrame(article).sort_values(["date", "link"])
     df["date"] = pd.to_datetime(df["date"])
     df["source"] = "aidb"
-    df = df[df["link"].apply(lambda x: x not in df_org["link"])]
+    df = df[df["date"] >= df_org[df_org["source"]=="aidb"]["date"].max()].drop_duplicates("link")
     df = get_ogimage(df)
     return df
 
 
 def main():
-aa
     df = pd.read_csv("src/assets/articles.csv")
     df["date"] = pd.to_datetime(df["date"])
     df = pd.concat([df, get_aidb(df)])
     df = (
-        df.sort_values("date", ascending=False)
+        df.sort_values(["date", "link"], ascending=False)
         .drop_duplicates("link", keep="first")
         .reset_index(drop=True)
     )
