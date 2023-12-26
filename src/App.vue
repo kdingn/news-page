@@ -9,7 +9,6 @@ let articles = wholeArticles.slice(0, 20);
 <template>
   <div class="background">
     <Header />
-    <!-- <div class="padding"> -->
     <div class="contents">
       <div v-for="article in articles">
         <Card :article="article" />
