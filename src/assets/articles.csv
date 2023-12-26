@@ -1,4 +1,5 @@
 date,title,link,source,ogimage
+2023-12-26,Gemini vs GPT-4V、画像認識能力でどちらが優秀なのか,https://aiboom.net/archives/61286,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_61286.jpg
 2023-12-25,消費者向けGPUでも高性能GPUに近いパフォーマンスでLLMを動かす手法「PowerInfer」,https://aiboom.net/archives/61215,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_61215.jpg
 2023-12-23,OpenAIが開発中、人間の理解をAIが超えた際の制御法,https://aiboom.net/archives/61116,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_61116.jpg
 2023-12-22,Tencentの研究者らが、人間のようにタップやスワイプでスマホアプリを操作するAIエージェント『AppAgent』を開発したと報告しています。,https://aiboom.net/archives/61130,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_20231222.jpg
@@ -33,8 +34,8 @@ date,title,link,source,ogimage
 2023-11-10,AGI（汎用人工知能）の原則6箇条とレベル5段階,https://aiboom.net/archives/58565,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58565.jpg
 2023-11-09,ChatGPTはチューリングテスト（人間模倣ゲーム）に一定の確率で成功する。ただし解釈には注意を,https://aiboom.net/archives/58540,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58540.jpg
 2023-11-08,LLMなどの生成AIの背後にある思考プロセスは人間とは全く異なるかもしれないことを示す仮説『生成AIのパラドックス』,https://aiboom.net/archives/58414,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58414_thum.jpg
-2023-11-07,オセロで「完璧な手を打ち続けた結果は引き分けである」ことを証明する研究が発表されました。,https://aiboom.net/archives/58328,aidb,https://aiboom.net/wp-content/uploads/2023/11/2023-11-07-11.20.27.jpg
 2023-11-07,ChatGPTの効果的なプロンプト手法における「基本のキ」を理論とテンプレート両方で紹介,https://aiboom.net/archives/58361,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58361.jpg
+2023-11-07,オセロで「完璧な手を打ち続けた結果は引き分けである」ことを証明する研究が発表されました。,https://aiboom.net/archives/58328,aidb,https://aiboom.net/wp-content/uploads/2023/11/2023-11-07-11.20.27.jpg
 2023-11-06,自分の話し声を別の誰かの声にリアルタイム変換するモデルが、一般消費者向けCPUで動かせる軽さで登場,https://aiboom.net/archives/58291,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58291.jpg
 2023-11-03,「自分を信じて限界を超えてください」など感情をグッと込めた指示プロンプトが添えられると、ChatGPTなどのLLMのパフォーマンスは向上する,https://aiboom.net/archives/58158,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58158.jpg
 2023-11-02,現時点でのLLMに対する網羅的な評価分析が行われました。,https://aiboom.net/archives/58149,aidb,https://aiboom.net/wp-content/uploads/2023/11/スクリーンショット-2023-11-02-11.30.39.png
@@ -57,9 +58,9 @@ date,title,link,source,ogimage
 2023-10-17,GPT-4などLLMのコード生成能力にデバッグ機能を追加する『SELF-DEBUGGING（セルフデバッギング）』フレームワークが考案されました。,https://aiboom.net/archives/56958,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_X_20231017_2.jpg
 2023-10-17,人物の「不自然さ」を極限まで取り除いて超リアルな画像を生成する『HyperHuman（ハイパーヒューマン）』,https://aiboom.net/archives/56844,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_56844.jpg
 2023-10-17,ChatGPTで実際に行われた約151万件の対話を含むデータセット『WildChat』登場,https://aiboom.net/archives/56851,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_X_56851.png
-2023-10-16,GPT-4をセラピストとして実行し、「認知の歪み」を診断させるためのフレームワーク『Diagnosis of Thought (DoT)』と実行プロンプト,https://aiboom.net/archives/56696,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_56696.jpg
 2023-10-16,LLMがソフトウェアエンジリアリングにおいて現時点で役に立つこと＆課題。Metaなどの研究者らが報告,https://aiboom.net/archives/56721,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_X_56721.png
 2023-10-16,LLMにナレッジグラフ（知識グラフ）を連携させることで、タスク遂行能力を大幅に向上させるフレームワーク『Graph Neural Prompting（GNP）』,https://aiboom.net/archives/56837,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_X_56837.jpg
+2023-10-16,GPT-4をセラピストとして実行し、「認知の歪み」を診断させるためのフレームワーク『Diagnosis of Thought (DoT)』と実行プロンプト,https://aiboom.net/archives/56696,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_56696.jpg
 2023-10-13,LLMエージェントは同調圧力に弱く考えに固執する傾向があるため、ディベートでバイアスを和らげるのが重要との報告。導入ツールも公開,https://aiboom.net/archives/56599,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_56599_top-2.jpg
 2023-10-12,LLMは時折「一時停止」させると、より計算し深く推論するためアウトプットの品質が向上するとの検証結果。新トークン導入フレームワーク,https://aiboom.net/archives/56487,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_56487_thum.jpg
 2023-10-11,画像分析機能を持つオープンソースLLM『LLaVA-1.5』登場。手持ちの画像を分析可能。GPT-4Vとの違い,https://aiboom.net/archives/56440,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_56440_thumnail-1-edited-1.jpg
@@ -184,3 +185,33 @@ date,title,link,source,ogimage
 2022-09-15,言葉で指示を与えるとその通りに3D人間が動くAIモデルが公開,https://aiboom.net/archives/49768,aidb,https://aiboom.net/wp-content/uploads/2022/09/action2-2.gif
 2022-03-03,主要な世界的AI研究機関（企業）が自社の論文を掲載しているWebページまとめ,https://aiboom.net/archives/49631,aidb,https://aiboom.net/wp-content/uploads/2022/03/aiboom_49631_top.png
 2022-01-05,AIがAmong Us!でインポスターを当てるのは不可能ではない,https://aiboom.net/archives/49367,aidb,https://aiboom.net/wp-content/uploads/2021/12/aiboom_49367_top2.png
+2021-05-12,「Pandasデータフレームの欠損値を確認せよ！ 」AIクイズ実装編【第7問】,https://aiboom.net/archives/48793,aidb,https://aiboom.net/wp-content/uploads/2021/05/AIquiz_4-9.png
+2021-04-14,「配列をpandasデータフレームにせよ！ 」AIクイズ実装編【第6問】,https://aiboom.net/archives/48462,aidb,https://aiboom.net/wp-content/uploads/2021/04/AIquiz_4-7.png
+2021-04-13,「モデル作成後の評価法は？ 」AIクイズ実装編【第5問】,https://aiboom.net/archives/48445,aidb,https://aiboom.net/wp-content/uploads/2021/04/AIquiz_4-6.png
+2021-04-09,「scikit-learnで最小二乗法！ 」AIクイズ実装編【第4問】,https://aiboom.net/archives/48399,aidb,https://aiboom.net/wp-content/uploads/2021/04/AIquiz_4-5.png
+2021-04-06,「pandasでcsvファイルを読み取る！ 」AIクイズ実装編【第3問】,https://aiboom.net/archives/48337,aidb,https://aiboom.net/wp-content/uploads/2021/04/AIquiz_4-4.png
+2021-04-02,「numpy配列の行数と列数を取得せよ！ 」AIクイズ実装編【第2問】,https://aiboom.net/archives/48246,aidb,https://aiboom.net/wp-content/uploads/2021/04/AIquiz_4-2.png
+2021-04-01,「データを訓練データとテストデータに分割せよ！ 」AIクイズ実装編【第1問】,https://aiboom.net/archives/48197,aidb,https://aiboom.net/wp-content/uploads/2021/04/AIquiz_4-1.png
+2021-03-30,「クラスタリングの評価手法『ARIやNMI』の欠点は？ 」AIクイズscikit-learn編【第5問】,https://aiboom.net/archives/48137,aidb,https://aiboom.net/wp-content/uploads/2021/03/AIquiz_3-1-1.png
+2021-03-29,「DBCANの正しい説明とは？ 」AIクイズscikit-learn編【第4問】,https://aiboom.net/archives/48112,aidb,https://aiboom.net/wp-content/uploads/2021/03/AIquiz_3-3.png
+2021-03-22,「凝集型クラスタリングとは？ 」AIクイズscikit-learn編【第3問】,https://aiboom.net/archives/47943,aidb,https://aiboom.net/wp-content/uploads/2021/03/AIquiz_3-2.png
+2021-03-19,「t-SNEは何次元のデータを可視化できる？ 」AIクイズscikit-learn編【第2問】,https://aiboom.net/archives/47940,aidb,https://aiboom.net/wp-content/uploads/2021/03/AIquiz_3-1.png
+2021-03-18,「非負値行列因子分解（NMF）とは？ 」AIクイズscikit-learn編【第1問】,https://aiboom.net/archives/47936,aidb,https://aiboom.net/wp-content/uploads/2021/03/AIquiz_3.png
+2021-03-16,「ディープラーニングの応用分野はどれ？ 」AIクイズ応用編【第30問】,https://aiboom.net/archives/47892,aidb,https://aiboom.net/wp-content/uploads/2021/03/AIquiz_2-13.png
+2021-03-15,「Pythonのグラフ描画ライブラリはどれ？」AIクイズ応用編【第29問】,https://aiboom.net/archives/47889,aidb,https://aiboom.net/wp-content/uploads/2021/03/AIquiz_2-12.png
+2021-03-11,「ニューラルネットワークの学習の流れ、分かる？」AIクイズ応用編【第28問】,https://aiboom.net/archives/47802,aidb,https://aiboom.net/wp-content/uploads/2021/03/AIquiz_2-11.png
+2021-02-25,トヨタから「栽培しなくても作物の特性がわかるAI」の特許が出願。なぜ？,https://aiboom.net/archives/47595,aidb,https://aiboom.net/wp-content/uploads/2021/02/patent_20210224-4.jpg
+2020-12-19,【え怪しい？】マイクロソフトが「みんな投資AIやろうよ」とプラットフォームを発表（コードあり）,https://aiboom.net/archives/46313,aidb,https://aiboom.net/wp-content/uploads/2020/12/github_20201218_on.png
+2020-12-18,【エッジAI】MITがまた何かすごいのを作ったようです。有名AI学会のNeurIPSで発表した内容を解説（コード・動画あり）,https://aiboom.net/archives/46240,aidb,https://aiboom.net/wp-content/uploads/2020/12/github_20201218_on-2.png
+2020-06-02,AIによる「電力予測」どこまで進んでる？研究事例まとめ,https://aiboom.net/archives/28019,aidb,https://aiboom.net/wp-content/uploads/2020/05/AI_agri_matome-2.png
+2020-03-05,「投資」にAIを活用した研究事例まとめ【解説あり】,https://aiboom.net/archives/17742,aidb,https://aiboom.net/wp-content/uploads/2020/02/AItradematome-2.png
+2020-02-25,「農業」や「畜産」にAIを活用した研究事例まとめ【解説あり】,https://aiboom.net/archives/17793,aidb,https://aiboom.net/wp-content/uploads/2020/02/AI_agri_matome.png
+2020-02-19,「食品の品質管理」にAIを活用した研究事例まとめ【解説付き】,https://aiboom.net/archives/17610,aidb,https://aiboom.net/wp-content/uploads/2020/02/AI×品質管理-研究事例まとめ-3.png
+2020-02-01,「学会レポート」特集！記事一覧,https://aiboom.net/archives/20231,aidb,https://aiboom.net/wp-content/uploads/2020/02/医療安全を管理するAI-10-1.png
+2020-01-30,「AI研究者が語る」特集！記事一覧,https://aiboom.net/archives/16495,aidb,https://aiboom.net/wp-content/uploads/2019/11/IMG_6105-2.jpg
+2019-12-10,「AI時代のメンタリズム」特集！記事一覧,https://aiboom.net/archives/16479,aidb,https://aiboom.net/wp-content/uploads/2019/11/0D2B9FF7-4FC5-4743-A7F2-EAA8390479AB.png
+2019-12-01,「AI×釣り」特集！記事一覧,https://aiboom.net/archives/16496,aidb,https://aiboom.net/wp-content/uploads/2019/12/じゅんぺー＆つりくず-4.png
+2019-11-30,「AIアプリやってみた」特集！記事一覧,https://aiboom.net/archives/16486,aidb,https://aiboom.net/wp-content/uploads/2019/11/yoshino_1-3.png
+2019-11-30,「StyleGAN」特集！記事一覧,https://aiboom.net/archives/16461,aidb,https://aiboom.net/wp-content/uploads/2019/12/stylegan1-1-1.png
+2019-11-01,「G検定・E資格」特集！,https://aiboom.net/archives/16459,aidb,https://aiboom.net/wp-content/uploads/2019/12/E-qualification.png
+2019-10-01,「東大生AI初心者じゅんぺーの学習日誌」特集！記事一覧,https://aiboom.net/archives/16465,aidb,https://aiboom.net/wp-content/uploads/2019/12/jumpei_1_remake.png
