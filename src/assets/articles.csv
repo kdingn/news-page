@@ -415,22 +415,22 @@ date,title,link,source
 2020-10-18,男性から女性への暴力再犯リスクを予測するAIを開発（AI×社会）【論文】,https://aiboom.net/archives/43212,aidb
 2020-10-17,資産運用の最適なポートフォリオを考えるAIを作ってみた（AI×金融）【論文】,https://aiboom.net/archives/42732,aidb
 2020-10-17,街のカメラで「密」が定量的にわかるようになる？（新型コロナ関連AI研究紹介）,https://aiboom.net/archives/43200,aidb
-2020-10-16,中国研究者、「鉄道の故障」を検知するAI技術を開発（AI×製造）【論文】,https://aiboom.net/archives/42699,aidb
-2020-10-16,AIで画像からフェンスなどの障害を除去する手法が発表【CVPR2020】,https://aiboom.net/archives/43126,aidb
-2020-10-16,特許「ユーザーが観ていた動画によって対応を変えるチャットボット」が特許取得（ＪＥインターナショナル株式会社）,https://aiboom.net/archives/43161,aidb
-2020-10-16,顔を3次元的に認識するAIの性能が大幅アップ【GitHub】,https://aiboom.net/archives/42925,aidb
 2020-10-16,【最新版】社会人が人工知能（AI）を勉強できる大学講座一覧,https://aiboom.net/archives/5208,aidb
-2020-10-15,「グラフ構造データ」の新しいAI学習方法登場！【GitHub】,https://aiboom.net/archives/42919,aidb
+2020-10-16,AIで画像からフェンスなどの障害を除去する手法が発表【CVPR2020】,https://aiboom.net/archives/43126,aidb
+2020-10-16,中国研究者、「鉄道の故障」を検知するAI技術を開発（AI×製造）【論文】,https://aiboom.net/archives/42699,aidb
+2020-10-16,顔を3次元的に認識するAIの性能が大幅アップ【GitHub】,https://aiboom.net/archives/42925,aidb
+2020-10-16,特許「ユーザーが観ていた動画によって対応を変えるチャットボット」が特許取得（ＪＥインターナショナル株式会社）,https://aiboom.net/archives/43161,aidb
 2020-10-15,Google、YouTubeを教師なし学習。動画AIの新たなフレームワーク発表【CVPR2020】,https://aiboom.net/archives/43122,aidb
-2020-10-15,「AIでフィッシングサイトのURLを発見する技術」現場にコミットする機械学習ノート【vol.31】,https://aiboom.net/archives/42416,aidb
+2020-10-15,「グラフ構造データ」の新しいAI学習方法登場！【GitHub】,https://aiboom.net/archives/42919,aidb
 2020-10-15,特許「養殖魚に自動で適当な量のエサを与えるAIシステム」が特許取得（株式会社アイエスイー）,https://aiboom.net/archives/43136,aidb
+2020-10-15,「AIでフィッシングサイトのURLを発見する技術」現場にコミットする機械学習ノート【vol.31】,https://aiboom.net/archives/42416,aidb
 2020-10-14,企業の財務諸表に対する「監査AI」作ってみた（AI×金融）【論文】,https://aiboom.net/archives/43128,aidb
 2020-10-14,2次元の画像に対し「光の当たり加減」変えるAI手法が公開【GitHub】,https://aiboom.net/archives/42901,aidb
 2020-10-14,「スパースさ」とは？AIの画像認識における新しい概念【CVPR2020】,https://aiboom.net/archives/43118,aidb
 2020-10-14,特許「チャットボットの訓練AIシステム」出願が公開（米マイクロソフト テクノロジー ライセンシング社）,https://aiboom.net/archives/42749,aidb
-2020-10-13,「13」もあるインド系言語に対応するAIライブラリが公開【GitHub】,https://aiboom.net/archives/42894,aidb
 2020-10-13,特許「AlexaやGoogleアシスタントからの着信を見破るAI」出願が公開（米PINDROP SECURITY社）,https://aiboom.net/archives/42744,aidb
 2020-10-13,AIにポルノを観させ、カテゴリ分類させる実験が行われた（AI×社会）【論文】,https://aiboom.net/archives/42794,aidb
+2020-10-13,「13」もあるインド系言語に対応するAIライブラリが公開【GitHub】,https://aiboom.net/archives/42894,aidb
 2020-10-13,Google、物体を追跡してから検出するAI技術発表【CVPR2020】,https://aiboom.net/archives/43108,aidb
 2020-10-12,スタンフォード大、「透明」でも3D姿勢を推定できるAI技術発表【CVPR2020】,https://aiboom.net/archives/43094,aidb
 2020-10-12,「AIでソフトウェアの『開発要件』を分類する」現場にコミットする機械学習ノート【vol.30】,https://aiboom.net/archives/42374,aidb
@@ -451,9 +451,9 @@ date,title,link,source
 2020-10-06,特許「船の『避難経路』を即座に見つけるAIシステム」が公開（独LIST社）,https://aiboom.net/archives/42520,aidb
 2020-10-06,AIでネット上の「不適切な文章」効率的に検出との研究結果（AI×社会）【論文】,https://aiboom.net/archives/41965,aidb
 2020-10-06,「より簡単に画像処理」新AIライブラリ登場【GitHub】,https://aiboom.net/archives/42561,aidb
-2020-10-05,「写真から『曇り』を除去する」現場にコミットする機械学習ノート【vol.28】,https://aiboom.net/archives/42319,aidb
 2020-10-05,スタンフォード大、Q&Aで活躍するAIフレームワークを公開【GitHub】,https://aiboom.net/archives/42315,aidb
 2020-10-05,特許「最適な広告を表示するAIシステム」が公開（三井住友銀行）,https://aiboom.net/archives/42517,aidb
+2020-10-05,「写真から『曇り』を除去する」現場にコミットする機械学習ノート【vol.28】,https://aiboom.net/archives/42319,aidb
 2020-10-04,感情分析から為替レートを予想するAIアプローチとは（AI×金融）【論文】,https://aiboom.net/archives/42008,aidb
 2020-10-03,子供の精神的不安を事前に予測？（新型コロナ関連AI研究紹介）,https://aiboom.net/archives/42342,aidb
 2020-10-03,原油の先物価格の予測に有効なアプローチを明らかに（AI×金融）【論文】,https://aiboom.net/archives/42095,aidb
@@ -494,12 +494,12 @@ date,title,link,source
 2020-09-19,ディープラーニングの「組み合わせ」で仮想通貨の価格を高精度予測（AI×金融）【論文】,https://aiboom.net/archives/40375,aidb
 2020-09-18,自由度を得たロボットは、深層強化学習でどう進化するか？（AI×ロボット）【論文】,https://aiboom.net/archives/40384,aidb
 2020-09-18,特許「意図が不明な会話を処理するAIシステム」が公開（NAVERコーポレーション）,https://aiboom.net/archives/41735,aidb
-2020-09-17,Microsoft、AIレコメンドシステムの開発を加速するためのPythonツール公開【GitHub】,https://aiboom.net/archives/41597,aidb
 2020-09-17,特許「バイクの異常検知セキュリティ性能を向上させるAI」が公開（株式会社ＪＶＣケンウッド）,https://aiboom.net/archives/41731,aidb
 2020-09-17,「暗号化を用いてセキュアに画像検索」現場にコミットする機械学習ノート【vol.23】,https://aiboom.net/archives/40823,aidb
-2020-09-16,ドローンを「GPSなしで」制御する方法（AI×ドローン）【論文】,https://aiboom.net/archives/40180,aidb
+2020-09-17,Microsoft、AIレコメンドシステムの開発を加速するためのPythonツール公開【GitHub】,https://aiboom.net/archives/41597,aidb
 2020-09-16,障害物があっても難なく人を3Dメッシュで切り取るAI手法が登場【GitHub】,https://aiboom.net/archives/41593,aidb
 2020-09-16,特許「訓練データを収集するコストを削減するAIシステム」が公開（日立産業制御ソリューションズ ）,https://aiboom.net/archives/41692,aidb
+2020-09-16,ドローンを「GPSなしで」制御する方法（AI×ドローン）【論文】,https://aiboom.net/archives/40180,aidb
 2020-09-15,AIはギャグセンを備えるか？ニューラルネットワークにユーモアを学習させてみた（AI×社会）【論文】,https://aiboom.net/archives/40374,aidb
 2020-09-15,アニメのキャラ画像を実写の服画像に変換する新しい手法が誕生【GitHub】,https://aiboom.net/archives/41588,aidb
 2020-09-15,特許「職人の熟練度によらないレーザー加工を実現するAIシステム」が公開（三菱電機、産総研）,https://aiboom.net/archives/41688,aidb
@@ -526,9 +526,9 @@ date,title,link,source
 2020-09-06,「血液と年齢」から感染をAIで予測（新型コロナ研究紹介）,https://aiboom.net/archives/40814,aidb
 2020-09-06,ファッション「仮想的に試着」AIテクノロジー発表【CVPR2020】,https://aiboom.net/archives/41139,aidb
 2020-09-06,モバイル決済での詐欺を人工知能で見破る（AI×金融）【論文】,https://aiboom.net/archives/40224,aidb
+2020-09-05,TwitterからパンデミックをAIで予測（新型コロナ研究紹介）,https://aiboom.net/archives/40294,aidb
 2020-09-05,近接センサーによる「汎用的な障害物検出」モデルが開発された（AI×製造）【論文】,https://aiboom.net/archives/40376,aidb
 2020-09-05,「古い写真を修復する」最先端のAIテクノロジー【CVPR2020】,https://aiboom.net/archives/41134,aidb
-2020-09-05,TwitterからパンデミックをAIで予測（新型コロナ研究紹介）,https://aiboom.net/archives/40294,aidb
 2020-09-04,Minecraft(マイクラ)プレイ中の脳をAIで解析したら男女差が浮き彫りに（AI×エンタメ）【論文】,https://aiboom.net/archives/37903,aidb
 2020-09-04,韓国語に特化したAIの言語モデル（BERTで）登場【GitHub】,https://aiboom.net/archives/41036,aidb
 2020-09-04,"特許「『配送物』の自動仕分けAI」が公開（米Walmart Apollo, LLC社）",https://aiboom.net/archives/41085,aidb
@@ -536,10 +536,10 @@ date,title,link,source
 2020-09-03,"特許「音楽及びデジタル権利を管理するAIシステム」が公開（米MUSERK, LLC社）",https://aiboom.net/archives/41080,aidb
 2020-09-03,「一枚の画像から『物体の奥行き』を推定する」現場にコミットする機械学習ノート【vol.19】,https://aiboom.net/archives/39923,aidb
 2020-09-03,ビデオセグメンテーションの最高パフォーマンスを弾き出したネットワークが公開【GitHub】,https://aiboom.net/archives/40652,aidb
-2020-09-02,"特許「AI全自動取引プラットフォーム」が公開（中 Shanghai Yingshou Information Technology Co., Ltd.社）",https://aiboom.net/archives/41073,aidb
-2020-09-02,臭いからカビを発見する人工鼻　機械学習でリンゴを診断【AI×食品】（論文解説）,https://aiboom.net/archives/39871,aidb
 2020-09-02,「点群データから物体の形状を生成」する新しいAIモデルが登場【GitHub】,https://aiboom.net/archives/40647,aidb
 2020-09-02,人間を超える「空間認識の能力」AIテクノロジー【CVPR2020】,https://aiboom.net/archives/40752,aidb
+2020-09-02,"特許「AI全自動取引プラットフォーム」が公開（中 Shanghai Yingshou Information Technology Co., Ltd.社）",https://aiboom.net/archives/41073,aidb
+2020-09-02,臭いからカビを発見する人工鼻　機械学習でリンゴを診断【AI×食品】（論文解説）,https://aiboom.net/archives/39871,aidb
 2020-09-01,「物流業界の株価」を機械学習で予測。その流れを解説（AI×金融）【論文】,https://aiboom.net/archives/40075,aidb
 2020-09-01,AIで住宅設計を可能に。テキストから3Dモデルを作る技術が発表された【CVPR2020】,https://aiboom.net/archives/40746,aidb
 2020-09-01,"特許「センサーで屋内の高齢者の行動を監視するAI」が公開（米Totemic Labs, Inc社）",https://aiboom.net/archives/40608,aidb
@@ -582,9 +582,9 @@ date,title,link,source
 2020-08-16,「普段の音との違い」から異常音を見分けるAIが登場（AI×製造）【論文】,https://aiboom.net/archives/38572,aidb
 2020-08-15,上場企業の倒産リスクを予測する手法（AI×金融）【論文】,https://aiboom.net/archives/38594,aidb
 2020-08-15,COVID-19対策をうたう不正商品を検出！（新型コロナ研究紹介）,https://aiboom.net/archives/39407,aidb
-2020-08-14,【AI実装コード解説】「産業の排出煙を認識」(後編)物体認識レクチャー#2,https://aiboom.net/archives/36880,aidb
 2020-08-14,貸したお金は返ってくるんですか!?AIで予測（AI×金融）【論文】,https://aiboom.net/archives/38508,aidb
 2020-08-14,「Q&Aを自動化」できる！実装を試せる「コードありAI論文」5選【週刊】,https://aiboom.net/archives/39550,aidb
+2020-08-14,【AI実装コード解説】「産業の排出煙を認識」(後編)物体認識レクチャー#2,https://aiboom.net/archives/36880,aidb
 2020-08-13,「キャベツ苗の欠陥を識別！」現場にコミットする機械学習ノート【vol.14】,https://aiboom.net/archives/37927,aidb
 2020-08-12,ディープラーニングで「イチゴの数を」正確に把握！鍵は「オルソ画像」（AI×農業）【論文】,https://aiboom.net/archives/38512,aidb
 2020-08-12,スクエニ、ゲームキャラを操る高精度なAIを開発！ほか　最新の「AI特許」5選【週刊】,https://aiboom.net/archives/39450,aidb
@@ -594,9 +594,9 @@ date,title,link,source
 2020-08-09,荷物はいつ届く？複雑な輸送時間をAIで予測（AI×製造）【論文】,https://aiboom.net/archives/37579,aidb
 2020-08-08,AIでマスク・ソーシャルディスタンス監視、アラート発令？（新型コロナ研究）,https://aiboom.net/archives/39125,aidb
 2020-08-08,お盆ラッシュで需要？高速道路の舗装状態をAIで自動評価（AI×都市）【論文】,https://aiboom.net/archives/37734,aidb
+2020-08-07,教師なし学習で織物の欠陥を高精度検出！モデル「MSCDAE」（AI×製造）【論文】,https://aiboom.net/archives/37961,aidb
 2020-08-07,「音声翻訳」が誰でも試せる！実装を試せる「コードありＡＩ論文」5選【週刊】,https://aiboom.net/archives/38603,aidb
 2020-08-07,【AI実装コード解説】「産業の排出煙を認識」(前編)物体認識レクチャー#1,https://aiboom.net/archives/32831,aidb
-2020-08-07,教師なし学習で織物の欠陥を高精度検出！モデル「MSCDAE」（AI×製造）【論文】,https://aiboom.net/archives/37961,aidb
 2020-08-06,「衛星データとGoogle Earth エンジンで洪水を把握」現場にコミットする機械学習ノート【vol.12】,https://aiboom.net/archives/37177,aidb
 2020-08-05,どんな環境でも作物を認識するためのAI技術「FNFアルゴリズム」（AI×農業）【論文】,https://aiboom.net/archives/37735,aidb
 2020-08-04,株価を最も正確に予測できるアルゴリズムは？比較してみた結果・・・（AI×金融）【論文】,https://aiboom.net/archives/37304,aidb
@@ -723,9 +723,9 @@ date,title,link,source
 2020-06-04,緑内障って手軽に分かる？ディープラーニングで検証 （AI×医療）【論文】,https://aiboom.net/archives/28178,aidb
 2020-06-03,新型コロナ感染防止策への「国民の納得度」わかる？Twitter分析（AI×ウェブ）【論文】,https://aiboom.net/archives/28112,aidb
 2020-06-03,入院から退院までモニタリング!?他　注目の「医療AI特許」5選,https://aiboom.net/archives/29877,aidb
+2020-06-02,COVID-19へのAI活用の進捗は？最新研究紹介【メディカルAI・今週の5本】（2020年6月第1週版）,https://aiboom.net/archives/29495,aidb
 2020-06-02,AIによる「電力予測」どこまで進んでる？研究事例まとめ,https://aiboom.net/archives/28019,aidb
 2020-06-02,「食べ物が飲み込めない」障害を調べられる？ディープラーニングで嚥下診断（AI×医療）【論文】,https://aiboom.net/archives/19396,aidb
-2020-06-02,COVID-19へのAI活用の進捗は？最新研究紹介【メディカルAI・今週の5本】（2020年6月第1週版）,https://aiboom.net/archives/29495,aidb
 2020-06-01,皮膚がんのリスクは見抜ける？ディープラーニングで検証（AI×医療）【論文】,https://aiboom.net/archives/28343,aidb
 2020-06-01,あなたは「生物学的」には何歳？AIで推定（AI×医療）【論文】,https://aiboom.net/archives/27305,aidb
 2020-06-01,AIで薬の予期せぬターゲット発見？他　創薬AIの最新研究5選,https://aiboom.net/archives/28870,aidb
@@ -776,22 +776,49 @@ date,title,link,source
 2020-05-09,エネルギー管理システムに使える電力需要予測法を開発！（AI×環境）【論文】,https://aiboom.net/archives/24208,aidb
 2020-05-08,動物園がAIでもっと楽しくなる!? 「注目のAI特許」今週の5本（2020年5月第2週版）,https://aiboom.net/archives/27041,aidb
 2020-05-08,電力需要予測、もっと精度を上げるには？（AI×環境）【論文】,https://aiboom.net/archives/24396,aidb
-2020-05-07,「活性化関数」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/27011,aidb
-2020-05-07,「ブースティングとバギング」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/27007,aidb
-2020-05-07,「損失関数」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/27017,aidb
-2020-05-07,「平均二乗誤差（MSE）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/27022,aidb
 2020-05-07,製造業を変えるかもしれないＡＩ応用技術 #今週の5本（2020年5月第2週版）,https://aiboom.net/archives/26647,aidb
 2020-05-07,「ディープニューラルネットワーク（DNN）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/27031,aidb
 2020-05-07,「グラフ」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26474,aidb
 2020-05-07,運転中の眠気をAIがリアルタイムで判定（AI×都市）【論文】,https://aiboom.net/archives/24382,aidb
-2020-05-06,危険なクレーンから作業員を守るには？（AI×都市）【論文】,https://aiboom.net/archives/24517,aidb
+2020-05-07,「活性化関数」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/27011,aidb
+2020-05-07,「ブースティングとバギング」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/27007,aidb
+2020-05-07,「損失関数」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/27017,aidb
+2020-05-07,「平均二乗誤差（MSE）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/27022,aidb
 2020-05-06,【インタビュー】東大生AIライター小原大智が”DX”で起業。,https://aiboom.net/archives/24215,aidb
 2020-05-06,【論文実装】今週取り組むべき5本（2020年5月第2週版）初学者でも機械学習が可能にー。,https://aiboom.net/archives/26678,aidb
+2020-05-06,危険なクレーンから作業員を守るには？（AI×都市）【論文】,https://aiboom.net/archives/24517,aidb
 2020-05-05,顔を見れば睡眠の質が分かる!?「メディカルAI」最新研究5本（2020年5月第2週版）,https://aiboom.net/archives/26203,aidb
 2020-05-05,みんな、肥満の何に関心がある？ ビッグデータで解析した驚きの結果（AI×ヘルスケア）【論文】,https://aiboom.net/archives/24641,aidb
 2020-05-04,夜間の侵入を警告！暗くても人が見える監視システム（AI×セキュリティ）【論文】,https://aiboom.net/archives/24108,aidb
 2020-05-03,生き延びる治療法を選ぶには？AIでがんの生存予測（AI×医療）【論文】,https://aiboom.net/archives/24339,aidb
 2020-05-02,紛れ込む「危険なハーブ」、AIは見分けられるか？（AI×医療）【論文】,https://aiboom.net/archives/23524,aidb
+2020-05-01,「アーキテクチャ」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26562,aidb
+2020-05-01,「半教師あり学習」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26543,aidb
+2020-05-01,カーブでの交通事故はなぜ起こる？AIが要因を解明（AI×都市）【論文】,https://aiboom.net/archives/23468,aidb
+2020-05-01,AIが自宅で虫歯チェック!?「注目のAI特許」今週の5本（2020年5月第1週版）,https://aiboom.net/archives/26045,aidb
+2020-05-01,「マシンビジョン」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26598,aidb
+2020-05-01,「光学文字認識（OCR）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26261,aidb
+2020-05-01,「PyTorch」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26256,aidb
+2020-05-01,「AdaBoost」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26552,aidb
+2020-05-01,「誤差逆伝播法（BP）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26548,aidb
+2020-05-01,「コンピュータビジョン」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26602,aidb
+2020-05-01,「TF-IDF」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26539,aidb
+2020-05-01,「ラッソ回帰」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26416,aidb
+2020-05-01,「セグメンテーション」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26353,aidb
+2020-05-01,「平均絶対誤差（MAE）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26526,aidb
+2020-05-01,「オントロジー」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26556,aidb
+2020-05-01,「単純ベイズ分類器（NBC）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26522,aidb
+2020-05-01,「ロジスティック回帰（LR）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26336,aidb
+2020-05-01,「オートエンコーダ（AE）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26329,aidb
+2020-05-01,「XGBoost」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26383,aidb
+2020-05-01,「正規化」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26401,aidb
+2020-05-01,「リッジ回帰」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26421,aidb
+2020-05-01,「主成分分析（PCA）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26451,aidb
+2020-05-01,「特徴量」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26406,aidb
+2020-05-01,「スマートグリッド」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26610,aidb
+2020-05-01,「敵対的生成ネットワーク（GAN）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26269,aidb
+2020-05-01,「磁気共鳴画像（MRI）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26447,aidb
+2020-05-01,「平均絶対パーセント誤差（MAPE）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26531,aidb
 2020-05-01,「転移学習」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26578,aidb
 2020-05-01,「アノテーション」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26297,aidb
 2020-05-01,「自然言語処理（NLP）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26319,aidb
@@ -803,24 +830,23 @@ date,title,link,source
 2020-05-01,「YOLOv3」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26302,aidb
 2020-05-01,「過学習」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26427,aidb
 2020-05-01,「グラウンドトゥルース」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26293,aidb
-2020-05-01,「二乗平均平方根誤差（RMSE）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26358,aidb
-2020-05-01,「コンピュータビジョン」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26602,aidb
-2020-05-01,「バイナリ」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26314,aidb
-2020-05-01,「コーパス」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26324,aidb
-2020-05-01,「トピック分析」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26501,aidb
-2020-05-01,「交差検証」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26586,aidb
-2020-05-01,「バッチサイズ」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26582,aidb
-2020-05-01,「GPU」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26570,aidb
-2020-05-01,「多変量」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26367,aidb
-2020-05-01,「線形回帰」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26362,aidb
-2020-05-01,「平均絶対パーセント誤差（MAPE）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26531,aidb
-2020-05-01,「セグメンテーション」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26353,aidb
-2020-05-01,「アーキテクチャ」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26562,aidb
-2020-05-01,「磁気共鳴画像（MRI）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26447,aidb
-2020-05-01,「平均絶対誤差（MAE）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26526,aidb
-2020-05-01,「敵対的生成ネットワーク（GAN）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26269,aidb
-2020-05-01,「スマートグリッド」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26610,aidb
+2020-05-01,「変分オートエンコーダ（VAE）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26477,aidb
+2020-05-01,「エポック」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26594,aidb
+2020-05-01,「勾配ブースティング（GB）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26343,aidb
+2020-05-01,「隠れマルコフモデル（HMM）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26412,aidb
+2020-05-01,「ルールベース」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26614,aidb
+2020-05-01,「感情分析」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26497,aidb
+2020-05-01,「マルチスペクトル」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26485,aidb
+2020-05-01,「Raspberry Pi」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26439,aidb
+2020-05-01,「AUC」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26250,aidb
+2020-05-01,「線形判別分析（LDA）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26566,aidb
+2020-05-01,「相関係数」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26481,aidb
+2020-05-01,「分類子」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26510,aidb
+2020-05-01,「TensorFlow」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26493,aidb
+2020-05-01,「VGG」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26287,aidb
+2020-05-01,「機械的特性」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26606,aidb
 2020-05-01,「チューニング」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26461,aidb
+2020-05-01,「ロバスト」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26590,aidb
 2020-05-01,「決定係数（R2）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26434,aidb
 2020-05-01,「多層パーセプトロン（MLP）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26372,aidb
 2020-05-01,「サンプリング」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26518,aidb
@@ -831,64 +857,38 @@ date,title,link,source
 2020-05-01,「スライディングウィンドウ」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26349,aidb
 2020-05-01,「アンサンブル学習」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26456,aidb
 2020-05-01,「3Dモデリング」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26378,aidb
-2020-05-01,「隠れマルコフモデル（HMM）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26412,aidb
-2020-05-01,「ロバスト」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26590,aidb
-2020-05-01,「勾配ブースティング（GB）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26343,aidb
-2020-05-01,「変分オートエンコーダ（VAE）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26477,aidb
-2020-05-01,「ラッソ回帰」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26416,aidb
-2020-05-01,「オントロジー」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26556,aidb
-2020-05-01,「単純ベイズ分類器（NBC）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26522,aidb
-2020-05-01,「ロジスティック回帰（LR）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26336,aidb
-2020-05-01,「オートエンコーダ（AE）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26329,aidb
-2020-05-01,「XGBoost」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26383,aidb
-2020-05-01,「正規化」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26401,aidb
-2020-05-01,「リッジ回帰」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26421,aidb
-2020-05-01,「主成分分析（PCA）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26451,aidb
-2020-05-01,「特徴量」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26406,aidb
-2020-05-01,「TF-IDF」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26539,aidb
-2020-05-01,カーブでの交通事故はなぜ起こる？AIが要因を解明（AI×都市）【論文】,https://aiboom.net/archives/23468,aidb
-2020-05-01,AIが自宅で虫歯チェック!?「注目のAI特許」今週の5本（2020年5月第1週版）,https://aiboom.net/archives/26045,aidb
-2020-05-01,「マシンビジョン」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26598,aidb
-2020-05-01,「光学文字認識（OCR）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26261,aidb
-2020-05-01,「PyTorch」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26256,aidb
-2020-05-01,「AdaBoost」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26552,aidb
-2020-05-01,「誤差逆伝播法（BP）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26548,aidb
-2020-05-01,「半教師あり学習」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26543,aidb
-2020-05-01,「エポック」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26594,aidb
+2020-05-01,「二乗平均平方根誤差（RMSE）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26358,aidb
 2020-05-01,「Transformer」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26535,aidb
-2020-05-01,「ルールベース」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26614,aidb
-2020-05-01,「機械的特性」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26606,aidb
-2020-05-01,「VGG」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26287,aidb
-2020-05-01,「TensorFlow」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26493,aidb
-2020-05-01,「分類子」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26510,aidb
-2020-05-01,「相関係数」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26481,aidb
-2020-05-01,「線形判別分析（LDA）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26566,aidb
-2020-05-01,「AUC」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26250,aidb
-2020-05-01,「Raspberry Pi」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26439,aidb
-2020-05-01,「マルチスペクトル」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26485,aidb
-2020-05-01,「感情分析」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26497,aidb
-2020-04-30,「サポートベクターマシン（SVM）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26152,aidb
-2020-04-30,「決定木（DT）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26121,aidb
+2020-05-01,「多変量」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26367,aidb
+2020-05-01,「GPU」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26570,aidb
+2020-05-01,「バッチサイズ」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26582,aidb
+2020-05-01,「交差検証」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26586,aidb
+2020-05-01,「トピック分析」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26501,aidb
+2020-05-01,「コーパス」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26324,aidb
+2020-05-01,「バイナリ」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26314,aidb
+2020-05-01,「線形回帰」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26362,aidb
 2020-04-30,「k近傍法（KNN）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26147,aidb
-2020-04-30,「人工ニューラルネットワーク（ANN）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26187,aidb
-2020-04-30,「畳み込みニューラルネットワーク（CNN）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26183,aidb
 2020-04-30,「ROC曲線」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26156,aidb
-2020-04-30,「scikit-learn」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26161,aidb
-2020-04-30,「k平均法（k-means法）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26192,aidb
-2020-04-30,「RNN」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26169,aidb
 2020-04-30,「MobileNet」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26179,aidb
-2020-04-30,「ニューラルネットワーク（NN）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26117,aidb
+2020-04-30,「k平均法（k-means法）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26192,aidb
+2020-04-30,「scikit-learn」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26161,aidb
+2020-04-30,「サポートベクターマシン（SVM）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26152,aidb
+2020-04-30,「人工ニューラルネットワーク（ANN）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26187,aidb
+2020-04-30,「RNN」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26169,aidb
+2020-04-30,「決定木（DT）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26121,aidb
 2020-04-30,「LSTM」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26165,aidb
-2020-04-30,「適合率」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26103,aidb
-2020-04-30,【今週の5本】製造業を変えるAI「3Dプリンター」（2020年4月第5週版）,https://aiboom.net/archives/25183,aidb
-2020-04-30,「強化学習」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26125,aidb
-2020-04-30,「F1スコア（F値）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26112,aidb
 2020-04-30,「トピックモデル」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26107,aidb
-2020-04-30,「ReLU」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26198,aidb
-2020-04-30,製造業界のイノベーションに必要な知識を収集するには？（AI×製造）【論文】,https://aiboom.net/archives/23461,aidb
+2020-04-30,「畳み込みニューラルネットワーク（CNN）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26183,aidb
+2020-04-30,「ニューラルネットワーク（NN）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26117,aidb
 2020-04-30,「セマンティック」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26143,aidb
-2020-04-30,「再現率（REC）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26095,aidb
+2020-04-30,「ReLU」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26198,aidb
 2020-04-30,「ランダムフォレスト（RF）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26130,aidb
+2020-04-30,「強化学習」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26125,aidb
+2020-04-30,【今週の5本】製造業を変えるAI「3Dプリンター」（2020年4月第5週版）,https://aiboom.net/archives/25183,aidb
+2020-04-30,「適合率」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26103,aidb
+2020-04-30,「再現率（REC）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26095,aidb
+2020-04-30,「F1スコア（F値）」とは？意味をサクっと解説！【AI用語集】,https://aiboom.net/archives/26112,aidb
+2020-04-30,製造業界のイノベーションに必要な知識を収集するには？（AI×製造）【論文】,https://aiboom.net/archives/23461,aidb
 2020-04-29,【論文実装】今週取り組むべき5本（2020年4月第5週版）AIによる手話の翻訳ー。,https://aiboom.net/archives/25330,aidb
 2020-04-29,工場で作業員の安全を確保するには？（AI×製造）【論文】,https://aiboom.net/archives/23594,aidb
 2020-04-28,パートナーの暴力再犯をAIで予測できるか（AI×メンタルヘルス）【論文】,https://aiboom.net/archives/23598,aidb
@@ -976,9 +976,9 @@ date,title,link,source
 2020-03-20,ＡＩで創薬スピードアップか。分子の形から治療効果を予測（AI×医療）【論文】,https://aiboom.net/archives/4748,aidb
 2020-03-19,英語以外のマイナー言語が正確に機械翻訳される未来は来るか（AI×教育）【論文】,https://aiboom.net/archives/19042,aidb
 2020-03-19,【今週の5本】週明けまでにキャッチアップしたい「新着AI関連特許」（2020年3月第3週版）,https://aiboom.net/archives/21315,aidb
+2020-03-18,動画中から”難関”アラビア語の抽出なるか（AI×エンタメ）【論文】,https://aiboom.net/archives/19050,aidb
 2020-03-18,【今週の5本】今すぐ知るべき製造AI最新研究（2020年3月第3週版）,https://aiboom.net/archives/21222,aidb
 2020-03-18,金融資産の価値は政治に左右されてしまうのか。ＡＩで分析（AI×金融）【論文】,https://aiboom.net/archives/19316,aidb
-2020-03-18,動画中から”難関”アラビア語の抽出なるか（AI×エンタメ）【論文】,https://aiboom.net/archives/19050,aidb
 2020-03-17,「死を予測するAI」は、がん患者の終末期を幸せにするか（AI×医療）【論文】,https://aiboom.net/archives/20348,aidb
 2020-03-17,【今週の5本】「メディカルAI」最新研究紹介（2020年3月第3週版）,https://aiboom.net/archives/20510,aidb
 2020-03-16,新型コロナの動きを追えるか。ＡＩによる地域別リスクマップ（AI×医療）【論文】,https://aiboom.net/archives/19315,aidb
@@ -1144,9 +1144,9 @@ date,title,link,source
 2019-12-02,世界的ベスト顔認識AIソフトウェア８選,https://aiboom.net/archives/11242,aidb
 2019-12-01,人間が楽しめる「落語」音声を合成（AI×エンタメ）【論文】,https://aiboom.net/archives/10717,aidb
 2019-12-01,「AI×釣り」特集！記事一覧,https://aiboom.net/archives/16496,aidb
+2019-11-30,アディダスと共同開発！膨大なアパレル製品を機械が分類（AI×小売）【論文】,https://aiboom.net/archives/10806,aidb
 2019-11-30,「StyleGAN」特集！記事一覧,https://aiboom.net/archives/16461,aidb
 2019-11-30,「AIアプリやってみた」特集！記事一覧,https://aiboom.net/archives/16486,aidb
-2019-11-30,アディダスと共同開発！膨大なアパレル製品を機械が分類（AI×小売）【論文】,https://aiboom.net/archives/10806,aidb
 2019-11-29,非プログラマー向けの材料開発AIツールの開発【AI論文】,https://aiboom.net/archives/10815,aidb
 2019-11-29,東大生AI初心者の学習日誌 Day3「多項式曲線フィッティングと過学習」,https://aiboom.net/archives/10837,aidb
 2019-11-28,魚の声から魚種を予測！「AI搭載型ルアー」で爆釣も夢じゃない？（AI×レジャー）【論文】,https://aiboom.net/archives/10762,aidb
@@ -1180,9 +1180,9 @@ date,title,link,source
 2019-11-07,「ビジネスよりも、役に立つ研究をしたい」魅力工学の研究者・山崎俊彦先生インタビュー【AI研究者紹介Vol.1】,https://aiboom.net/archives/7002,aidb
 2019-11-06,何社知ってる？AI投資トップ10（2019年10月）,https://aiboom.net/archives/8518,aidb
 2019-11-06,SNSから「最新」情報　災害リスク回避へ【AI論文】,https://aiboom.net/archives/7203,aidb
-2019-11-05,「知性とは何か」解明できるか -MIT（AI×教育）【論文】,https://aiboom.net/archives/8229,aidb
 2019-11-05,世間のTweetからスタートアップの成功を占うことはできるか（AI×ウェブ）【論文】,https://aiboom.net/archives/8330,aidb
 2019-11-05,AIに子供の手術を任せられますか？2000人調査結果発表,https://aiboom.net/archives/8312,aidb
+2019-11-05,「知性とは何か」解明できるか -MIT（AI×教育）【論文】,https://aiboom.net/archives/8229,aidb
 2019-11-04,監査業務のAI化へ　データサイエンス技術不要のプラットフォーム発表,https://aiboom.net/archives/8197,aidb
 2019-11-04,飲み水の需要は予知できるか【AI論文】,https://aiboom.net/archives/6391,aidb
 2019-11-03,最高品質のコーヒー豆を探せ！【AI論文】,https://aiboom.net/archives/7864,aidb
@@ -1210,10 +1210,10 @@ date,title,link,source
 2019-10-24,心理テストとAIで生徒の成績を予測（AI×教育）【論文】,https://aiboom.net/archives/6512,aidb
 2019-10-23,癌早期発見にAI活用　英企業が2200万ドルの資金調達を実施,https://aiboom.net/archives/6562,aidb
 2019-10-23,次世代プロセッサ開発 イスラエルAIスタートアップが2100万ドル調達,https://aiboom.net/archives/6569,aidb
-2019-10-22,2035年、AI市場は14兆ドルになる（アクセンチュア）,https://aiboom.net/archives/6500,aidb
-2019-10-22,その無人航空機が衝突しない理由とは【AI論文】,https://aiboom.net/archives/5799,aidb
 2019-10-22,国内観光者数を高度に予測（ギリシャ）【AI論文】,https://aiboom.net/archives/6372,aidb
+2019-10-22,その無人航空機が衝突しない理由とは【AI論文】,https://aiboom.net/archives/5799,aidb
 2019-10-22,"小売業に3,400億ドルの利益増（AI市場レポート）",https://aiboom.net/archives/6487,aidb
+2019-10-22,2035年、AI市場は14兆ドルになる（アクセンチュア）,https://aiboom.net/archives/6500,aidb
 2019-10-21,映画レビューの感情面を読み取る【AI論文】,https://aiboom.net/archives/6205,aidb
 2019-10-21,銀行業むけAI市場は2030年までに30兆円に（調査会社）,https://aiboom.net/archives/6449,aidb
 2019-10-21,特殊アルゴリズムで新材料開発を助ける（韓国）【AI論文】,https://aiboom.net/archives/5786,aidb
@@ -1249,9 +1249,9 @@ date,title,link,source
 2019-10-03,元マイクロソフトのAI企業役員が語る「データサイエンティストほどAIに不満な者はいないかも」,https://aiboom.net/archives/5549,aidb
 2019-10-02,「アリババAIがついてる」中国スタートアップ、レベル3自動運転でテスラを出し抜く,https://aiboom.net/archives/5496,aidb
 2019-10-02,材料のナノスケール結晶欠陥を自動特定（米）【AI論文】,https://aiboom.net/archives/5444,aidb
+2019-10-01,偽物の紙幣を高速認識（韓国）【AI論文】,https://aiboom.net/archives/5428,aidb
 2019-10-01,98%の正確性で建造物の劣化を特定（英）【AI論文】,https://aiboom.net/archives/5424,aidb
 2019-10-01,「東大生AI初心者じゅんぺーの学習日誌」特集！記事一覧,https://aiboom.net/archives/16465,aidb
-2019-10-01,偽物の紙幣を高速認識（韓国）【AI論文】,https://aiboom.net/archives/5428,aidb
 2019-09-30,鋳造合金の機械的特性の推定とその有効性をパターン認識（イタリア）【AI論文】,https://aiboom.net/archives/4862,aidb
 2019-09-30,AI用ハードウェアの需要が本格化してゆく,https://aiboom.net/archives/5466,aidb
 2019-09-29,ガスリフト式オイル採集をESNを用いて効率化（ブラジル）【AI論文】,https://aiboom.net/archives/5046,aidb
@@ -1299,9 +1299,9 @@ date,title,link,source
 2019-09-08,ディープラーニングで製造業の設計効率が変わってゆく？品質試験の予測AI【AI論文】,https://aiboom.net/archives/4434,aidb
 2019-09-08,やりすぎ？中国の大学生はAIで行動監視されているらしい。,https://aiboom.net/archives/4551,aidb
 2019-09-08,「スマート製造」？人工知能の産業利用【AI論文】,https://aiboom.net/archives/4025,aidb
-2019-09-07,コンテンツ分析ツールの新潮流！？SDLがAI搭載版を発表！,https://aiboom.net/archives/4534,aidb
 2019-09-07,無人航空ロボットで地上を監視【AI論文】,https://aiboom.net/archives/4475,aidb
 2019-09-07,AIを誤って使用するリスク、考えたことありますか？,https://aiboom.net/archives/4420,aidb
+2019-09-07,コンテンツ分析ツールの新潮流！？SDLがAI搭載版を発表！,https://aiboom.net/archives/4534,aidb
 2019-09-06,新しい単語でも特徴検出！？自然言語処理の新手法【AI論文】,https://aiboom.net/archives/4087,aidb
 2019-09-06,スキーができるロボット挑戦中！くぐれるかゲート【AI論文】,https://aiboom.net/archives/3580,aidb
 2019-09-06,NASA科学者がIoTについて語る,https://aiboom.net/archives/4429,aidb
@@ -1311,14 +1311,14 @@ date,title,link,source
 2019-09-04,Eyes of Things？！ 感情を理解する人形【AI論文】,https://aiboom.net/archives/4030,aidb
 2019-09-04,無人航空機で「リアルタイムに対象を把握する」アルゴリズムが開発された。（AI×ドローン）【論文】,https://aiboom.net/archives/4060,aidb
 2019-09-04,「音声データは大事」、だがAI搭載オーディオデバイスも必要だ,https://aiboom.net/archives/4074,aidb
-2019-09-03,AI時代のプライバシー　−中国の場合−,https://aiboom.net/archives/4001,aidb
 2019-09-03,自動運転車は駐車もこなす！！LiDARの活用で！【AI論文】,https://aiboom.net/archives/4037,aidb
-2019-09-03,顔認識の超解像度！ブレークスルーに刮目せよ,https://aiboom.net/archives/4061,aidb
+2019-09-03,AI時代のプライバシー　−中国の場合−,https://aiboom.net/archives/4001,aidb
 2019-09-03,押さえておきたいloT時代のサイバーセキュリティ問題！【AI論文】,https://aiboom.net/archives/4031,aidb
+2019-09-03,顔認識の超解像度！ブレークスルーに刮目せよ,https://aiboom.net/archives/4061,aidb
 2019-09-02,自動運転技術の発展に貢献！新しい障害物検知の手法とは【AI論文】,https://aiboom.net/archives/3966,aidb
+2019-09-02,ソフトバンクビジョンファンド２「AIへの熱狂」,https://aiboom.net/archives/3991,aidb
 2019-09-02,見逃しておけない、自然言語処理AI＆光学式文字認識。”コラボ”の恩恵とは？,https://aiboom.net/archives/3982,aidb
 2019-09-02,道路環境の情報分析術【AI論文】,https://aiboom.net/archives/3920,aidb
-2019-09-02,ソフトバンクビジョンファンド２「AIへの熱狂」,https://aiboom.net/archives/3991,aidb
 2019-09-01,AI勃興時代に人間の出る幕とは？,https://aiboom.net/archives/3896,aidb
 2019-09-01,自動運転車が自らの位置を特定するのにディープラーニングが有効！【AI論文】,https://aiboom.net/archives/3538,aidb
 2019-09-01,NVIDIAのオープンソース・ディープラーニングがAI革命を推進！,https://aiboom.net/archives/3894,aidb
@@ -1330,24 +1330,24 @@ date,title,link,source
 2019-08-31,ミニチュアAIプラットフォーム！,https://aiboom.net/archives/3654,aidb
 2019-08-30,災害時、AI搭載の無人航空機で人間を救う！【AI論文】,https://aiboom.net/archives/3747,aidb
 2019-08-30,NVIDIA、収益が減るほどにAIに投資,https://aiboom.net/archives/3825,aidb
+2019-08-30,移動ロボットに視覚と嗅覚の組み合わせ！【AI論文】,https://aiboom.net/archives/3830,aidb
 2019-08-30,石油・ガス産業の変革の AIスタートアップが2000万ドルの資金調達を実施！,https://aiboom.net/archives/3821,aidb
 2019-08-30,航空機内の亀裂診断の精度を向上させる方法！【AI論文】,https://aiboom.net/archives/3517,aidb
-2019-08-30,移動ロボットに視覚と嗅覚の組み合わせ！【AI論文】,https://aiboom.net/archives/3830,aidb
 2019-08-29,“人間の専門知識とアルゴリズムを組み合わせる”Alegion、1200万ドルの資金調達を実施,https://aiboom.net/archives/3650,aidb
 2019-08-29,ディープラーニング×無人航空機【AI論文】,https://aiboom.net/archives/3057,aidb
-2019-08-29,オーストリアの公道における初の自動運転【AI論文】,https://aiboom.net/archives/3606,aidb
-2019-08-29,ロボットが人間の動きを理解するためのアプローチ【AI論文】,https://aiboom.net/archives/3160,aidb
 2019-08-29,AIで製造業に革命をもたらす５つの方法,https://aiboom.net/archives/3714,aidb
 2019-08-29,テキストマイニングで風力発電機の故障状態が分かる？【AI論文】,https://aiboom.net/archives/3112,aidb
 2019-08-29,AIがリサイクル活動を促進する？,https://aiboom.net/archives/3680,aidb
+2019-08-29,オーストリアの公道における初の自動運転【AI論文】,https://aiboom.net/archives/3606,aidb
+2019-08-29,ロボットが人間の動きを理解するためのアプローチ【AI論文】,https://aiboom.net/archives/3160,aidb
 2019-08-28,車の排出量をAIで分類する！ 【AI論文】,https://aiboom.net/archives/3532,aidb
 2019-08-28,“I”IoT (インテリジェントIoT) の実に多岐にわたる有用性について！,https://aiboom.net/archives/3628,aidb
 2019-08-28,視覚情報異常検知。パラメータは自動選択【AI論文】,https://aiboom.net/archives/3475,aidb
-2019-08-27,ブロックチェーンのユニコーン企業”Bitfury”、AI市場に切り込む,https://aiboom.net/archives/3505,aidb
-2019-08-27,あのファーウェイが初めてのAIチップを発売！,https://aiboom.net/archives/3604,aidb
 2019-08-27,ベアリング故障診断AI【AI論文】,https://aiboom.net/archives/3494,aidb
+2019-08-27,ブロックチェーンのユニコーン企業”Bitfury”、AI市場に切り込む,https://aiboom.net/archives/3505,aidb
 2019-08-27,3DプリンティングはAIで進歩！【AI論文】,https://aiboom.net/archives/3515,aidb
 2019-08-27,「私はロボットではありません」そのクリックがAIをつくっていく,https://aiboom.net/archives/3541,aidb
+2019-08-27,あのファーウェイが初めてのAIチップを発売！,https://aiboom.net/archives/3604,aidb
 2019-08-26,史上最大のAIチップ,https://aiboom.net/archives/3477,aidb
 2019-08-26,AI導入に悩んだらするべき6つの良い質問　−40%のAIスタートアップがAIを使っていない事態において,https://aiboom.net/archives/3459,aidb
 2019-08-26,本質的にインタラクティブなロボット【AI論文】,https://aiboom.net/archives/3035,aidb
@@ -1358,11 +1358,11 @@ date,title,link,source
 2019-08-25,微生物燃料電池の育成ロボット「EvoBot」！【人工知能論文】,https://aiboom.net/archives/3327,aidb
 2019-08-25,ロボットの嗅覚開発！【AI論文】,https://aiboom.net/archives/3253,aidb
 2019-08-25,物流企業のAI技術活用【AI論文】,https://aiboom.net/archives/2444,aidb
-2019-08-24,「深度センサー」の深層学習最適化【AI論文】,https://aiboom.net/archives/3290,aidb
 2019-08-24,ドライバーと乗客を自動分類、ながら運転の事故防止！【AI論文】,https://aiboom.net/archives/3189,aidb
-2019-08-24,自動運転用の道路検出および3Dイメージング！ソフト「ダウンロード」リンク有【AI論文】,https://aiboom.net/archives/3315,aidb
-2019-08-24,運転できる場所をベイズで検出する！【AI論文】,https://aiboom.net/archives/3166,aidb
+2019-08-24,「深度センサー」の深層学習最適化【AI論文】,https://aiboom.net/archives/3290,aidb
 2019-08-24,デバイスとセンター間の高速アクセスフレームワーク！【AI論文】,https://aiboom.net/archives/3308,aidb
+2019-08-24,運転できる場所をベイズで検出する！【AI論文】,https://aiboom.net/archives/3166,aidb
+2019-08-24,自動運転用の道路検出および3Dイメージング！ソフト「ダウンロード」リンク有【AI論文】,https://aiboom.net/archives/3315,aidb
 2019-08-23,進化のアルゴリズムを用いたロボットの共同採餌学習【AI論文】,https://aiboom.net/archives/2835,aidb
 2019-08-22,機械学習によるエネルギー分子の特性の予測！【AI論文】,https://aiboom.net/archives/2895,aidb
 2019-08-22,人間とロボットはチームになれるか？答えはイエス【AI論文】,https://aiboom.net/archives/3220,aidb
@@ -1374,33 +1374,33 @@ date,title,link,source
 2019-08-21,自動運転車、果樹園を走る【AI論文】,https://aiboom.net/archives/3103,aidb
 2019-08-21,ロボットと人間の協働ライフ【AI論文】,https://aiboom.net/archives/3115,aidb
 2019-08-21,エネルギー革命！新熱電材料を発見【AI論文】,https://aiboom.net/archives/3073,aidb
-2019-08-20,36万8千の新化合物を発見【AI論文】,https://aiboom.net/archives/3067,aidb
-2019-08-20,高熱伝導高分子の発明。【AI論文】,https://aiboom.net/archives/2994,aidb
-2019-08-20,偽造防止テクノロジー【AI論文】,https://aiboom.net/archives/2519,aidb
 2019-08-20,掘削粉塵予測【AI論文】,https://aiboom.net/archives/3037,aidb
+2019-08-20,高熱伝導高分子の発明。【AI論文】,https://aiboom.net/archives/2994,aidb
+2019-08-20,36万8千の新化合物を発見【AI論文】,https://aiboom.net/archives/3067,aidb
+2019-08-20,偽造防止テクノロジー【AI論文】,https://aiboom.net/archives/2519,aidb
 2019-08-20,ロボティクス・エデュケーション【AI論文】,https://aiboom.net/archives/3059,aidb
 2019-08-19,機械翻訳で認知症を早期発見できる可能性あり【AI論文】,https://aiboom.net/archives/2492,aidb
 2019-08-19,ウェアラブルで快適空間を【AI論文】,https://aiboom.net/archives/2917,aidb
 2019-08-19,自動運転車をサイバー攻撃から守れ！異常検知手法の活躍【AI論文】,https://aiboom.net/archives/2911,aidb
 2019-08-19,失敗は成功の元【AI論文】,https://aiboom.net/archives/2709,aidb
+2019-08-19,トランジスタの新潮流【AI論文】,https://aiboom.net/archives/2924,aidb
 2019-08-19,3D画像の超解像【AI論文】,https://aiboom.net/archives/2699,aidb
 2019-08-19,運転手の疲労が分かる【AI論文】,https://aiboom.net/archives/2951,aidb
-2019-08-19,トランジスタの新潮流【AI論文】,https://aiboom.net/archives/2924,aidb
-2019-08-18,ロボットがロジカルシンキングを手に入れる（AI×ロボット）【論文】,https://aiboom.net/archives/2872,aidb
-2019-08-18,ライドシェアと自動運転車が実現した世界をシミュレートしてみた【AI論文】,https://aiboom.net/archives/2842,aidb
-2019-08-18,安全の確保はAI地図で【AI論文】,https://aiboom.net/archives/2839,aidb
 2019-08-18,電気自動車の充電市場をシミュレートしてみた【AI論文】,https://aiboom.net/archives/2883,aidb
+2019-08-18,ロボットがロジカルシンキングを手に入れる（AI×ロボット）【論文】,https://aiboom.net/archives/2872,aidb
+2019-08-18,安全の確保はAI地図で【AI論文】,https://aiboom.net/archives/2839,aidb
+2019-08-18,ライドシェアと自動運転車が実現した世界をシミュレートしてみた【AI論文】,https://aiboom.net/archives/2842,aidb
 2019-08-18,老人ホームにロボットは普及させられるか（AI×社会）【論文】,https://aiboom.net/archives/2900,aidb
 2019-08-17,IoT時代の所有権トラブル【AI論文】,https://aiboom.net/archives/2621,aidb
-2019-08-17,人工知能はものづくりのプロたり得るか【AI論文】,https://aiboom.net/archives/2676,aidb
-2019-08-17,小さなデータセットでも使えるAI、ステンレス綱の品質向上に【AI論文】,https://aiboom.net/archives/2580,aidb
 2019-08-17,ＡＩはハッカーから車両を救えるか（AI×自動運転）【論文】,https://aiboom.net/archives/2813,aidb
 2019-08-17,衛星システムの穴を越えて自動運転の実現へ【AI論文】,https://aiboom.net/archives/2803,aidb
-2019-08-16,液体はロボットになり得るか。まるでターミネーター（AI×ロボット）【論文】,https://aiboom.net/archives/2697,aidb
-2019-08-16,IoTは便利だが膨大な計算量が問題に！AIで解決【AI論文】,https://aiboom.net/archives/2411,aidb
+2019-08-17,人工知能はものづくりのプロたり得るか【AI論文】,https://aiboom.net/archives/2676,aidb
+2019-08-17,小さなデータセットでも使えるAI、ステンレス綱の品質向上に【AI論文】,https://aiboom.net/archives/2580,aidb
 2019-08-16,カーブ事故から人間を救うためのアルゴリズム登場【AI論文】,https://aiboom.net/archives/2551,aidb
-2019-08-16,人工筋肉ロボットにAIが搭載されてゆく【AI論文】,https://aiboom.net/archives/2604,aidb
+2019-08-16,液体はロボットになり得るか。まるでターミネーター（AI×ロボット）【論文】,https://aiboom.net/archives/2697,aidb
 2019-08-16,ヒューマノイドと人間は共に暮らせるか【AI論文】,https://aiboom.net/archives/2682,aidb
+2019-08-16,IoTは便利だが膨大な計算量が問題に！AIで解決【AI論文】,https://aiboom.net/archives/2411,aidb
+2019-08-16,人工筋肉ロボットにAIが搭載されてゆく【AI論文】,https://aiboom.net/archives/2604,aidb
 2019-08-15,リチウムイオン電池×AI。EV時代のキープレイヤー【AI論文】,https://aiboom.net/archives/2459,aidb
 2019-08-15,太陽電池×AI。設計技術の果てなき進歩【AI論文】,https://aiboom.net/archives/2508,aidb
 2019-08-15,5G時代のAIならドローンをどこまでも追跡できるか（AI×ドローン）【論文】,https://aiboom.net/archives/2574,aidb
@@ -1416,13 +1416,13 @@ date,title,link,source
 2019-08-11,将来の消費電力を予測するAI、誕生【AI論文】,https://aiboom.net/archives/2248,aidb
 2019-08-11,より速い処理をー。自動運転の果てなき進化【AI論文】,https://aiboom.net/archives/2234,aidb
 2019-08-11,レーザーの効率はＡＩで上げられるのか（AI×製造）【論文】,https://aiboom.net/archives/2224,aidb
-2019-08-10,月面でロボットが自ら体を作ることは可能か（AI×ロボット）【論文】,https://aiboom.net/archives/2150,aidb
 2019-08-10,お掃除AIロボットが床ゴミをスキャン【AI論文】,https://aiboom.net/archives/2199,aidb
 2019-08-10,ディープラーニング×板金の世界。職人技をAIで継承できるか【AI論文】,https://aiboom.net/archives/2188,aidb
+2019-08-10,月面でロボットが自ら体を作ることは可能か（AI×ロボット）【論文】,https://aiboom.net/archives/2150,aidb
 2019-08-09,子供の闘争は、医療におけるAIの可能性をもたらす,https://aiboom.net/archives/1964,aidb
+2019-08-09,AIで自動車産業のグローバルバリューチェーンを予測！【AI論文】,https://aiboom.net/archives/2169,aidb
 2019-08-09,ディープラーニングで道路識別！【AI論文】,https://aiboom.net/archives/2114,aidb
 2019-08-09,車同士がネットワークで繋がるって本当か（AI×自動車）【論文】,https://aiboom.net/archives/2137,aidb
-2019-08-09,AIで自動車産業のグローバルバリューチェーンを予測！【AI論文】,https://aiboom.net/archives/2169,aidb
 2019-08-08,AIは入院患者の予期せぬ死亡を警告するシステムを強化する,https://aiboom.net/archives/1871,aidb
 2019-08-08,決済不能リスクに対峙するAI【AI論文】,https://aiboom.net/archives/1982,aidb
 2019-08-08,有名な「ロボット3原則」モデル化できるか（AI×ロボット）【論文】,https://aiboom.net/archives/1854,aidb
@@ -1513,13 +1513,13 @@ date,title,link,source
 2019-07-02,アプリを流行らすために取るべき戦略をＡＩで分析（AI×ウェブ）【論文】,https://aiboom.net/archives/622,aidb
 2019-07-02,股関節手術後の患者をAIで助けたい！,https://aiboom.net/archives/640,aidb
 2019-07-02,精密医学、ビッグデータ活用で遂に実現するか（AI×医療）【論文】,https://aiboom.net/archives/633,aidb
-2019-07-01,AIで高脂血症にきづけ！【AI論文】,https://aiboom.net/archives/454,aidb
-2019-07-01,消化器疾患を救うAIアプリスタートアップ700万ドルを調達！,https://aiboom.net/archives/451,aidb
-2019-07-01,AI小児科医、どれほど優秀か？,https://aiboom.net/archives/463,aidb
-2019-07-01,1億ドルの設備投資、AI医療にアクセル -マンハッタン,https://aiboom.net/archives/542,aidb
-2019-07-01,アフリカでAIが何に使えるか？,https://aiboom.net/archives/469,aidb
-2019-07-01,AIは産後うつ病を救えるか？ −ケニア医療の先進的挑戦,https://aiboom.net/archives/513,aidb
-2019-07-01,機械学習で、パーキンソン病を遠隔モニタリング！AIのヘルスケア応用最先端【AI論文】,https://aiboom.net/archives/438,aidb
+2019-07-01,心臓病の新しい見つけ方。データ・マイニングとランダムフォレスト【AI論文】,https://aiboom.net/archives/591,aidb
+2019-07-01,ヘルスケアでAIが巨大なインパクトを与えられる領域と、そうでもない領域,https://aiboom.net/archives/435,aidb
+2019-07-01,AIで愚かな眼球手術を阻止！！,https://aiboom.net/archives/503,aidb
+2019-07-01,ディープラーニングで神経膠腫の画像診断の困難性を解決！腫瘍の治療と研究への貢献に期待 （AI×医療）【論文】,https://aiboom.net/archives/566,aidb
+2019-07-01,AIが虫由来の病気を明らかにする！,https://aiboom.net/archives/490,aidb
+2019-07-01,AIがSNS上で「うつ病を早期発見」する,https://aiboom.net/archives/427,aidb
+2019-07-01,福祉ロボットの”感情的知性”は、介護者の振る舞いを変えるらしい。,https://aiboom.net/archives/539,aidb
 2019-07-01,インスタグラムで横行の麻薬取引、AIで発見される。,https://aiboom.net/archives/517,aidb
 2019-07-01,ディープラーニングが癌治療を強力にサポート！転移性癌患者の生存確率を予測（AI×医療）【論文】,https://aiboom.net/archives/573,aidb
 2019-07-01,良性の乳がんをAIで判別。悲劇をなくせ,https://aiboom.net/archives/441,aidb
@@ -1527,22 +1527,22 @@ date,title,link,source
 2019-07-01,健康保険テクノロジー企業が2億5百万ドルを調達,https://aiboom.net/archives/483,aidb
 2019-07-01,精神病の前兆は分かりづらい。だからこそ、AIに期待したい。,https://aiboom.net/archives/520,aidb
 2019-07-01,がん患者と臨床試験のAIマッチングが研究されているらしい。,https://aiboom.net/archives/460,aidb
-2019-07-01,がん患者の「孤独」を救うテクノロジーとは？,https://aiboom.net/archives/424,aidb
-2019-07-01,AIで愚かな眼球手術を阻止！！,https://aiboom.net/archives/503,aidb
-2019-07-01,AIが看護師の仕事に光を照らす,https://aiboom.net/archives/457,aidb
-2019-07-01,"神経医学のAIプラットフォームのスタートアップが7,600万ドルを調達",https://aiboom.net/archives/536,aidb
-2019-07-01,ニューラルネットワークの応用技術『MMSplice』でヒトの遺伝的変異の影響を予測？（AI×医療）【論文】,https://aiboom.net/archives/548,aidb
-2019-07-01,こどもの咳音から呼吸器疾患を特定するAI、オーストラリアの研究者が開発！,https://aiboom.net/archives/532,aidb
-2019-07-01,福祉ロボットの”感情的知性”は、介護者の振る舞いを変えるらしい。,https://aiboom.net/archives/539,aidb
-2019-07-01,AIがSNS上で「うつ病を早期発見」する,https://aiboom.net/archives/427,aidb
-2019-07-01,心臓病の新しい見つけ方。データ・マイニングとランダムフォレスト【AI論文】,https://aiboom.net/archives/591,aidb
-2019-07-01,ディープラーニングで神経膠腫の画像診断の困難性を解決！腫瘍の治療と研究への貢献に期待 （AI×医療）【論文】,https://aiboom.net/archives/566,aidb
-2019-07-01,AIが虫由来の病気を明らかにする！,https://aiboom.net/archives/490,aidb
-2019-07-01,透析医学におけるAIへの期待,https://aiboom.net/archives/526,aidb
 2019-07-01,鎮静状態の患者・・・AIが寝顔をそっと見守る,https://aiboom.net/archives/418,aidb
+2019-07-01,透析医学におけるAIへの期待,https://aiboom.net/archives/526,aidb
+2019-07-01,1億ドルの設備投資、AI医療にアクセル -マンハッタン,https://aiboom.net/archives/542,aidb
 2019-07-01,AIが診断＆治療時間を短縮！,https://aiboom.net/archives/506,aidb
-2019-07-01,ヘルスケアでAIが巨大なインパクトを与えられる領域と、そうでもない領域,https://aiboom.net/archives/435,aidb
 2019-07-01,AI「それアルツハイマー病ですよ！」【AI論文】,https://aiboom.net/archives/447,aidb
 2019-07-01,SNSにAI搭載し見つかる「薬物の有害副作用」【AI論文】,https://aiboom.net/archives/444,aidb
 2019-07-01,分類・治療はAI医療の十八番 -敗血病の場合-,https://aiboom.net/archives/545,aidb
 2019-07-01,皮膚がんは、深層学習で発見可能！,https://aiboom.net/archives/68,aidb
+2019-07-01,アフリカでAIが何に使えるか？,https://aiboom.net/archives/469,aidb
+2019-07-01,AI小児科医、どれほど優秀か？,https://aiboom.net/archives/463,aidb
+2019-07-01,消化器疾患を救うAIアプリスタートアップ700万ドルを調達！,https://aiboom.net/archives/451,aidb
+2019-07-01,AIで高脂血症にきづけ！【AI論文】,https://aiboom.net/archives/454,aidb
+2019-07-01,AIは産後うつ病を救えるか？ −ケニア医療の先進的挑戦,https://aiboom.net/archives/513,aidb
+2019-07-01,こどもの咳音から呼吸器疾患を特定するAI、オーストラリアの研究者が開発！,https://aiboom.net/archives/532,aidb
+2019-07-01,ニューラルネットワークの応用技術『MMSplice』でヒトの遺伝的変異の影響を予測？（AI×医療）【論文】,https://aiboom.net/archives/548,aidb
+2019-07-01,機械学習で、パーキンソン病を遠隔モニタリング！AIのヘルスケア応用最先端【AI論文】,https://aiboom.net/archives/438,aidb
+2019-07-01,AIが看護師の仕事に光を照らす,https://aiboom.net/archives/457,aidb
+2019-07-01,"神経医学のAIプラットフォームのスタートアップが7,600万ドルを調達",https://aiboom.net/archives/536,aidb
+2019-07-01,がん患者の「孤独」を救うテクノロジーとは？,https://aiboom.net/archives/424,aidb
