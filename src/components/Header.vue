@@ -18,16 +18,16 @@ const title: string = "TECH NEWS LINKS";
   top: 0;
   background-color: black;
   width: 100%;
-  opacity: 0.7;
+  opacity: 0.8;
 }
 
 .header-content {
-  padding: 0.2rem;
+  padding-left: 1rem;
   vertical-align: middle;
 }
 .title {
   color: white;
-  font-size: 1.6rem;
+  font-size: 4rem;
   font-family: "Times New Roman", Times, serif;
 }
 </style>
