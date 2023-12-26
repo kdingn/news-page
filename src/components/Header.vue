@@ -19,6 +19,7 @@ const title: string = "TECH NEWS LINKS";
   background-color: black;
   width: 100%;
   opacity: 0.8;
+  z-index: 1;
 }
 
 .header-content {
