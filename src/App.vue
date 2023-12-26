@@ -30,6 +30,6 @@ let articles = wholeArticles.slice(0, 20);
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
-  min-height: 100vh;
+  min-height: 100dvh;
 }
 </style>
