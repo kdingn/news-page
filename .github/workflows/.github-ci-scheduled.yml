@@ -1,4 +1,4 @@
-name: get new articles & deploy static page
+name: SCHEDULED - get articles & deploy page
 
 on:
   # push:
