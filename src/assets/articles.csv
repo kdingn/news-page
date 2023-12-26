@@ -1,0 +1,186 @@
+date,title,link,source,ogimage
+2023-12-25,消費者向けGPUでも高性能GPUに近いパフォーマンスでLLMを動かす手法「PowerInfer」,https://aiboom.net/archives/61215,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_61215.jpg
+2023-12-23,OpenAIが開発中、人間の理解をAIが超えた際の制御法,https://aiboom.net/archives/61116,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_61116.jpg
+2023-12-22,Tencentの研究者らが、人間のようにタップやスワイプでスマホアプリを操作するAIエージェント『AppAgent』を開発したと報告しています。,https://aiboom.net/archives/61130,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_20231222.jpg
+2023-12-21,LLMを「使い心地」基準でバトルさせる『Chatbot Arena：チャットボットアリーナ』,https://aiboom.net/archives/61080,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_61080.jpg
+2023-12-20,Appleが、LLMのパラメータを「SSDなどの外部フラッシュメモリに保存し」PCで効率的にモデルを使用する手法を開発　,https://aiboom.net/archives/61006,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_61006.jpg
+2023-12-19,医療におけるLLMの現状をまとめた報告　原則、タスク、アプリケーションそして課題,https://aiboom.net/archives/60884,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_60884.jpg
+2023-12-18,ハーバード研究者などがLLMを創造的にすべく考案した、大喜利データセットでユーモアラスにチューニングする手法『LCoT』,https://aiboom.net/archives/60765,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_60765.jpg
+2023-12-15,わずか2行のプロンプトでも実効性のある新しいアライメント手法『URIAL』,https://aiboom.net/archives/60678,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_60678_thum.jpg
+2023-12-14,GPT-4とヒューマノイドロボットを連携すると何が起こるか。東京大学と株式会社オルタナティヴ・マシンの研究者らが実験,https://aiboom.net/archives/60601,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_60601.jpg
+2023-12-13,DeepMindの研究者らが有効性を検証した、LLMに自ら高品質な訓練データを生成させる「自己学習」,https://aiboom.net/archives/60538,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_60538.jpg
+2023-12-12,LLMへの入力プロンプトを「意味を保持したまま」高度に圧縮する技術『LLMLingua』,https://aiboom.net/archives/60431,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_60431.jpg
+2023-12-11,「視覚は本来、言語に依存しない」と考えた研究者らが、言語データなしで大規模ビジョンモデル（LVM）を構築するアプローチを開発,https://aiboom.net/archives/60337,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_60337.jpg
+2023-12-08,Geminiの高い推論能力を活かして、過去最高水準のプログラミングAI『AlphaCode 2』も誕生したとの報告,https://aiboom.net/archives/60201,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_60201_thum.jpg
+2023-12-07,Googleが「人間の専門家レベルを超える最初のモデル」とする『Gemini』発表、GPT-4を凌駕,https://aiboom.net/archives/60035,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_60035_thum.jpg
+2023-12-06,Metaのリアルタイム多言語間翻訳システム『Seamless（シームレス）』は話し方のトーンや抑揚も反映,https://aiboom.net/archives/59952,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_59952_thum3.jpg
+2023-12-05,DeepMindの『GNoME』が「人間の直感を超えた220万の材料を発見し」うち736は既に人間が実験室で再現したとの報告、Nature誌,https://aiboom.net/archives/59797,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_59797.jpg
+2023-12-04,基盤モデル（GPT-4）はプロンプトの工夫で専門特化モデルに匹敵するほど性能が向上することが「医学分野」で示唆される,https://aiboom.net/archives/59798,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_59798.jpg
+2023-12-01,「ChatGPTの1周年を記念して」、オープンソースLLMがChatGPTにどこまで追いついているか体系的調査報告,https://aiboom.net/archives/59713,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_59713_thum2.jpg
+2023-11-30,マインクラフトを上手にプレイするAI『JARVIS-1』登場,https://aiboom.net/archives/59670,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_59670.jpg
+2023-11-29,プロンプトを調整しないLLMのプロンプトエンジニアリング新手法『ControlPE』,https://aiboom.net/archives/59618,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_59618_thum.jpg
+2023-11-28,LLMは「色」の概念をどれほど理解しているか,https://aiboom.net/archives/59530,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_59530.jpg
+2023-11-27,日常能力を試すテスト『GAIA』正答率、人間92%に対してGPT-4は15%　一般的なニーズに応えるAI開発の指針に,https://aiboom.net/archives/59440,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_59440_thum.jpg
+2023-11-24,Microsoftの研究者ら、比較的小さなサイズでもタスクによってはOpenAIのGPT-4を凌駕する言語モデル『Orca2』を開発,https://aiboom.net/archives/59349,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_59349_thum.jpg
+2023-11-22,キャラを一貫して再現する画像生成メソッド『The Chosen One』,https://aiboom.net/archives/59268,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_59268.jpg
+2023-11-21,ChatGPTなどのLLMにユーザーの性格特性を分析させる手法『PsyCoT』と実行プロンプト,https://aiboom.net/archives/59193,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_59193_thum.jpg
+2023-11-20,LLMベースの新しい言語『SUQL』が示唆する「非構造化データのクエリ」を処理するパラダイム,https://aiboom.net/archives/59144,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_59144-1.jpg
+2023-11-17,「入力プロンプト」を最新情報で自動アップデート＆最適化する手法『FRESHPROMPT』がLLMの出力精度を飛躍的に上げる,https://aiboom.net/archives/58986,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58986_thum.jpg
+2023-11-16,オフラインで動作する様々なオープンソースLLMのインタフェース『GPT4All』が開発され公開,https://aiboom.net/archives/58916,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58916.jpg
+2023-11-15,ChatGPTを心理療法にもとづいて実行し、高い共感力と思いやりある会話をさせる手法『Chain of Empathy』と実行プロンプト,https://aiboom.net/archives/58847,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58847.jpg
+2023-11-14,LLMの誤り（ハルシネーション）発生原因と、「創造性と事実性のバランス」などの対策ロードマップ,https://aiboom.net/archives/58767,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58767.jpg
+2023-11-13,ユーザープロンプトをLLMが言い換えて、LLM自身が理解しやすくする手法『RaR』,https://aiboom.net/archives/51160,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_51160.jpg
+2023-11-10,AGI（汎用人工知能）の原則6箇条とレベル5段階,https://aiboom.net/archives/58565,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58565.jpg
+2023-11-09,ChatGPTはチューリングテスト（人間模倣ゲーム）に一定の確率で成功する。ただし解釈には注意を,https://aiboom.net/archives/58540,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58540.jpg
+2023-11-08,LLMなどの生成AIの背後にある思考プロセスは人間とは全く異なるかもしれないことを示す仮説『生成AIのパラドックス』,https://aiboom.net/archives/58414,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58414_thum.jpg
+2023-11-07,オセロで「完璧な手を打ち続けた結果は引き分けである」ことを証明する研究が発表されました。,https://aiboom.net/archives/58328,aidb,https://aiboom.net/wp-content/uploads/2023/11/2023-11-07-11.20.27.jpg
+2023-11-07,ChatGPTの効果的なプロンプト手法における「基本のキ」を理論とテンプレート両方で紹介,https://aiboom.net/archives/58361,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58361.jpg
+2023-11-06,自分の話し声を別の誰かの声にリアルタイム変換するモデルが、一般消費者向けCPUで動かせる軽さで登場,https://aiboom.net/archives/58291,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58291.jpg
+2023-11-03,「自分を信じて限界を超えてください」など感情をグッと込めた指示プロンプトが添えられると、ChatGPTなどのLLMのパフォーマンスは向上する,https://aiboom.net/archives/58158,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58158.jpg
+2023-11-02,現時点でのLLMに対する網羅的な評価分析が行われました。,https://aiboom.net/archives/58149,aidb,https://aiboom.net/wp-content/uploads/2023/11/スクリーンショット-2023-11-02-11.30.39.png
+2023-11-01,約1.7万件におよぶLLM論文を調査した結果からわかる現在のLLM研究トレンド　arXiv運営のコーネル大より発表,https://aiboom.net/archives/58006,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_58006_thum.jpg
+2023-10-31,人間とGPT-4の社会的知能を測定するツール『SOTOPIA』登場　GPT-4は秘密を守る力で人間より優れるとの結果も,https://aiboom.net/archives/57932,aidb,https://aiboom.net/wp-content/uploads/2023/11/AIDB_57932_thum2.jpg
+2023-10-30,従来の小さなニューラルネットワークでも「メタ学習」でChatGPTを凌駕するほど高度な生成AIができるとの報告、Nature誌,https://aiboom.net/archives/57838,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_57838_thum.jpg
+2023-10-27,GPT-4などLLMのコード生成能力にデバッグ機能を追加する『SELF-DEBUGGING（セルフデバッギング）』と実行プロンプト,https://aiboom.net/archives/57709,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_57709.jpg
+2023-10-26,LLMに非線形的な思考を与えてCoTを上回る性能を引き出す手法『IEP』と実行プロンプト　CoTと組合せでさらに強力になる場合も,https://aiboom.net/archives/57628,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_57628.jpg
+2023-10-25,"Natureなどの論文約4,800本でGPT-4による査読能力が検証され、「LLMは査読にも有用」と結論",https://aiboom.net/archives/57449,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_57449_thum.jpg
+2023-10-24,DALL-E 3はどうしてユーザーの意図を正確に汲み取ることができるのか？OpenAIが論文で発表,https://aiboom.net/archives/57310,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_57310_1.jpg
+2023-10-23,LLMにベートーヴェンなど特定の人物の行動や感情を模倣させる、イタコのような技術『Character-LLM（キャラクターLLM）』,https://aiboom.net/archives/57223,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_57223_social.jpg
+2023-10-22,LLMと遺伝的アルゴリズムを使用して、個性によって社会集団の行動がどのように変化していくのかを観察する挑戦的な研究が行われました。,https://aiboom.net/archives/57195,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_X_20231022.jpg
+2023-10-21,特定の個人の好みやニーズに最も適したレスポンスや行動を行うLLMを開発する手法、『Personalized Soups（意訳：ぼくだけのためのスープ）』が開発されました。,https://aiboom.net/archives/57212,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_X_20231021.jpg
+2023-10-20,LLMがソフトウェアエンジニアリングでどのように適用可能か、網羅的な調査＆分析結果,https://aiboom.net/archives/57065,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_57065_3.png
+2023-10-20,電気回路図などの図表をテキストのみから生み出すLLM駆動のフレームワーク『DiagrammerGPT（ダイアグラマーGPT）』が登場しました。,https://aiboom.net/archives/57061,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_X_20231020_1.png
+2023-10-20,「DALL-E 3はどうしてユーザーの意図を正確に汲み取ることができるのか？」に対するOpenAIの論文が発表されました。,https://aiboom.net/archives/57082,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_X_20231020_3.png
+2023-10-19,LLMにナレッジグラフ（知識グラフ）を連携させることで、タスク遂行能力を大幅に向上させるフレームワーク『Graph Neural Prompting（GNP）』,https://aiboom.net/archives/57018,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_57018_20231025-1.jpg
+2023-10-18,LLMにまず前提から尋ることで出力精度を向上させる『ステップバック・プロンプティング』と実行プロンプト,https://aiboom.net/archives/56671,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_56671_social.png
+2023-10-18,GPT-4との対話でタスクプランニングを行うロボットシステムフレームワークが発明されました。,https://aiboom.net/archives/56954,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_X_20231018_1.jpg
+2023-10-17,GPT-4などLLMのコード生成能力にデバッグ機能を追加する『SELF-DEBUGGING（セルフデバッギング）』フレームワークが考案されました。,https://aiboom.net/archives/56958,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_X_20231017_2.jpg
+2023-10-17,人物の「不自然さ」を極限まで取り除いて超リアルな画像を生成する『HyperHuman（ハイパーヒューマン）』,https://aiboom.net/archives/56844,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_56844.jpg
+2023-10-17,ChatGPTで実際に行われた約151万件の対話を含むデータセット『WildChat』登場,https://aiboom.net/archives/56851,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_X_56851.png
+2023-10-16,GPT-4をセラピストとして実行し、「認知の歪み」を診断させるためのフレームワーク『Diagnosis of Thought (DoT)』と実行プロンプト,https://aiboom.net/archives/56696,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_56696.jpg
+2023-10-16,LLMがソフトウェアエンジリアリングにおいて現時点で役に立つこと＆課題。Metaなどの研究者らが報告,https://aiboom.net/archives/56721,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_X_56721.png
+2023-10-16,LLMにナレッジグラフ（知識グラフ）を連携させることで、タスク遂行能力を大幅に向上させるフレームワーク『Graph Neural Prompting（GNP）』,https://aiboom.net/archives/56837,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_X_56837.jpg
+2023-10-13,LLMエージェントは同調圧力に弱く考えに固執する傾向があるため、ディベートでバイアスを和らげるのが重要との報告。導入ツールも公開,https://aiboom.net/archives/56599,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_56599_top-2.jpg
+2023-10-12,LLMは時折「一時停止」させると、より計算し深く推論するためアウトプットの品質が向上するとの検証結果。新トークン導入フレームワーク,https://aiboom.net/archives/56487,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_56487_thum.jpg
+2023-10-11,画像分析機能を持つオープンソースLLM『LLaVA-1.5』登場。手持ちの画像を分析可能。GPT-4Vとの違い,https://aiboom.net/archives/56440,aidb,https://aiboom.net/wp-content/uploads/2023/12/AIDB_56440_thumnail-1-edited-1.jpg
+2023-10-10,LLMは世界モデルを持ち「物事がどのように位置づけられ、時間がどのように進行するか」を理解する可能性,https://aiboom.net/archives/56365,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_56365_1.png
+2023-10-09,プロンプトを遺伝的アルゴリズムで自動最適化するプロンプトエンジニアリング手法『Promptbreeder（プロンプトブリーダー）』,https://aiboom.net/archives/56319,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_56319_2.jpg
+2023-10-07,OpenAIは、DALL·E 3の論文を通して「画像生成AIの安全性は前進した」ことを報告しています。,https://aiboom.net/archives/57078,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_X_20231020_2.png
+2023-10-06,XなどのSNSポストから精神状態を高精度に解析するLLM『MentalLLaMA（メンタルラマ）』,https://aiboom.net/archives/56246,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_56246_1.jpg
+2023-10-05,ポーカーなど不完全情報ゲームを「心の理論」で上手にプレイするGPT-4ベースの『Suspicion（疑心）-Agent』松尾研など開発,https://aiboom.net/archives/56141,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_56141_1.jpg
+2023-10-04,GPT-4などのLLMが「AはB」から「BはA」を導かない『逆転の呪い』における誤解なき解釈と対策,https://aiboom.net/archives/56074,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_56074_1.png
+2023-10-03,「1枚絵の3D化」が非常に手軽な操作で実行できる軽快なツール『DreamGaussian』とWebでの使い方,https://aiboom.net/archives/55927,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_55927_2.jpg
+2023-10-02,GPT-4、Bard、Claude2などの異なるLLMが円卓を囲み議論した結果の回答は品質が高いとの検証報告。円卓ツールも公開,https://aiboom.net/archives/55853,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_55853_1.jpg
+2023-09-29,GPT-4などのLLMに「自らの論理的な整合性をチェック」させるフレームワーク『LogiCoT』と実行プロンプト,https://aiboom.net/archives/55805,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_55805_3.png
+2023-09-28,GoogleがLLMで「非構造化文書」高精度テキスト抽出するOCR『LMDX』発表。Bardを強化する可能性,https://aiboom.net/archives/55759,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_55759_1.jpg
+2023-09-27,LLMの出力から誤り（ハルシネーション）を減らす新手法『CoVe（Chain-of-Verification）』と実行プロンプト,https://aiboom.net/archives/55711,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_55711_2.png
+2023-09-26,OpenAI、ChatGPTが画像を分析する『GPT-4V（ビジョン）』を発表。安全性、嗜好性、福祉機能を強化,https://aiboom.net/archives/55622,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_55622_1.png
+2023-09-25,GPT-4などのLLMをエージェントとして既存ゲームシステムに導入し、NPCをAI化するツール『MindAgent』登場,https://aiboom.net/archives/55563,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_55563_1.jpg
+2023-09-22,GPT-4を使用した知的労働者のパフォーマンスは軒並み向上し、もとの成績が良くないほど顕著。※注意点あり,https://aiboom.net/archives/55470,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_55470_2.png
+2023-09-21,LLMの個別の性格（人格）特性を、プロンプトで「測定」「形成」する手法,https://aiboom.net/archives/55413,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_55413_1.png
+2023-09-20,AIのテキスト・イラスト生成によるCO2排出量は人間より約100〜1000倍以上「少ない」との報告,https://aiboom.net/archives/55328,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_55328_1.jpg
+2023-09-19,LLMに自身のハルシネーション（幻覚）を「自覚」させ、減らす方法,https://aiboom.net/archives/55232,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_55232_1.jpg
+2023-09-15,「GPTの書いた文章」と「人間の書いた文章」、信頼されやすいのはどっち？検証の結果,https://aiboom.net/archives/55201,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_55201_2.png
+2023-09-13,算術タスクでGPT-4を圧倒的に上回るコンパクトなモデル『MathGLM』登場。やはりステップ・バイ・ステップが重要,https://aiboom.net/archives/55122,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_55122_1.png
+2023-09-12,LLMが巡回セールスマン問題などの最適化問題を解く〜自分自身で優れたプロンプトを作成＆活用〜,https://aiboom.net/archives/55087,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_55087_2.png
+2023-09-11,AIが見た目に対する物理的感覚を獲得。「変形しにくい容器はどっち？」などに正確に回答,https://aiboom.net/archives/55038,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_55038_3.jpg
+2023-09-08,GANの10年にわたる歴史を振り返る〜DCGANからTransGANまで〜,https://aiboom.net/archives/54987,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_54987_2.jpg
+2023-09-07,多様な役割のAIエージェント達に協力してソフトウェアを開発してもらう『ChatDev』登場。論文内容＆使い方を解説,https://aiboom.net/archives/54863,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_54863_1.jpg
+2023-09-05,数式や文章がぐにゃぐにゃに曲がった論文PDFでもくっきり認識する画期的なOCR『Nougat』,https://aiboom.net/archives/54869,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_54869_4.jpg
+2023-09-01,「心の理論」においてGPT-3は人間の3歳、GPT-4は人間の7歳（基本の概念を理解しているレベル）に相当するとの研究報告,https://aiboom.net/archives/54829,aidb,https://aiboom.net/wp-content/uploads/2023/09/AIDB_54829_1.png
+2023-08-31,大規模言語モデル vs 小規模人間モデル（つまり人間）で「フィッシング詐欺メールバトル」を行った結果,https://aiboom.net/archives/54795,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54795_1.jpg
+2023-08-30,推論能力をさらに強める戦略『AoT』で、LLMが「直感」に似た能力を示すようになった,https://aiboom.net/archives/54750,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54750_1.jpg
+2023-08-29,GPT-4に選択肢を与えるとき、順序を入れ替えるだけで性能に大きな変化があることが明らかに,https://aiboom.net/archives/54690,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54690_1.png
+2023-08-28,AIは意識を持っているのか/持つのか、AI研究者と意識研究者たちが共同研究した結果,https://aiboom.net/archives/54645,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54645_1.png
+2023-08-25,「チャットハルヒ」既存のキャラクターの性格をLLMに模倣させることに特化したフレームワーク,https://aiboom.net/archives/54606,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54606_2.jpg
+2023-08-21,「わたしの話」を体系的に覚えてもらいながらLLMと会話する技術MemoChat登場,https://aiboom.net/archives/54560,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54560_1.jpg
+2023-08-18,タスクに応じてロールプレイさせるとChatGPTなどLLMの推論能力は普遍的に向上する,https://aiboom.net/archives/54536,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54536_1.jpg
+2023-08-17,メタ認知をさせてLLMの能力を上げる手法「メタ認知プロンプティング」,https://aiboom.net/archives/54435,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54435_1.jpg
+2023-08-15,大規模言語モデルのセーフガードを故意に突破する「脱獄プロンプト」とは,https://aiboom.net/archives/54468,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54468_1.jpg
+2023-08-14,Metaの研究者ら「GPT-4をきびしくサポートする」AIのShepherd（シェパード）開発,https://aiboom.net/archives/54440,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54440_1.jpg
+2023-08-10,キーボード打鍵音から入力文字を特定するハッキング技術の精度が高いことが判明,https://aiboom.net/archives/54388,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54388_1.jpg
+2023-08-09,医療AIの性能を検証する大規模プロジェクト、MITやハーバード、マイクロソフトなど始動,https://aiboom.net/archives/54331,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54331_1.jpg
+2023-08-08,カーネギーメロン大など、大規模言語モデルの脆弱性を突く攻撃手法が存在することを指摘,https://aiboom.net/archives/54302,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54302_1.jpg
+2023-08-07,視覚から言語を理解して未来を予測する次世代のAI「Dynalang」,https://aiboom.net/archives/54256,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54236_1.jpg
+2023-08-04,大規模言語モデル同士に上手く協力してソフトウェア開発をしてもらうフレームワーク「MetaGPT」,https://aiboom.net/archives/54189,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54189_1.jpg
+2023-08-03,バイトダンスの研究者が「大規模言語モデル（LLM）のMBTI性格特性はプロンプトで調整可能」と示唆,https://aiboom.net/archives/54160,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54160_1.jpg
+2023-08-02,"大規模言語モデルに16,000以上のAPIを理解し適切に操作する能力を与える「ToolLLM」",https://aiboom.net/archives/54120,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54120_1.jpg
+2023-08-01,ロボットが「初めて見る環境」で「初めて聞く指示」に対しても行動をとれるようにする,https://aiboom.net/archives/54069,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_54069_14.jpg
+2023-07-31,大規模言語モデルが音声をダイレクトに理解する能力を与える　Metaとケンブリッジ大,https://aiboom.net/archives/54037,aidb,https://aiboom.net/wp-content/uploads/2023/07/AIDB_54037_1.jpg
+2023-07-28,AIが生成したテキストが事実なのか確認する手法「FacTool」が登場,https://aiboom.net/archives/53966,aidb,https://aiboom.net/wp-content/uploads/2023/08/AIDB_53966_8.jpg
+2023-07-27,未知の物体を認識し、それを既知の物体と区別する新たな研究　BMWやGoogleなど,https://aiboom.net/archives/53908,aidb,https://aiboom.net/wp-content/uploads/2023/07/AIDB_53908_1.jpg
+2023-07-26,人間の脳活動から音楽を再構築する：Brain2Musicの紹介,https://aiboom.net/archives/53896,aidb,https://aiboom.net/wp-content/uploads/2023/07/AIDB_53896_1.jpg
+2023-07-25,3D-LLM：大規模言語モデルに3D世界を注入する新たな試み,https://aiboom.net/archives/53829,aidb,https://aiboom.net/wp-content/uploads/2023/07/AIDB_53829_1.jpg
+2023-07-24,大規模言語モデルを活用して名作の新エピソードを生成するフレームワーク登場,https://aiboom.net/archives/53781,aidb,https://aiboom.net/wp-content/uploads/2023/07/AIDB_53781_4.jpg
+2023-07-21,大規模言語モデルにおける課題と応用例を整理した結果,https://aiboom.net/archives/53743,aidb,https://aiboom.net/wp-content/uploads/2023/07/AIDB_53743_2.jpg
+2023-07-20,Metaが商用利用可能な大規模言語モデル「Llama 2」リリース　無料でブラウザから動かせるデモも続々登場,https://aiboom.net/archives/53657,aidb,https://aiboom.net/wp-content/uploads/2023/07/AIDB_53658_1.jpg
+2023-07-19,ChatGPTの”ふるまいの変化”を定量的に分析した結果,https://aiboom.net/archives/53638,aidb,https://aiboom.net/wp-content/uploads/2023/07/AIDB_53638_4.jpg
+2023-07-18,MRIデータから音声を合成する手法　UCバークレーなどが開発,https://aiboom.net/archives/53518,aidb,https://aiboom.net/wp-content/uploads/2023/07/AIDB_53518_1.jpg
+2023-07-13,"1,000,000,000（10億）トークンまでのテキストを一度に処理するモデル「LongNet」登場",https://aiboom.net/archives/53595,aidb,https://aiboom.net/wp-content/uploads/2023/07/AIDB_53595_1.jpg
+2023-07-11,GPTがクラウドに住んで「AIモデルを選択する」自律的エッジAIシステムが登場,https://aiboom.net/archives/53565,aidb,https://aiboom.net/wp-content/uploads/2023/07/AIDB_53565_1.jpg
+2023-07-10,大規模言語モデルへのプロンプト、重要な情報はどこに書く？,https://aiboom.net/archives/53522,aidb,https://aiboom.net/wp-content/uploads/2023/07/AIDB_53522_4.jpg
+2023-07-05,大規模言語モデルの”性格”特性を分析＆調整するフレームワークの登場,https://aiboom.net/archives/53506,aidb,https://aiboom.net/wp-content/uploads/2023/07/AIDB_53468_3-1.jpg
+2023-07-04,大規模言語モデルは税理士になりうるか？ケーススタディの結果,https://aiboom.net/archives/53411,aidb,https://aiboom.net/wp-content/uploads/2023/07/AIDB_53411_1.jpg
+2023-07-03,約50万件の論文査読データセット「ARIES」が公開、論文の査読＆改善プロセスの分析に,https://aiboom.net/archives/53373,aidb,https://aiboom.net/wp-content/uploads/2023/07/AIDB_53373.jpg
+2023-07-01,“脳波”から映像を生成する技術「DreamDiffusion」登場,https://aiboom.net/archives/53309,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_53309_1.jpg
+2023-06-28,履歴書の要約に特化した自然言語処理フレームワーク、Huaweiが開発,https://aiboom.net/archives/53234,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_53234_1.jpg
+2023-06-27,脳内映像再現の世界：生成AIで脳から画像・映像へ,https://aiboom.net/archives/53190,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_53190_7.jpg
+2023-06-26,テキストから科学的な図を生成する新手法「FigGen」登場,https://aiboom.net/archives/53159,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_53159_1.jpg
+2023-06-23,大規模言語モデルを化学ツールで拡張：新フレームワーク「ChemCrow」の登場,https://aiboom.net/archives/53129,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_53129_3.jpg
+2023-06-22,SAMを利用した新たな異常検知フレームワーク「SAA+」の紹介,https://aiboom.net/archives/53085,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_53085_1.jpg
+2023-06-21,瞳に映る景色を3Dで再現　その可能性,https://aiboom.net/archives/53040,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_53040_5.png
+2023-06-20,クラウドワーカーが大規模言語モデルを使用している現状の調査と分析,https://aiboom.net/archives/53004,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_53004_1.jpg
+2023-06-19,生成AIシステムの「社会的影響を評価する」5つの観点、「リスクを評価する」7つの観点,https://aiboom.net/archives/52969,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_52969_1.jpg
+2023-06-16,GPT-Calls：コールセンターの会話データを大規模言語モデルを活用して分析,https://aiboom.net/archives/52918,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_52918_4.jpg
+2023-06-15,AIはお笑いを理解できるのか？ChatGPTのユーモアセンスを検証,https://aiboom.net/archives/52813,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_51160_1.jpg
+2023-06-14,FinGPT：金融業界のための大規模言語モデル開発フレームワーク,https://aiboom.net/archives/52816,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_52816_1.jpg
+2023-06-13,LLMZip：大規模言語モデルがテキスト圧縮の新境地を開く,https://aiboom.net/archives/52758,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_52758_1.jpg
+2023-06-12,AIが科学論文の査読を補助する日は近い？,https://aiboom.net/archives/52778,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_52778_1-1.jpg
+2023-06-09,人間は言葉で指示をしてAIがパワポを作成するようになる,https://aiboom.net/archives/52746,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_52746_1.jpg
+2023-06-08,人間の思考を模倣するAI学習フレームワーク「Thought Cloning」の登場,https://aiboom.net/archives/52705,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_52705_1.jpg
+2023-06-07,使うたびにどんどん賢くなるQ&Aシステム生成AIツール,https://aiboom.net/archives/52689,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_52689_1.jpg
+2023-06-05,ダークウェブの深淵を照らす言語モデル「DarkBERT」登場,https://aiboom.net/archives/52629,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_52629_6.jpg
+2023-06-02,大規模言語モデルが自身でPythonツールを作成し活用するようにする新フレームワーク「LATM」登場,https://aiboom.net/archives/52607,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_52607_1.jpg
+2023-06-01,OpenAI、大規模言語モデルの数学能力を大きく向上させることに成功,https://aiboom.net/archives/52505,aidb,https://aiboom.net/wp-content/uploads/2023/06/AIDB_52505_5.jpg
+2023-05-30,要約の品質を評価する新たなツール「SEAHORSE」の登場,https://aiboom.net/archives/52469,aidb,https://aiboom.net/wp-content/uploads/2023/05/AIDB_52469_3.jpg
+2023-05-29,人間の思考や感情、それらが行動にどう結びつくかを理解し予測するAI「FutureNet」をMITの研究グループが開発,https://aiboom.net/archives/52435,aidb,https://aiboom.net/wp-content/uploads/2023/05/AIDB_52435_1.jpg
+2023-05-26,CLARIFY DELPHI：人間の道徳的な判断を質問生成でサポートするAI,https://aiboom.net/archives/52390,aidb,https://aiboom.net/wp-content/uploads/2023/05/AIDB_52390_1.jpg
+2023-05-22,AIに含まれるバイアスを検出・軽減するためのオープンソースライブラリ「AIF360」登場,https://aiboom.net/archives/52391,aidb,https://aiboom.net/wp-content/uploads/2023/05/AIDB_52391_1.jpg
+2023-05-18,新しい科学的方程式を導くための機械学習ツール　プリンストン大の研究者が発表,https://aiboom.net/archives/52330,aidb,https://aiboom.net/wp-content/uploads/2023/05/AIDB_52330_1.jpg
+2023-05-17,LLMを活用した機械学習ソリューション自動提案フレームワーク：MLCopilotの紹介,https://aiboom.net/archives/52290,aidb,https://aiboom.net/wp-content/uploads/2023/05/AIDB_52290_1.jpg
+2023-05-16,AudioGPT：音声認識から歌声合成まで,https://aiboom.net/archives/52272,aidb,https://aiboom.net/wp-content/uploads/2023/05/AIDB_52272_1.jpg
+2023-05-10,SkinGPT：大規模言語モデルがビジョンベースで診断を下す皮膚科ツール　概要から仕組みまで,https://aiboom.net/archives/52251,aidb,https://aiboom.net/wp-content/uploads/2023/05/AIDB_52251_1.jpg
+2023-05-09,大規模言語モデルの毒に用心を　データポイズニングのリスク,https://aiboom.net/archives/52217,aidb,https://aiboom.net/wp-content/uploads/2023/05/AIDB_52217_1.jpg
+2023-05-08,仮想世界でサッカーを学んだロボットが実世界で上手にサッカーをプレイ　DeepMindが研究報告,https://aiboom.net/archives/52175,aidb,https://aiboom.net/wp-content/uploads/2023/05/AIDB_52175_1.jpg
+2023-05-05,なんでも追跡、ビデオセグメンテーション技術「TAM」登場 論文から解説,https://aiboom.net/archives/52137,aidb,https://aiboom.net/wp-content/uploads/2023/05/AIDB_52137_1.jpg
+2023-05-01,GPTが「心の理論」をもつかどうかはプロンプト次第,https://aiboom.net/archives/52093,aidb,https://aiboom.net/wp-content/uploads/2023/05/AIDB_52093_1.jpg
+2023-04-28,大規模言語モデルと抽象言語オブジェクトでデジタルネイチャーを目指す,https://aiboom.net/archives/51996,aidb,https://aiboom.net/wp-content/uploads/2023/04/AIDB_51996_1.jpg
+2023-04-25,Microsoft、人間とLLMとの効率的なコラボレーションを”ローコードLLM”で実現へ　論文から解説,https://aiboom.net/archives/51944,aidb,https://aiboom.net/wp-content/uploads/2023/04/AIDB_51944_top.jpg
+2023-04-19,Microsoftの画像セグメンテーション新技術「SEEM（Segment Everything Everywhere Model）」の凄さ、Meta AIのSAMとの違い,https://aiboom.net/archives/51873,aidb,https://aiboom.net/wp-content/uploads/2023/04/AIDB_51873_top_2.jpg
+2023-04-14,ChatGPTなどLLMを特定の専門的タスクに強くするプラットフォーム「OpenAGI」登場　論文から詳しく解説,https://aiboom.net/archives/51810,aidb,https://aiboom.net/wp-content/uploads/2023/04/AIDB_51810_top.jpg
+2023-04-12,ChatDoctor: 医療分野特化の大規模言語モデル,https://aiboom.net/archives/51770,aidb,https://aiboom.net/wp-content/uploads/2023/04/AIDB_51770_top2.jpg
+2023-04-06,画像セグメンテーションの革新「Segment Anything Model（SAM）」 Meta AIの論文から解説,https://aiboom.net/archives/51716,aidb,https://aiboom.net/wp-content/uploads/2023/04/AIDB51097_top_.jpg
+2023-04-04,大規模言語モデルGPT-4、日本の医師国家試験に合格　国際研究チームが論文報告,https://aiboom.net/archives/51676,aidb,https://aiboom.net/wp-content/uploads/2023/04/AIDB_51097_top.jpg
+2023-04-01,「BloombergGPT」金融分野に特化した言語モデル登場　論文から解説,https://aiboom.net/archives/51605,aidb,https://aiboom.net/wp-content/uploads/2023/04/AIDB_51605_top.jpg
+2023-03-29,論文の大規模データセット「unarXive 2022」登場！,https://aiboom.net/archives/51536,aidb,https://aiboom.net/wp-content/uploads/2023/03/AIDB_51536_top.jpg
+2023-03-24,ChatGPTが3Dプリンターのコード生成プロセスを最適化,https://aiboom.net/archives/51456,aidb,https://aiboom.net/wp-content/uploads/2023/03/AIDB_51456.jpg
+2023-03-13,ChatGPTで「論文から非常に正確なデータ抽出」ができるとの報告,https://aiboom.net/archives/51377,aidb,https://aiboom.net/wp-content/uploads/2023/03/AIDB_51377_top.jpg
+2023-03-09,ChatGPTに「画像処理能力」が備わる　マイクロソフトの研究グループが開発,https://aiboom.net/archives/51304,aidb,https://aiboom.net/wp-content/uploads/2023/03/AIDB_51304.jpg
+2023-03-08,ディープラーニングでレシピ文章をレシピ動画に変換するシステム「Recipe2video」,https://aiboom.net/archives/51234,aidb,https://aiboom.net/wp-content/uploads/2023/03/AIDB_51234.jpg
+2023-03-05,Stable Diffusionで脳内映像を見る！大阪大学の研究者らが開発,https://aiboom.net/archives/51162,aidb,https://aiboom.net/wp-content/uploads/2023/03/AIDB_51162.jpg
+2023-02-21,pix2pix3D：簡単な線を描くだけで、3Dコンテンツを生成する。,https://aiboom.net/archives/51094,aidb,https://aiboom.net/wp-content/uploads/2023/02/AIDB_51094_top.jpg
+2023-02-16,人の音声からAIが「性格」を予測,https://aiboom.net/archives/50980,aidb,https://aiboom.net/wp-content/uploads/2023/02/AIDB_50980_top.jpg
+2023-02-08,ChatGPTが今度は「物理学」で実力を見せる,https://aiboom.net/archives/50831,aidb,https://aiboom.net/wp-content/uploads/2023/02/AIDB_50831.jpg
+2023-02-01,スマホ内蔵の加速度センサーで通話を盗聴　深層学習で5〜6割の精度,https://aiboom.net/archives/50664,aidb,https://aiboom.net/wp-content/uploads/2023/02/AIDB_50664.jpg
+2023-01-24,ChatGPT、「金融」と「心理学」の専門知識で特に役立つとの傾向が顕著に,https://aiboom.net/archives/50535,aidb,https://aiboom.net/wp-content/uploads/2023/01/AIDB_50535_2.jpg
+2023-01-20,部屋の間取り図を自動作成 建築設計のジェネレーティブAI「ArchiGAN」「House-GAN」「HouseDiffusion」,https://aiboom.net/archives/50421,aidb,https://aiboom.net/wp-content/uploads/2023/01/AIDB_50421.png
+2023-01-17,ディープラーニングによって「細胞の老化」をスコアリングするシステムを開発　慶應の研究グループ,https://aiboom.net/archives/50344,aidb,https://aiboom.net/wp-content/uploads/2023/10/AIDB_site.png
+2023-01-13,ChatGPTによる医師免許試験の成績「医学部3年生に匹敵する」米イエール大学,https://aiboom.net/archives/50310,aidb,https://aiboom.net/wp-content/uploads/2023/01/aidb20230113.jpg
+2022-12-26,AIはサイコパスか？ChatGPTなど大規模言語モデルAIの性格や幸福度を評価,https://aiboom.net/archives/50110,aidb,https://aiboom.net/wp-content/uploads/2022/12/aiboom_50110_top.png
+2022-12-22,まるで写真のようにリアルな3Dの人間モデルをポーズ指定で作り出すGANが開発されている,https://aiboom.net/archives/50044,aidb,https://aiboom.net/wp-content/uploads/2022/12/aiboom_50044_top.jpg
+2022-12-09,ダジャレを生成するAIをAmazonが開発中！文脈を読み取って上手に作るも「まだ人間には勝てない」と判明,https://aiboom.net/archives/49908,aidb,https://aiboom.net/wp-content/uploads/2022/12/aiboom_49908_top.png
+2022-12-08,Microsoftと中国の大学、写真中に「存在しない物体をナチュラルに」配置するAIを開発,https://aiboom.net/archives/49873,aidb,https://aiboom.net/wp-content/uploads/2022/12/aiboom_49873_top.png
+2022-09-21,Googleの研究チーム、手描きの簡単な絵で関連する画像を検索できるAI技術を開発,https://aiboom.net/archives/49811,aidb,https://aiboom.net/wp-content/uploads/2022/09/aiboom_20220921_1.jpg
+2022-09-15,言葉で指示を与えるとその通りに3D人間が動くAIモデルが公開,https://aiboom.net/archives/49768,aidb,https://aiboom.net/wp-content/uploads/2022/09/action2-2.gif
+2022-03-03,主要な世界的AI研究機関（企業）が自社の論文を掲載しているWebページまとめ,https://aiboom.net/archives/49631,aidb,https://aiboom.net/wp-content/uploads/2022/03/aiboom_49631_top.png
+2022-01-05,AIがAmong Us!でインポスターを当てるのは不可能ではない,https://aiboom.net/archives/49367,aidb,https://aiboom.net/wp-content/uploads/2021/12/aiboom_49367_top2.png
