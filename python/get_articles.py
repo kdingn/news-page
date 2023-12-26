@@ -17,7 +17,7 @@ def get_aidb():
             soup.find_all(class_="post_item clearfix"),
         )
     )
-    df = pd.DataFrame(article).sort_values("date")
+    df = pd.DataFrame(article).sort_values(["date", "link"])
     df["date"] = pd.to_datetime(df["date"])
     df["source"] = "aidb"
     return df
