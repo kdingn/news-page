@@ -21,8 +21,8 @@ def get_aidb(df_org):
     article = list(
         map(
             lambda x: {
-                "date": x.find(class_="entry-date updated").text,
-                "title": x.find(class_="title").text,
+                "date": x.find(class_="entry-date updated").get_text(strip=True),
+                "title": x.find(class_="title").get_text(strip=True),
                 "link": x.find(class_="link").get("href"),
             },
             soup.find_all(class_="post_item clearfix"),
