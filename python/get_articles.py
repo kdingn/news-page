@@ -15,7 +15,7 @@ def get_ogimage(df):
 
 
 def get_aidb(df_org):
-    url = "https://aiboom.net"
+    url = "https://aiboom.net/page/1"
     soup = BeautifulSoup(requests.get(url).content, features="html.parser")
     article = list(
         map(
