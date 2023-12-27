@@ -35,10 +35,32 @@ def get_aidb(df_org):
     return df
 
 
+def get_aischolar(df_org):
+    url = "https://ai-scholar.tech/?page=1"
+    soup = BeautifulSoup(requests.get(url).content, features="html.parser")
+    article = list(
+        map(
+            lambda x: {
+                "date": x.find(class_="updated entry-time list-item__date list-item__date--time").get_text(strip=True),
+                "title": x.find(class_="list-item__title is__pc").get_text(strip=True),
+                "link": x.get("href"),
+            },
+            soup.find_all(class_="list-item__link"),
+        )
+    )
+    df = pd.DataFrame(article).sort_values(["date", "link"])
+    df["date"] = pd.to_datetime(df["date"], format="%Y年%m月%d日")
+    df["source"] = "AI-SCHOLAR"
+    df = df[df["date"] >= df_org[df_org["source"]=="AI-SCHOLAR"]["date"].max()].drop_duplicates("link")
+    df = get_ogimage(df)
+    return df
+
+
 def main():
     df = pd.read_csv("src/assets/articles.csv")
     df["date"] = pd.to_datetime(df["date"])
     df = pd.concat([df, get_aidb(df)])
+    df = pd.concat([df, get_aischolar(df)])
     df = (
         df.sort_values(["date", "link"], ascending=False)
         .drop_duplicates("link", keep="last")
