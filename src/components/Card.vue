@@ -6,35 +6,36 @@ const props = defineProps<{
 
 <template>
   <div class="card">
-    <a :href="props.article.link">
-      <div class="date">
-        {{ props.article.date }}
+    <a :href="props.article.link" class="card-link">
+      <div class="card-info">
+        {{ props.article.date + ", " }}
+        {{ props.article.source }}
       </div>
-      <div class="title">
+      <div class="card-title">
         {{ props.article.title }}
       </div>
       <div>
-        <img :src="props.article.ogimage" class="center-cropped" />
+        <img :src="props.article.ogimage" class="card-image" />
       </div>
     </a>
   </div>
 </template>
 
 <style scoped>
-a {
+.card-link {
   color: inherit;
   text-decoration: none;
 }
-.date {
+.card-info {
   font-size: 1.5rem;
 }
-.title {
+.card-title {
   font-size: 2.6rem;
   margin-bottom: 1vw;
   padding-left: 2vw;
   padding-right: 2vw;
 }
-.center-cropped {
+.card-image {
   width: 96vw;
   height: 100%;
   background-position: center center;
