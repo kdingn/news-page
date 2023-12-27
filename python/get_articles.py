@@ -41,7 +41,7 @@ def main():
     df = pd.concat([df, get_aidb(df)])
     df = (
         df.sort_values(["date", "link"], ascending=False)
-        .drop_duplicates("link", keep="first")
+        .drop_duplicates("link", keep="last")
         .reset_index(drop=True)
     )
     df.to_csv("src/assets/articles.csv", index=False)
