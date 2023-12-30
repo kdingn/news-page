@@ -1,4 +1,7 @@
 <script setup lang="ts">
+import { useDeviceStore } from "../stores/device";
+const spMode = useDeviceStore().spMode;
+
 const props = defineProps<{
   article: { [k: string]: string };
 }>();

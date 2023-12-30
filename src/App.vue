@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import wholeArticles from "./assets/articles.csv";
 import Card from "./components/Card.vue";
 import Header from "./components/Header.vue";
 
+import wholeArticles from "./assets/articles.csv";
 let articles = wholeArticles.slice(0, 20);
 </script>
 
@@ -15,7 +15,6 @@ let articles = wholeArticles.slice(0, 20);
       </div>
     </div>
   </div>
-  <!-- </div> -->
 </template>
 
 <style scoped>

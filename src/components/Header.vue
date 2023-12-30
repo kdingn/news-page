@@ -1,4 +1,7 @@
 <script setup lang="ts">
+import { useDeviceStore } from "../stores/device";
+const spMode = useDeviceStore().spMode;
+
 const title: string = "NEWS LINKS";
 </script>
 
