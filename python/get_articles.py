@@ -64,7 +64,7 @@ def main():
     df = pd.concat([df, get_aischolar(df)])
     df = (
         df.sort_values(["date", "link"], ascending=False)
-        .drop_duplicates("link", keep="last")
+        .drop_duplicates(["title", "source"], keep="last")
         .reset_index(drop=True)
     )
     df.to_csv("src/assets/articles.csv", index=False)
