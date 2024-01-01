@@ -3,12 +3,15 @@ import Card from "./components/Card.vue";
 import Header from "./components/Header.vue";
 
 import wholeArticles from "./assets/articles.csv";
-let articles = wholeArticles.slice(0, 20);
+let articles = wholeArticles.slice(0, 60);
 
 import { useDeviceStore } from "./stores/device";
 const spMode = useDeviceStore().spMode;
+import "./styles/common.css";
 if (spMode) {
-  import("./styles/smartPhone.css");
+  import("./styles/spStyle.css");
+} else {
+  import("./styles/pcStyle.css");
 }
 </script>
 

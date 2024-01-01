@@ -1,0 +1,23 @@
+.background {
+  background-image: url("../assets/background.avif");
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 100lvh;
+}
+.header {
+  position: sticky;
+  top: 0;
+  background-color: black;
+  width: 100%;
+  opacity: 0.8;
+  z-index: 1;
+}
+.header-content {
+  padding-left: 1rem;
+  vertical-align: middle;
+}
+.card-link {
+  color: inherit;
+  text-decoration: none;
+}
