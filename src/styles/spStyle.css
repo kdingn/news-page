@@ -1,5 +1,4 @@
 .contents {
-  background-color: rgba(0, 0, 0, 0.1);
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -11,13 +10,11 @@
 }
 .card {
   padding: 1vw;
-  min-height: 49vw;
   width: 96vw;
   margin-top: 1vw;
   outline: solid;
   outline-width: 1px;
-  background-color: rgb(243, 248, 255, 0.8);
-  border-radius: 1vw;
+  background-color: rgb(248, 248, 255, 0.95);
 }
 .card-info {
   font-size: 1.5rem;
@@ -35,7 +32,5 @@
   background-repeat: no-repeat;
   outline: solid;
   outline-width: 1px;
-  opacity: 0.9;
   z-index: 3;
-  border-radius: 1vw;
 }
