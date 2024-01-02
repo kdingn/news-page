@@ -6,6 +6,8 @@
   min-height: 100lvh;
 }
 .header {
+  padding-top: 6px;
+  padding-bottom: 4px;
   position: sticky;
   top: 0;
   background-color: black;
@@ -14,7 +16,7 @@
   z-index: 1;
 }
 .header-content {
-  padding-left: 1rem;
+  padding-left: 12px;
   vertical-align: middle;
 }
 .card-link {
