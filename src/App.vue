@@ -5,10 +5,8 @@ import Header from "./components/Header.vue";
 import wholeArticles from "./assets/articles.csv";
 let articles = wholeArticles.slice(0, 60);
 
-import { useDeviceStore } from "./stores/device";
-const spMode = useDeviceStore().spMode;
 import "./styles/common.css";
-if (spMode) {
+if (/Android|iPhone/i.test(navigator.userAgent)) {
   import("./styles/spStyle.css");
 } else {
   import("./styles/pcStyle.css");
