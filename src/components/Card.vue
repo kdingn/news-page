@@ -15,7 +15,12 @@ const props = defineProps<{
         {{ props.article.title }}
       </div>
       <div>
-        <img :src="props.article.ogimage" class="card-image" />
+        <img
+          loading="lazy"
+          decoding="async"
+          :src="props.article.ogimage"
+          class="card-image"
+        />
       </div>
     </a>
   </div>
