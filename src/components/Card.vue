@@ -6,7 +6,7 @@ const props = defineProps<{
 
 <template>
   <div class="card">
-    <a :href="props.article.link" class="card-link">
+    <a :href="props.article.link" class="card-link" target="_blank">
       <div class="card-info">
         {{ props.article.date + ", " }}
         {{ props.article.source }}

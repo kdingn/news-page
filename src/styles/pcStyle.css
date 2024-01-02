@@ -1,5 +1,4 @@
 .contents {
-  background-color: rgba(0, 0, 0, 0.1);
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -22,21 +21,21 @@
   margin-right: 3px;
   outline: solid;
   outline-width: 1px;
-  background-color: rgb(243, 248, 255, 0.8);
+  background-color: rgb(248, 248, 255, 0.95);
 }
 .card-info {
   padding-left: 2px;
   font-size: 8px;
 }
 .card-title {
-  height: 62px;
+  height: 82px;
   font-size: 16px;
   margin-bottom: 5px;
   padding-left: 5px;
   padding-right: 5px;
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
+  -webkit-line-clamp: 4;
   overflow: hidden;
 }
 .card-image {
@@ -45,6 +44,5 @@
   object-fit: cover;
   outline: solid;
   outline-width: 1px;
-  opacity: 0.9;
   z-index: 3;
 }
