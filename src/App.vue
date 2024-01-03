@@ -13,8 +13,7 @@ if (pcMode) {
   new Promise((resolve) => resolve(style));
 }
 
-import wholeArticles from "./assets/articles.csv";
-const articles = wholeArticles.slice(0, 20);
+import articles from "./assets/articles.csv";
 const recArticles: { [k: string]: string }[] = [];
 const othArticles: { [k: string]: string }[] = [];
 const recday = new Date();
