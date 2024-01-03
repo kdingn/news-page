@@ -1,4 +1,5 @@
 date,title,link,source,ogimage
+2024-01-03,LLMの内部状態を観察することで「出力がハルシネーションか否かを判別する」手法『LLMファクトスコープ』,https://ai-data-base.com/archives/61651,AIDB,https://ai-data-base.com/wp-content/uploads/2024/01/AIDB_61651.jpg
 2024-01-02,Geminiの常識推論能力についての調査報告,https://ai-data-base.com/archives/61597,AIDB,https://ai-data-base.com/wp-content/uploads/2024/01/AIDB_61597.jpg
 2024-01-01,人間の学習カリキュラム（教材）メソッドに基づくチューニングでLLMを賢くする手法,https://ai-data-base.com/archives/61555,AIDB,https://aiboom.net/wp-content/uploads/2023/12/AIDB_61555-1024x576.jpg
 2023-12-30,AGIを目指すLLMのために専門家レベルの問題を集めたベンチマーク「MMMU」、GPT-4VやGemini Ultraでも正解率6割未満,https://ai-data-base.com/archives/61463,AIDB,https://aiboom.net/wp-content/uploads/2023/12/AIDB_61463-1024x576.jpg
