@@ -9,9 +9,11 @@ let articles = wholeArticles.slice(0, 60);
 import "./styles/common.css";
 const pcMode = !/Android|iPhone/i.test(navigator.userAgent);
 if (pcMode) {
-  import("./styles/pcStyle.css");
+  const style = import("./styles/pcStyle.css");
+  new Promise((resolve) => resolve(style));
 } else {
-  import("./styles/spStyle.css");
+  const style = import("./styles/spStyle.css");
+  new Promise((resolve) => resolve(style));
 }
 </script>
 
