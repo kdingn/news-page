@@ -28,7 +28,7 @@ const arcTitle = "— Archive —";
 </script>
 
 <template>
-  <div class="background">
+  <div class="whole-contents">
     <Header />
     <div class="sidebar" v-if="pcMode">
       <Sidebar />
@@ -37,7 +37,9 @@ const arcTitle = "— Archive —";
       <div v-if="pcMode">
         <Recent :articles="recArticles" />
       </div>
-      <!-- <div class="contents-hr" v-if="pcMode"><hr color="black" size="1" /></div> -->
+      <div class="contents-hr" v-if="pcMode">
+        <hr size="2" color="white" />
+      </div>
       <div class="contents-cards">
         <div class="contents-title-block" v-if="pcMode">
           <span class="contents-title">{{ arcTitle }}</span>

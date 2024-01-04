@@ -27,11 +27,12 @@
   flex-wrap: wrap;
   justify-content: center;
 }
-/* .contents-hr {
+.contents-hr {
+  padding-top: 10px;
   padding-left: 20px;
   padding-right: 20px;
-  border: 1px;
-} */
+  padding-bottom: 5px;
+}
 .header-title {
   color: white;
   font-size: 2rem;
@@ -50,6 +51,7 @@
   scrollbar-width: none;
   box-shadow: 5px 0px 5px rgba(0, 0, 0, 0.2);
   backdrop-filter: blur(20px);
+  z-index: 100;
 }
 .sidebar::-webkit-scrollbar {
   display: none;
@@ -107,4 +109,20 @@
   margin-left: 15px;
   margin-right: 15px;
   margin-bottom: 5px;
+  position: relative;
+  height: 450px;
+  object-fit: contain;
+}
+.recent-link {
+  color: inherit;
+  text-decoration: none;
+}
+.recent-card {
+  object-fit: cover;
+  height: 450px;
+  width: 800px;
+  max-width: 100%;
+  position: absolute;
+  outline: solid;
+  outline-width: 1px;
 }

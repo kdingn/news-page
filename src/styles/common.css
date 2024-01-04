@@ -1,9 +1,15 @@
-.background {
+.whole-contents {
   background-image: url("../assets/background.avif");
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
-  min-height: 100lvh;
+  height: 100lvh;
+  overflow-y: scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.whole-contents::-webkit-scrollbar {
+  display: none;
 }
 .header {
   padding-top: 6px;
@@ -13,7 +19,7 @@
   background-color: black;
   width: 100%;
   opacity: 0.8;
-  z-index: 1;
+  z-index: 100;
 }
 .header-content {
   padding-left: 12px;

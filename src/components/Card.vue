@@ -14,14 +14,12 @@ const props = defineProps<{
       <div class="card-title">
         {{ props.article.title }}
       </div>
-      <div>
-        <img
-          loading="lazy"
-          decoding="async"
-          :src="props.article.ogimage"
-          class="card-image"
-        />
-      </div>
+      <img
+        loading="lazy"
+        decoding="async"
+        :src="props.article.ogimage"
+        class="card-image"
+      />
     </a>
   </div>
 </template>
