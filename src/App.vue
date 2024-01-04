@@ -35,7 +35,7 @@ const arcTitle = "— Archive —";
     </div>
     <div class="contents">
       <div v-if="pcMode">
-        <Recent />
+        <Recent :articles="recArticles" />
       </div>
       <!-- <div class="contents-hr" v-if="pcMode"><hr color="black" size="1" /></div> -->
       <div class="contents-cards">

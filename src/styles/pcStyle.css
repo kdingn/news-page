@@ -102,3 +102,9 @@
   outline-width: 1px;
   z-index: 3;
 }
+.recent-contents {
+  margin-top: 10px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 5px;
+}
