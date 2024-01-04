@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import Card from "./components/Card.vue";
 import Header from "./components/Header.vue";
+import Recent from "./components/Recent.vue";
 import Sidebar from "./components/Sidebar.vue";
 
 import "./styles/common.css";
@@ -15,19 +16,15 @@ if (pcMode) {
 
 import articles from "./assets/articles.csv";
 const recArticles: { [k: string]: string }[] = [];
-const othArticles: { [k: string]: string }[] = [];
 const recday = new Date();
 recday.setDate(recday.getDate() - 7);
 articles.map((x: { [k: string]: string }) => {
   if (new Date(x.date) > recday) {
     recArticles.push(x);
-  } else {
-    othArticles.push(x);
   }
 });
 
-const recTitle = "— Recent News —";
-const othTitle = "— Archive —";
+const arcTitle = "— Archive —";
 </script>
 
 <template>
@@ -37,20 +34,15 @@ const othTitle = "— Archive —";
       <Sidebar />
     </div>
     <div class="contents">
-      <div class="contents-rec-cards">
-        <div class="contents-title-block-rec" v-if="pcMode">
-          <span class="contents-title">{{ recTitle }}</span>
-        </div>
-        <div v-for="article in recArticles">
-          <Card :article="article" />
-        </div>
+      <div v-if="pcMode">
+        <Recent />
       </div>
-      <div class="contents-hr" v-if="pcMode"><hr color="black" size="1" /></div>
-      <div class="contents-old-cards">
-        <div class="contents-title-block-old" v-if="pcMode">
-          <span class="contents-title">{{ othTitle }}</span>
+      <!-- <div class="contents-hr" v-if="pcMode"><hr color="black" size="1" /></div> -->
+      <div class="contents-cards">
+        <div class="contents-title-block" v-if="pcMode">
+          <span class="contents-title">{{ arcTitle }}</span>
         </div>
-        <div v-for="article in othArticles">
+        <div v-for="article in articles">
           <Card :article="article" />
         </div>
       </div>

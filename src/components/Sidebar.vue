@@ -4,10 +4,10 @@ import sources from "../assets/sources.csv";
 
 <template>
   <div v-for="source in sources" class="sidebar-page">
-    <hr />
-    <a :href="source.source" target="_blank" class="sidebar-page-link">
-      {{ source.title }}<img :src="source.ogimage" class="sidebar-page-image"
+    <a :href="source.source" target="_blank" class="sidebar-page-link"
+      >{{ source.title }}<img :src="source.ogimage" class="sidebar-page-image"
     /></a>
+    <hr />
   </div>
-  <hr />
+  <!-- <hr /> -->
 </template>
