@@ -37,21 +37,19 @@ const othTitle = "— Archive —";
       <Sidebar />
     </div>
     <div class="contents">
-      <div class="contents-title" v-if="pcMode">
-        <span class="contents-title-shadow"> {{ recTitle }}</span>
-      </div>
       <div class="contents-rec-cards">
+        <div class="contents-title-block-rec" v-if="pcMode">
+          <span class="contents-title">{{ recTitle }}</span>
+        </div>
         <div v-for="article in recArticles">
           <Card :article="article" />
         </div>
       </div>
       <div class="contents-hr" v-if="pcMode"><hr color="black" size="1" /></div>
-      <div class="contents-title" v-if="pcMode">
-        <span class="contents-title-shadow">
-          {{ othTitle }}
-        </span>
-      </div>
-      <div class="contents-rec-cards">
+      <div class="contents-old-cards">
+        <div class="contents-title-block-old" v-if="pcMode">
+          <span class="contents-title">{{ othTitle }}</span>
+        </div>
         <div v-for="article in othArticles">
           <Card :article="article" />
         </div>
