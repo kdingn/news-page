@@ -1,4 +1,6 @@
 date,title,link,source,ogimage
+2024-01-04,未来の診断手法：AIが拓くCOVID-19の診断革命,https://ai-scholar.tech/articles/medical/real-time-magnetic-tracking,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/December2023/real-time_magnetic_tracking.png
+2024-01-04,マスク R-CNN：画像内のオブジェクトを効率的に検出する,https://ai-scholar.tech/articles/computer-vision/Mask-R-CNN,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/December2023/mask_r-cnn.png
 2024-01-03,LLMの内部状態を観察することで「出力がハルシネーションか否かを判別する」手法『LLMファクトスコープ』,https://ai-data-base.com/archives/61651,AIDB,https://ai-data-base.com/wp-content/uploads/2024/01/AIDB_61651.jpg
 2024-01-02,Geminiの常識推論能力についての調査報告,https://ai-data-base.com/archives/61597,AIDB,https://ai-data-base.com/wp-content/uploads/2024/01/AIDB_61597.jpg
 2024-01-01,人間の学習カリキュラム（教材）メソッドに基づくチューニングでLLMを賢くする手法,https://ai-data-base.com/archives/61555,AIDB,https://aiboom.net/wp-content/uploads/2023/12/AIDB_61555-1024x576.jpg
