@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const title: string = "NEWS LINKS";
+const title: string = "AI NEWS LINKS";
 </script>
 
 <template>

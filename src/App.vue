@@ -25,7 +25,7 @@ articles.map((x: { [k: string]: string }) => {
 });
 
 import { ref } from "vue";
-const title = "NEWS LINKS";
+const title = "AI NEWS LINKS";
 const loadingActive = ref<boolean>(true);
 function switchLoading() {
   loadingActive.value = false;
