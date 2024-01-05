@@ -20,6 +20,7 @@ const styles = reactive<{ [k: string]: string }[]>(
 );
 
 function setStyle(j: number) {
+  selected.value = j;
   var offset = 0;
   if (window.innerWidth - sidebarWidth - cardWidth > 0) {
     offset = (window.innerWidth - sidebarWidth - cardWidth) / (numArticles - 1);

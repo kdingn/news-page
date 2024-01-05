@@ -27,17 +27,27 @@ articles.map((x: { [k: string]: string }) => {
   }
 });
 
+import { ref } from "vue";
+const title = "NEWS LINKS";
+const loadingActive = ref<boolean>(true);
+function switchLoading() {
+  loadingActive.value = false;
+}
+setTimeout(switchLoading, 2000);
+
 const arcTitle = "— Archive —";
-const title = "— NEWS LINKS —";
-var loadingActive = false;
 </script>
 
 <template>
-  <div class="loading-wrap" v-if="loadingActive && pcMode">
-    <div class="loading-content">
-      <span class="loading-text">{{ title }}</span>
+  <Transition>
+    <div class="loading-wrap" v-if="loadingActive.valueOf() && pcMode">
+      <div class="loading-content">
+        <div class="loading-text">
+          <span class="easein">{{ title }}</span>
+        </div>
+      </div>
     </div>
-  </div>
+  </Transition>
   <div class="whole-contents">
     <Header />
     <div class="sidebar" v-if="pcMode">
@@ -67,8 +77,9 @@ var loadingActive = false;
 
 <style>
 .loading-wrap {
-  width: 100lvw;
-  height: 100lvh;
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
   z-index: 1000;
   background-color: rgba(0, 0, 0);
 }
@@ -81,5 +92,24 @@ var loadingActive = false;
   font-size: 5rem;
   font-family: "Times New Roman", Times, serif;
   padding-top: 40vh;
+}
+.easein {
+  animation: blinking 2s ease-in;
+}
+@keyframes blinking {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 2s ease;
+}
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
 }
 </style>
