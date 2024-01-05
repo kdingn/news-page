@@ -27,7 +27,8 @@ function setStyle(j: number) {
   for (let i = 0; i < numArticles; i++) {
     styles[i]["left"] = offset * i + "px";
     styles[i]["z-index"] = String(numArticles - Math.abs(j - i));
-    styles[i]["transform"] = "Scale(" + (1 - Math.abs(j - i) * 0.002) + ")";
+    styles[i]["transform"] = "Scale(" + (1 - Math.abs(j - i) * 0.01) + ")";
+    styles[i]["transition-duration"] = "0.2s";
   }
 }
 setStyle(selected.value);
