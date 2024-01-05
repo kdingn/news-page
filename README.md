@@ -1,6 +1,9 @@
 ## 📌What is this?
 Tech news page on which articles are updated by github actions.
 
+_news page_
+https://kdingn.github.io/news-page/
+
 _news source_
 - AIDB: https://aiboom.net/
 - AI-SCHOLAR: https://ai-scholar.tech/
