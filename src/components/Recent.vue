@@ -19,9 +19,11 @@ const styles = reactive<{ [k: string]: string }[]>(
   })
 );
 var timer = 0;
-const interval = 50;
-const timerInterval = 60000;
+const interval = 30;
+const timerInterval = 60000 * 5;
+const timerShowbar = 10000;
 const elapsedwidth = ref<{ width: string }>({ width: "0%" });
+const showbar = ref<boolean>(false);
 
 function setStyle(j: number) {
   var offset = 0;
@@ -36,17 +38,25 @@ function setStyle(j: number) {
   if (selected.value != j) {
     selected.value = j;
     timer = 0;
+    elapsedwidth.value.width = "0%";
+    showbar.value = false;
   }
 }
 setStyle(selected.value);
 
 function updateElapsedwidth() {
   timer += interval;
-  elapsedwidth.value.width = (timer / timerInterval) * 100 + "%";
+  if (timer >= timerInterval - timerShowbar) {
+    elapsedwidth.value.width =
+      ((timerShowbar - timerInterval + timer) / timerShowbar) * 100 + "%";
+    showbar.value = true;
+  }
   if (timer >= timerInterval) {
-    timer = 0;
     selected.value = (selected.value + 1) % numArticles;
     setStyle(selected.value);
+    timer = 0;
+    elapsedwidth.value.width = "0%";
+    showbar.value = false;
   }
 }
 setInterval(updateElapsedwidth, interval);
@@ -81,7 +91,12 @@ onMounted(() => window.addEventListener("resize", update));
               {{ props.articles[i - 1].source }}
             </span>
             <span class="recent-text">{{ props.articles[i - 1].title }}</span>
-            <hr class="recent-timeline" :style="elapsedwidth" color="white" />
+            <hr
+              class="recent-timeline"
+              :style="elapsedwidth"
+              color="white"
+              v-if="showbar"
+            />
           </div>
         </a>
       </div>
