@@ -29,7 +29,7 @@ articles.map((x: { [k: string]: string }) => {
 
 import { ref } from "vue";
 const title = "NEWS LINKS";
-const loadingActive = ref<boolean>(true);
+const loadingActive = ref<boolean>(false);
 function switchLoading() {
   loadingActive.value = false;
 }
@@ -56,9 +56,6 @@ const arcTitle = "— Archive —";
     <div class="contents">
       <div v-if="pcMode">
         <Recent :articles="recArticles" />
-      </div>
-      <div class="contents-hr" v-if="pcMode">
-        <hr size="2" color="white" />
       </div>
       <div class="contents-cards">
         <div class="contents-title-block" v-if="pcMode">

@@ -27,12 +27,6 @@
   flex-wrap: wrap;
   justify-content: center;
 }
-.contents-hr {
-  padding-top: 10px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 5px;
-}
 .header-title {
   color: white;
   font-size: 2rem;
@@ -154,4 +148,14 @@
   z-index: 100;
   font-size: 30px;
   font-family: sans-serif;
+}
+.recent-timeline {
+  margin-top: 449px;
+  display: inline-block;
+  text-align: left;
+}
+.recent-devider {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
