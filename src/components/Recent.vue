@@ -33,6 +33,12 @@ function setStyle(j: number) {
 }
 setStyle(selected.value);
 
+function loopSetStyle() {
+  selected.value = (selected.value + 1) % numArticles;
+  setStyle(selected.value);
+}
+setInterval(loopSetStyle, 30000);
+
 function update() {
   setStyle(selected.value);
 }
@@ -53,6 +59,17 @@ onMounted(() => window.addEventListener("resize", update));
             :style="styles[i - 1]"
             class="recent-card"
           />
+          <div
+            :style="styles[i - 1]"
+            class="recent-textbox"
+            v-if="selected.valueOf() == i - 1"
+          >
+            <span class="recent-info">
+              {{ props.articles[i - 1].date + ", " }}
+              {{ props.articles[i - 1].source }}
+            </span>
+            <span class="recent-text">{{ props.articles[i - 1].title }}</span>
+          </div>
         </a>
       </div>
     </div>
