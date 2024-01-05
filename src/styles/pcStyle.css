@@ -123,4 +123,5 @@
   position: absolute;
   outline: solid;
   outline-width: 1px;
+  transition-duration: 0.2s;
 }

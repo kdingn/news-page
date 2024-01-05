@@ -28,9 +28,16 @@ articles.map((x: { [k: string]: string }) => {
 });
 
 const arcTitle = "— Archive —";
+const title = "— NEWS LINKS —";
+var loadingActive = false;
 </script>
 
 <template>
+  <div class="loading-wrap" v-if="loadingActive && pcMode">
+    <div class="loading-content">
+      <span class="loading-text">{{ title }}</span>
+    </div>
+  </div>
   <div class="whole-contents">
     <Header />
     <div class="sidebar" v-if="pcMode">
@@ -57,3 +64,22 @@ const arcTitle = "— Archive —";
     </div>
   </div>
 </template>
+
+<style>
+.loading-wrap {
+  width: 100lvw;
+  height: 100lvh;
+  z-index: 1000;
+  background-color: rgba(0, 0, 0);
+}
+.loading-content {
+  display: flex;
+  justify-content: center;
+}
+.loading-text {
+  color: rgb(128, 188, 189, 0.9);
+  font-size: 5rem;
+  font-family: "Times New Roman", Times, serif;
+  padding-top: 40vh;
+}
+</style>
