@@ -16,14 +16,11 @@ if (pcMode) {
 
 import articles from "./assets/articles.csv";
 const recArticles: { [k: string]: string }[] = [];
-const arcArticles: { [k: string]: string }[] = [];
 const recday = new Date();
 recday.setDate(recday.getDate() - 7);
 articles.map((x: { [k: string]: string }) => {
-  if (new Date(x.date) > recday && recArticles.length < 7) {
+  if (new Date(x.date) > recday) {
     recArticles.push(x);
-  } else {
-    arcArticles.push(x);
   }
 });
 
@@ -61,10 +58,7 @@ const arcTitle = "— Archive —";
         <div class="contents-title-block" v-if="pcMode">
           <span class="contents-title">{{ arcTitle }}</span>
         </div>
-        <div v-for="article in arcArticles" v-if="pcMode">
-          <Card :article="article" />
-        </div>
-        <div v-for="article in articles" v-else>
+        <div v-for="article in articles">
           <Card :article="article" />
         </div>
       </div>
