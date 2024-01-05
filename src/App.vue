@@ -37,7 +37,7 @@ const arcTitle = "— Archive —";
 
 <template>
   <Transition>
-    <div class="loading-wrap" v-if="loadingActive.valueOf() && pcMode">
+    <div class="loading-wrap" v-if="loadingActive.valueOf()">
       <div class="loading-content">
         <div class="loading-text">
           <span class="easein">{{ title }}</span>
