@@ -26,11 +26,11 @@ articles.map((x: { [k: string]: string }) => {
 
 import { ref } from "vue";
 const title = "NEWS LINKS";
-const loadingActive = ref<boolean>(false);
+const loadingActive = ref<boolean>(true);
 function switchLoading() {
   loadingActive.value = false;
 }
-setTimeout(switchLoading, 2000);
+setTimeout(switchLoading, 3000);
 
 const arcTitle = "— Archive —";
 </script>
@@ -79,7 +79,7 @@ const arcTitle = "— Archive —";
   justify-content: center;
 }
 .loading-text {
-  color: rgb(128, 188, 189, 0.9);
+  color: rgba(195, 237, 238, 0.9);
   font-size: 5rem;
   font-family: "Times New Roman", Times, serif;
   padding-top: 40vh;
@@ -97,7 +97,7 @@ const arcTitle = "— Archive —";
 }
 .v-enter-active,
 .v-leave-active {
-  transition: opacity 2s ease;
+  transition: opacity 3s ease;
 }
 .v-enter-from,
 .v-leave-to {

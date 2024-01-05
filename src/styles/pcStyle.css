@@ -57,8 +57,14 @@
 .sidebar-page-image {
   width: 230px;
   display: block;
-  padding-top: 3px;
+  margin-top: 3px;
   box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  transition: 0.5s;
+}
+.sidebar-page-image:hover {
+  outline: solid;
+  outline-color: rgb(255, 200, 100);
+  outline-width: 2px;
 }
 .sidebar-page-link {
   color: inherit;
@@ -74,6 +80,11 @@
   margin-right: 3px;
   background-color: rgb(248, 248, 255, 0.95);
   box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  transition-duration: 0.5s;
+}
+.card:hover {
+  color: white;
+  background-color: rgb(0, 0, 0, 0.7);
 }
 .card-info {
   padding-left: 2px;
