@@ -63,8 +63,8 @@
 }
 .sidebar-page-image:hover {
   outline: solid;
-  outline-color: rgb(255, 200, 100);
-  outline-width: 2px;
+  outline-width: 1px;
+  outline-color: pink;
 }
 .sidebar-page-link {
   color: inherit;
@@ -129,8 +129,6 @@
   width: 800px;
   max-width: 100%;
   position: absolute;
-  /* outline: solid; */
-  /* outline-width: 1px; */
   transition-duration: 0.2s;
   box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
 }
@@ -138,8 +136,9 @@
   height: 450px;
   width: 800px;
   position: absolute;
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(0, 0, 0, 0.6);
   z-index: 100;
+  box-shadow: inset 0 0 30px rgb(128, 188, 189);
 }
 .recent-info {
   position: absolute;
