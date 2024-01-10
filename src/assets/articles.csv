@@ -1,4 +1,5 @@
 date,title,link,source,ogimage
+2024-01-10,Open X-Embodiment：ロボットの汎用的な学習を目指して,https://ai-scholar.tech/articles/robot/open-x-embodiment,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/December2023/open_x-embodiment.png
 2024-01-09,マルチモーダルなGPT-4とLLaVAによる高度な画像理解と自然言語対話の統合,https://ai-scholar.tech/articles/computer-vision/LLaVA,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/December2023/llava.png
 2024-01-09,1.1Bパラメータの小型モデルを巨大データ（約3兆トークン）で訓練した『TinyLlama』、比較的優秀な性能を発揮,https://ai-data-base.com/archives/61914,AIDB,https://ai-data-base.com/wp-content/uploads/2024/01/AIDB_61914_thum.jpg
 2024-01-08,JPモルガンの研究者らは、企業のドキュメントをLLMで読み込むモデル『DocLLM』を発表しました。,https://ai-data-base.com/archives/61858,AIDB,https://ai-data-base.com/wp-content/uploads/2024/01/AIDB_news_20230107.jpg
