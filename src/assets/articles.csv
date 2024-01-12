@@ -1,4 +1,5 @@
 date,title,link,source,ogimage
+2024-01-12,【CoDi】ほぼ全てのモダリティを扱えるAny-to-Anyの拡散モデル,https://ai-scholar.tech/articles/diffusion-model/codi-diffusion,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/December2023/composable_diffusion.png
 2024-01-11,スマート製造プロセスにおけるトポロジカルデータ解析--最新技術に関するサーベイ,https://ai-scholar.tech/articles/topological-data-analysis/topological_data_analysis,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/December2023/topological_data_analysis.png
 2024-01-11,LLMの知識を狙い撃ちして変更・修正する手法Knowledge Editing：知識編集,https://ai-data-base.com/archives/61831,AIDB,https://ai-data-base.com/wp-content/uploads/2024/01/AIDB_61831.jpg
 2024-01-10,Open X-Embodiment：ロボットの汎用的な学習を目指して,https://ai-scholar.tech/articles/robot/open-x-embodiment,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/December2023/open_x-embodiment.png
