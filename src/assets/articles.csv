@@ -1,4 +1,6 @@
 date,title,link,source,ogimage
+2024-01-17,【EmotionPrompt】感情を込めてプロンプト入力することでLLMの性能が向上,https://ai-scholar.tech/articles/prompting-method/emotion-prompt,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/emotionprompt.png
+2024-01-17,「プロンプトのバタフライ効果」と題して、少しの違いがLLMにもたらす影響を調査した結果,https://ai-data-base.com/archives/62566,AIDB,https://ai-data-base.com/wp-content/uploads/2024/01/AIDB_62566.jpg
 2024-01-16,【AudioLDM】Latent Diffusionを用いたText-to-Audioの生成モデル,https://ai-scholar.tech/articles/diffusion-model/audioldm,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/audioldm.png
 2024-01-16,オープンソースLLMのMixtral 8x7B　GPT-3.5に匹敵する性能を示す高効率モデル,https://ai-data-base.com/archives/62480,AIDB,https://ai-data-base.com/wp-content/uploads/2024/01/AIDB_62480.jpg
 2024-01-15,機械学習とリアルタイムフィードバック制御による半導体基板の万能脱酸,https://ai-scholar.tech/articles/machine-learning/universal-deoxidation,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/December2023/universal_deoxidation.png
