@@ -1,4 +1,5 @@
 date,title,link,source,ogimage
+2024-01-23,【DetectGPT】文章の作者はAIか、それとも人間か？見分ける方法の提案,https://ai-scholar.tech/articles/zero-shot/DetectGPT,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/detectgpt.png
 2024-01-22,【MusicLDM】盗作のリスクが低いText-to-Musicモデル,https://ai-scholar.tech/articles/diffusion-model/musicldm,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/musicldm.png
 2024-01-22,LLMでコーディング作業を行う際のプロンプト手法「フローエンジニアリング」,https://ai-data-base.com/archives/63003,AIDB,https://ai-data-base.com/wp-content/uploads/2024/01/AIDB_63003.jpg
 2024-01-20,Metaなどの研究者らが、LLMが自分自身に報酬を与える「自己報酬言語モデル」を開発,https://ai-data-base.com/archives/62797,AIDB,https://ai-data-base.com/wp-content/uploads/2024/01/AIDB_62797.png
