@@ -1,5 +1,6 @@
 date,title,link,source,ogimage
 2024-01-24,ImageBind：あらゆる情報を一つにまとめ、新しい知識を生む,https://ai-scholar.tech/articles/machine-learning/ImageBind,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/imagebind.png
+2024-01-24,既存のLLMを融合させて強力なモデルを作る手法「知識融合」,https://ai-data-base.com/archives/63153,AIDB,https://ai-data-base.com/wp-content/uploads/2024/01/AIDB_63153.jpg
 2024-01-23,【DetectGPT】文章の作者はAIか、それとも人間か？見分ける方法の提案,https://ai-scholar.tech/articles/zero-shot/DetectGPT,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/detectgpt.png
 2024-01-23,Googleが開発、LLMに自分自身の内部動作を説明させる手法『Patchscopes（パッチスコープ）』,https://ai-data-base.com/archives/63048,AIDB,https://ai-data-base.com/wp-content/uploads/2024/01/AIDB_63048.jpg
 2024-01-22,【MusicLDM】盗作のリスクが低いText-to-Musicモデル,https://ai-scholar.tech/articles/diffusion-model/musicldm,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/musicldm.png
