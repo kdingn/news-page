@@ -1,4 +1,5 @@
 date,title,link,source,ogimage
+2024-01-31,言語モデルの「模倣」は有用か？,https://ai-scholar.tech/articles/chatgpt/Imitating-Proprietary-LLMs,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/imitating_proprietary_llms.png
 2024-01-30,LLMに外部知識を取り入れる2つの手法、ファインチューニングとRAGを比較した実験結果,https://ai-data-base.com/archives/63401,AIDB,https://ai-data-base.com/wp-content/uploads/2024/01/AIDB_63401.jpg
 2024-01-29,アップルがメモリ容量が限られたデバイス上で効率的な大規模言語モデルの推論を実現,https://ai-scholar.tech/articles/large-language-models/LLM-load-from-flash-windowing-row-column-bundling,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/llm_in_a_flash.png
 2024-01-29,ChatGPTの数学スキルに迫る,https://ai-scholar.tech/articles/chatgpt/Mathematical-Capabilities,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/mathematical_capabilities_of_chatgpt.png
