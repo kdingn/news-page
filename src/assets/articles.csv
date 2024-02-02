@@ -1,4 +1,6 @@
 date,title,link,source,ogimage
+2024-02-02,【DPO】強化学習を用いずに大規模言語モデルをユーザの好みに直接合わせる手法,https://ai-scholar.tech/articles/rlhf/Direct-Preference-Optimization,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/direct_preference_optimization.png
+2024-02-02,GPTは他者の心の状態を推測できる？AI×心理学のすゝめ,https://ai-scholar.tech/articles/computation-and-language/Theory-of-Mind,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/theory_of_mind.png
 2024-02-01,LLMに対するプロンプトで「無関係な」文書を混ぜたほうが出力精度が上がる可能性がRAGシステムの検証で示唆された,https://ai-data-base.com/archives/63536,AIDB,https://ai-data-base.com/wp-content/uploads/2024/02/AIDB_63536.jpg
 2024-01-31,言語モデルの「模倣」は有用か？,https://ai-scholar.tech/articles/chatgpt/Imitating-Proprietary-LLMs,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/imitating_proprietary_llms.png
 2024-01-31,LLMに「自信の度合いに応じて説明のニュアンスを変更させる」ことで人間が過度に信頼するのを防ぐ,https://ai-data-base.com/archives/63482,AIDB,https://ai-data-base.com/wp-content/uploads/2024/01/AIDB_63482.jpg
