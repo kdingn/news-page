@@ -1,4 +1,5 @@
 date,title,link,source,ogimage
+2024-02-05,大規模言語モデルが科学的発見に与える影響：GPT-4を用いた予備的研究,https://ai-scholar.tech/articles/large-language-models/impact_of_LLM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/the_impact_of_llms.png
 2024-02-02,【DPO】強化学習を用いずに大規模言語モデルをユーザの好みに直接合わせる手法,https://ai-scholar.tech/articles/rlhf/Direct-Preference-Optimization,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/direct_preference_optimization.png
 2024-02-02,GPTは他者の心の状態を推測できる？AI×心理学のすゝめ,https://ai-scholar.tech/articles/computation-and-language/Theory-of-Mind,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/theory_of_mind.png
 2024-02-02,LLMを軽くする効果的な剪定手法『SliceGPT』,https://ai-data-base.com/archives/63622,AIDB,https://ai-data-base.com/wp-content/uploads/2024/02/AIDB_63622.jpg
