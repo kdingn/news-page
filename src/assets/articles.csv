@@ -1,4 +1,6 @@
 date,title,link,source,ogimage
+2024-02-06,高難度な「要約の出来栄え評価」をLLMの文脈内学習で自動化,https://ai-scholar.tech/articles/large-language-models/Multi-Dimensional-Evaluation-ICE,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/multi-dimensional_evaluation_with_in-context_learning.png
+2024-02-06,【mPLUG-Owl】画像とテキストを理解できるLLMの開発,https://ai-scholar.tech/articles/computation-and-language/mPLUG-Owl,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/mplug-owl.png
 2024-02-05,大規模言語モデルが科学的発見に与える影響：GPT-4を用いた予備的研究,https://ai-scholar.tech/articles/large-language-models/impact_of_LLM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/the_impact_of_llms.png
 2024-02-05,LLMの検索結果をさらに正確にする手法『CRAG（修正型検索拡張生成：Corrective Retrieval Augmented Generation）』,https://ai-data-base.com/archives/63672,AIDB,https://ai-data-base.com/wp-content/uploads/2024/02/AIDB_63672.jpg
 2024-02-02,【DPO】強化学習を用いずに大規模言語モデルをユーザの好みに直接合わせる手法,https://ai-scholar.tech/articles/rlhf/Direct-Preference-Optimization,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/January2024/direct_preference_optimization.png
