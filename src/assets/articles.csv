@@ -1,5 +1,6 @@
 date,title,link,source,ogimage
 2024-02-14,IdentiFace:感情から性別までを捉えるマルチモーダル型の顔認証システムとその可能性,https://ai-scholar.tech/articles/face-recognition/IdentiFace,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/February2024/identiface.png
+2024-02-14,大規模言語モデル（LLM）のこれまでとこれから①　-代表的なモデル編-,https://ai-data-base.com/archives/64232,AIDB,https://ai-data-base.com/wp-content/uploads/2024/02/AIDB_64232.jpg
 2024-02-13,重複画像が顔認識の性能に与える影響は？顔画像データセットにおける重複排除の重要性,https://ai-scholar.tech/articles/face-recognition/detection-of-duplicates,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/February2024/detection_of_duplicates_in_face_image_datasets.png
 2024-02-13,LLMにタスクに応じた推論プロセスを自ら考えるようにするプロンプト手法『SELF-DISCOVER』Google DeepMindなどが開発,https://ai-data-base.com/archives/64136,AIDB,https://ai-data-base.com/wp-content/uploads/2024/02/AIDB_64136.jpg
 2024-02-12,LLMに敢えて間違わせてルールを覚えさせるプロンプト手法　Google DeepMindなどが考案,https://ai-data-base.com/archives/64057,AIDB,https://ai-data-base.com/wp-content/uploads/2024/02/AIDB_64057.jpg
