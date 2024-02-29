@@ -1,4 +1,5 @@
 date,title,link,source,ogimage
+2024-02-29,LLMを応用した高性能ウェブアシスタントの開発に重要な要素とは？,https://ai-scholar.tech/articles/large-language-models/retrieving-information-from-web,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/February2024/challenges_of_using_llms_in_retrieving_information_from_web.png
 2024-02-28,Metaがツールの使い方を覚える言語モデルToolformerを開発,https://ai-scholar.tech/articles/large-language-models/Toolformer,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/February2024/toolformer.png
 2024-02-28,InstructPix2Pix: ユーザーの指示に基づき画像を編集するモデルの登場,https://ai-scholar.tech/articles/computer-vision/InstructPix2Pix,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/February2024/instructpix2pix.png
 2024-02-28,GPT-4やGemini Pro1.0などさまざまなLLMで、プロンプトの入力が長くなるにつれて推論性能に顕著な低下が見られる,https://ai-data-base.com/archives/64873,AIDB,https://ai-data-base.com/wp-content/uploads/2024/02/AIDB_64873.jpg
