@@ -1,5 +1,6 @@
 date,title,link,source,ogimage
 2024-03-04,顔偽造検出のための新しい大規模データセット「Diffusion Facial Forgery(DiFF)」を公開,https://ai-scholar.tech/articles/face-recognition/DiFF,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/February2024/diffusion_facial_forgery.png
+2024-03-04,「自然言語を超えて」LLMにタスク実行時の思考を人間の非自然言語フォーマットで行わせるプロンプト手法『AutoForm（オートフォーム）』,https://ai-data-base.com/archives/65090,AIDB,https://ai-data-base.com/wp-content/uploads/2024/03/AIDB_65090.jpg
 2024-03-01,ECデータを活用した大規模バイモーダルデータセット「Let's Go Shopping(LGS)」の開発とその応用,https://ai-scholar.tech/articles/large-language-models/lets-go-shopping-LGS-dataset,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/February2024/let%27s_go_shopping.png
 2024-03-01,RAGにおいて取得された情報と事前知識が矛盾しても、情報に説得力があるときLLMは受け入れる,https://ai-data-base.com/archives/64979,AIDB,https://ai-data-base.com/wp-content/uploads/2024/02/AIDB_64979.jpg
 2024-02-29,LLMを応用した高性能ウェブアシスタントの開発に重要な要素とは？,https://ai-scholar.tech/articles/large-language-models/retrieving-information-from-web,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/February2024/challenges_of_using_llms_in_retrieving_information_from_web.png
