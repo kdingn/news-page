@@ -1,4 +1,5 @@
 date,title,link,source,ogimage
+2024-03-18,【DiffYOLO】革新的なフレームワークで低品質データでの物体検出を向上させる,https://ai-scholar.tech/articles/computer-vision/DiffYOLO,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/February2024/diffyolo.png
 2024-03-15,ニューラルランカー（ランキングモデル）と大規模言語モデルによる臨床試験検索の強化,https://ai-scholar.tech/articles/information-retrieval/neural-rankers-and-llms,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/February2024/clinical_trial_retrieval.png
 2024-03-15,LLMの記号推論タスク（化学式や絵文字の理解など）で記号を自然言語に変換することの有効性を確認,https://ai-data-base.com/archives/65784,AIDB,https://ai-data-base.com/wp-content/uploads/2024/03/AIDB_-65784_thum.jpg
 2024-03-14,ChatGPTとGPT-4がCFA試験に挑戦！金融分野における大規模言語モデルの応用可能性を検証,https://ai-scholar.tech/articles/large-language-models/evaluation-of-GPT-on-CFA-exams,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/February2024/evaluation_of_gpt_on_cfa_exams.png
