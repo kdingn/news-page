@@ -1,4 +1,13 @@
 date,title,link,source,ogimage
+2024-03-29,化学分野におけるLLMの革命！外部ツールを活用した統合エンジン「ChemCrow」,https://ai-scholar.tech/articles/large-language-models/chemcrow,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/chemcrow.png
+2024-03-28,大規模言語モデルは化学分野で何ができるのか？化学研究におけるLLMの役割と可能性,https://ai-scholar.tech/articles/large-language-models/what-can-llm-do-in-chemistry,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/what_can_large_language_models_do_in_chemistry.png
+2024-03-28,【FinBen】金融領域におけるLLMの能力と限界を評価するベンチマーク,https://ai-scholar.tech/articles/large-language-models/finben,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/February2024/finben.png
+2024-03-28,AnyGPT：画像、音声、テキストを統合する次世代のマルチモーダル大規模言語モデルの登場,https://ai-scholar.tech/articles/large-language-models/anygpt,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/February2024/anygpt.png
+2024-03-28,PCC-GAN:3DポイントベースのコンテキストクラスタGANによる高品質PET画像再構成,https://ai-scholar.tech/articles/gan/PCC-GAN,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/February2024/pcc-gan.png
+2024-03-28,「ゲームでのLLM」における調査結果　プレイヤー・NPC・ゲームマスターなど様々な役割を網羅的に整理,https://ai-data-base.com/archives/66372,AIDB,https://ai-data-base.com/wp-content/uploads/2024/03/AIDB_-66372.jpg
+2024-03-27,人はディベートで人よりもGPT-4が相手のとき81.7%高い確率で意見を変える（つまり討論に負ける）傾向にあったとの実験報告,https://ai-data-base.com/archives/66317,AIDB,https://ai-data-base.com/wp-content/uploads/2024/03/AIDB_-66317.jpg
+2024-03-26,RAGにおいてLLMが「役立たない情報を無視」できるようにする『RAFT』QAタスクで従来の手法を大幅に上回る結果を達成,https://ai-data-base.com/archives/66269,AIDB,https://ai-data-base.com/wp-content/uploads/2024/03/AIDB_-66269.jpg
+2024-03-25,Microsoftなどのプロンプト圧縮技術『LLMLingua-“2″』タスクの精度を維持したまま圧縮率2-5倍,https://ai-data-base.com/archives/66170,AIDB,https://ai-data-base.com/wp-content/uploads/2024/03/AIDB_66170.jpg
 2024-03-22,【Swin Transformer】今こそ押さえたいTransformer系画像認識モデル,https://ai-scholar.tech/articles/image-recognition/swin-transformer,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/February2024/swin_transformer.png
 2024-03-21,【IndoMMLU】インドネシア語におけるLLMの性能評価に向けたデータセット,https://ai-scholar.tech/articles/large-language-models/indommlu,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/February2024/indommlu.png
 2024-03-21,Googleなど、API経由でブラックボックスLLMの隠れ次元数を特定できる脆弱性を示す　※OpenAI社はこれを受け対策済み,https://ai-data-base.com/archives/66085,AIDB,https://ai-data-base.com/wp-content/uploads/2024/03/AIDB_-66085.jpg
