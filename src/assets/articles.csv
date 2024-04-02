@@ -1,4 +1,5 @@
 date,title,link,source,ogimage
+2024-04-02,化学・化学工学における大規模言語モデルの可能性、コード生成能力の有用性と限界,https://ai-scholar.tech/articles/large-language-models/assessment-of-chemistry-knowledge-in-llm,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/assessment_of_chemistry_knowledge_in_llm.png
 2024-04-01,ハッカソンの成功に見る、化学・材料科学における大規模言語モデルの応用と展望,https://ai-scholar.tech/articles/large-language-models/how-llm-can-transform-materials-science-and-chemistry,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/how_llms_can_transform_materials_science_and_chemistry.png
 2024-04-01,LLMが生成した長いテキストにおける「事実性」を自動で評価するLLMエージェントフレームワーク『SAFE』Google DeepMindが開発,https://ai-data-base.com/archives/66502,AIDB,https://ai-data-base.com/wp-content/uploads/2024/03/AIDB_-66502.jpg
 2024-03-30,RAG（検索拡張生成）において約半分のトークン数でタスクを実行できるフレームワーク『FIT-RAG』,https://ai-data-base.com/archives/66427,AIDB,https://ai-data-base.com/wp-content/uploads/2024/03/AIDB_-66427.jpg
