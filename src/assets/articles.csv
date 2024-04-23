@@ -1,6 +1,7 @@
 date,title,link,source,ogimage
 2024-04-23,ChemChat：大規模言語モデルと化学の未来、外部ツールとチャットボットとの融合による可能性,https://ai-scholar.tech/articles/large-language-models/chemchat,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/chemchat.png
 2024-04-22,MBTIを用いてLLMに人間の性格を評価させるフレームワークが登場！,https://ai-scholar.tech/articles/chatgpt/MBTI,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/mbti.png
+2024-04-22,LLMにおける、長いコンテキストから欲しい情報を見つけ出す「needle-in-a-haystack（干し草の中の針）」テスト結果とプロンプト例,https://ai-data-base.com/archives/68016,AIDB,https://ai-data-base.com/wp-content/uploads/2024/04/AIDB_68016.jpg
 2024-04-19,LLMの感情を定量化するフレームワーク、EmotionBenchが登場！,https://ai-scholar.tech/articles/chatgpt/emotionbench,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/emotionbench.png
 2024-04-19,プロンプトに例を多く載せるほど、どんなタスクでも性能が上がるのか？DeepMindによる「Many-shot Learning」の実験結果,https://ai-data-base.com/archives/67883,AIDB,https://ai-data-base.com/wp-content/uploads/2024/04/AIDB_67883.jpg
 2024-04-19,プロンプトに例を多く載せるほど、どんなタスクでも性能が上がるのか？DeepMindによる『Many-shot Learning』の実験結果,https://ai-data-base.com/archives/67883,AIDB,https://ai-data-base.com/wp-content/uploads/2024/04/AIDB_67883.jpg
