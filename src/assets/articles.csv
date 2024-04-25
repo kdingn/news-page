@@ -1,5 +1,7 @@
 date,title,link,source,ogimage
+2024-04-25,機械の心：言語モデルは自己と他者の信念を表す,https://ai-scholar.tech/articles/topological-data-analysis/language-models-represent-beliefs,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/language_models_represent_beliefs.png
 2024-04-24,音声認識技術の秘密に迫る,https://ai-scholar.tech/articles/voice-recognition/probing-neural-acoustic-models,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/probing_neural_acoustic_models.png
+2024-04-24,強くて軽いモデルPhi-3の評価結果　Microsoftの論文（テクニカルレポート）より,https://ai-data-base.com/archives/68184,AIDB,https://ai-data-base.com/wp-content/uploads/2024/04/AIDB_68184.jpg
 2024-04-23,ChemChat：大規模言語モデルと化学の未来、外部ツールとチャットボットとの融合による可能性,https://ai-scholar.tech/articles/large-language-models/chemchat,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/chemchat.png
 2024-04-23,プロンプトでLLMにRPAワークフローを自動生成させる手法「FlowMind」JPモルガン考案,https://ai-data-base.com/archives/68095,AIDB,https://ai-data-base.com/wp-content/uploads/2024/04/AIDB_68095.jpg
 2024-04-22,MBTIを用いてLLMに人間の性格を評価させるフレームワークが登場！,https://ai-scholar.tech/articles/chatgpt/MBTI,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/mbti.png
