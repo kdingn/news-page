@@ -1,5 +1,6 @@
 date,title,link,source,ogimage
 2024-04-26,言語モデルは人間レベルで将来予測できるのか？,https://ai-scholar.tech/articles/machine-learning/forecasting-with-language-models,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/forecasting_with_language_models.png
+2024-04-26,LLMでWikipediaのような文書を作成する方法「STORM」スタンフォード大学研究者ら開発,https://ai-data-base.com/archives/68269,AIDB,https://ai-data-base.com/wp-content/uploads/2024/04/AIDB_68269.jpg
 2024-04-25,機械の心：言語モデルは自己と他者の信念を表す,https://ai-scholar.tech/articles/topological-data-analysis/language-models-represent-beliefs,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/language_models_represent_beliefs.png
 2024-04-25,小さなRetrieverとLLMの組み合わせによる実用的なワークフロー生成システム　またはRAGで幻覚を減らす手法,https://ai-data-base.com/archives/68219,AIDB,https://ai-data-base.com/wp-content/uploads/2024/04/AIDB_68219.jpg
 2024-04-24,音声認識技術の秘密に迫る,https://ai-scholar.tech/articles/voice-recognition/probing-neural-acoustic-models,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/probing_neural_acoustic_models.png
