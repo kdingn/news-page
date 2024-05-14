@@ -1,4 +1,5 @@
 date,title,link,source,ogimage
+2024-05-13,LLMエージェントが実行可能なPythonコードを生成するフレームワーク『CodeAct』,https://ai-data-base.com/archives/68926,AIDB,https://ai-data-base.com/wp-content/uploads/2024/05/AIDB_68926.jpg
 2024-05-11,「二兎を追う者は一兎をも得ず」: 制御可能なモデルの調整と性能向上のトレードオフ,https://ai-scholar.tech/articles/computation-and-language/Controllable-Preference-Optimization,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/controllable_preference_optimization.png
 2024-05-10,メルカリが挑む、消費者間取引（C2C）向けレコメンドシステムの開発に向けた大規模データセット「MerRec」,https://ai-scholar.tech/articles/recommendation/merrec,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/merrec.png
 2024-05-10,Googleが開発した「LLMに長文を高精度で読解させる方法論」と実行プロンプト,https://ai-data-base.com/archives/68821,AIDB,https://ai-data-base.com/wp-content/uploads/2024/05/AIDB_68821.jpg
