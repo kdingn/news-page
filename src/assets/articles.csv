@@ -1,4 +1,6 @@
 date,title,link,source,ogimage
+2024-05-20,マウスの動きでユーザーを継続的に認証する手法の調査,https://ai-scholar.tech/articles/machine-learning/From-Clicks-to-Security,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/from_clicks_to_security.png
+2024-05-20,反復学習でCoTによる推論性能を向上させる手法 Metaとニューヨーク大学による研究,https://ai-data-base.com/archives/69296,AIDB,https://ai-data-base.com/wp-content/uploads/2024/05/AIDB_69296.jpg
 2024-05-17,新しいデータセットを導入した継続的認証のための機械学習システム,https://ai-scholar.tech/articles/machine-learning/novel-dataset-using-machine-learning,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/continuous_authentication_on_novel_dataset.png
 2024-05-17,スタンフォード大学の研究者ら、GPT-4oとGemini1.5 Proで「マルチモーダルモデルにおける『Many-Shot』の効果」を検証,https://ai-data-base.com/archives/69211,AIDB,https://ai-data-base.com/wp-content/uploads/2024/05/AIDB_69211.jpg
 2024-05-16,【IRCoder】中間表現により言語モデルが堅牢な多言語コードジェネレーターに,https://ai-scholar.tech/articles/computation-and-language/IRCoder,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/ircoder.png
