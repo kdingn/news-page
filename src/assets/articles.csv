@@ -1,4 +1,6 @@
 date,title,link,source,ogimage
+2024-05-24,LLMが「心の理論」を有しているかを評価するベンチマーク、OpenToMが登場！,https://ai-scholar.tech/articles/other/OpenToM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/opentom.png
+2024-05-24,大規模言語モデルの役割を再定義、LLM-Moduloフレームワークによる計画と推論タスクへの新しいアプローチ,https://ai-scholar.tech/articles/large-language-models/llm-modulo,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/llm-modulo_1_.png
 2024-05-24,生物学研究の実験プロトコルを自動化する「BioPlanner」と「BIOPROTデータセット」,https://ai-scholar.tech/articles/large-language-models/bioplanner-automatic-evaluation,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/bioplanner.png
 2024-05-24,医療分野への新たなアプローチ、医療分野に特化した大規模言語モデル「BioMistral 7B」,https://ai-scholar.tech/articles/large-language-models/bioMistral,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/biomistral.png
 2024-05-24,LLMによるプログラミング言語の変換　Go→Rustのケーススタディ,https://ai-data-base.com/archives/69610,AIDB,https://ai-data-base.com/wp-content/uploads/2024/05/AIDB_69610.jpg
