@@ -1,6 +1,7 @@
 date,title,link,source,ogimage
 2024-05-24,生物学研究の実験プロトコルを自動化する「BioPlanner」と「BIOPROTデータセット」,https://ai-scholar.tech/articles/large-language-models/bioplanner-automatic-evaluation,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/bioplanner.png
 2024-05-24,医療分野への新たなアプローチ、医療分野に特化した大規模言語モデル「BioMistral 7B」,https://ai-scholar.tech/articles/large-language-models/bioMistral,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/biomistral.png
+2024-05-24,LLMによるプログラミング言語の変換　Go→Rustのケーススタディ,https://ai-data-base.com/archives/69610,AIDB,https://ai-data-base.com/wp-content/uploads/2024/05/AIDB_69610.jpg
 2024-05-23,顔認識から年齢推定まで、ChatGPT-4を活用した生体認証技術の可能性,https://ai-scholar.tech/articles/large-language-models/chatgpt-and-biometrics,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/chatgpt_and_biometrics.png
 2024-05-23,U-ViT: 拡散モデル用ViTバックボーン,https://ai-scholar.tech/articles/image-generation/uvit,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/u-vit_1_.png
 2024-05-23,LLMはビッグファイブに基づいたペルソナを再現できるのか！？,https://ai-scholar.tech/articles/chatgpt/PersonaLLM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/personallm.png
