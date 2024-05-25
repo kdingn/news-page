@@ -1,5 +1,6 @@
 date,title,link,source,ogimage
 2024-05-25,ディープラーニングによる積層造形の進歩,"https://ai-scholar.tech/articles/survey,-review/advancing-additive-manufacturing",AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/advancing_additive_manufacturing.png
+2024-05-25,CLIPでフェイクイメージを見破れ：画像-言語モデルによるフェイク検知,https://ai-scholar.tech/articles/fake-detection/clipping-diception,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/clipping_the_deception.png
 2024-05-24,LLMが「心の理論」を有しているかを評価するベンチマーク、OpenToMが登場！,https://ai-scholar.tech/articles/other/OpenToM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/opentom.png
 2024-05-24,大規模言語モデルの役割を再定義、LLM-Moduloフレームワークによる計画と推論タスクへの新しいアプローチ,https://ai-scholar.tech/articles/large-language-models/llm-modulo,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/llm-modulo_1_.png
 2024-05-24,生物学研究の実験プロトコルを自動化する「BioPlanner」と「BIOPROTデータセット」,https://ai-scholar.tech/articles/large-language-models/bioplanner-automatic-evaluation,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/bioplanner.png
