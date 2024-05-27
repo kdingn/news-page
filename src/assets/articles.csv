@@ -1,4 +1,6 @@
 date,title,link,source,ogimage
+2024-05-27,AIエージェントがユーザーの暗黙的な意図をどれだけ汲み取ることができるかを評価するベンチマークが登場！,https://ai-scholar.tech/articles/chatgpt/IN3,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/tell_me_more%21.png
+2024-05-27,自然言語プログラミングを可能にするシステム『CoRE』,https://ai-data-base.com/archives/69789,AIDB,https://ai-data-base.com/wp-content/uploads/2024/05/AIDB_69789-1.jpg
 2024-05-26,EdgeConvFormer：多変量時系列における動的グラフCNNと変換器に基づく異常検出,https://ai-scholar.tech/articles/time-series/EdgeConvFormer,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/edgeconvformer.png
 2024-05-26,工学設計のためのビジョン言語モデルの評価（コンセプトから製造まで）,https://ai-scholar.tech/articles/large-language-models/vlm_engineering_design﻿,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/evaluating_vision-language_models_for_engineering_design.png
 2024-05-26,Disentangled Diffusion：単一の画像から複数の概念を抽出するT2Iモデル,https://ai-scholar.tech/articles/image-generation/T2I-DisenDiff,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/disentangled_diffusion.png
