@@ -1,4 +1,9 @@
 date,title,link,source,ogimage
+2024-05-31,盲目のAIが環境の地図を学習するという興味深い発見,https://ai-scholar.tech/articles/reinforcement-learning/blind-agent,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/blind_ai_learns_environment_maps.png
+2024-05-31,ExtruOnt： インダストリー4.0システムのための製造機械のタイプを記述するためのオントロジー,https://ai-scholar.tech/articles/ontology/ExtruOnt,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/extruont.png
+2024-05-31,大規模言語モデルのパフォーマンス向上に有効！？大規模言語モデルにおける「ポジティブ思考」なプロンプトの意外な効果とは？,https://ai-scholar.tech/articles/large-language-models/the-unreasonable-effectiveness-of-eccentric-automatic-prompts,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/the_unreasonable_effectiveness_of_eccentric_automatic_prompts.png
+2024-05-31,PALR：大規模言語モデルを駆使したカスタマイズレコメンデーションシステム,https://ai-scholar.tech/articles/large-language-models/palr,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/palr.png
+2024-05-31,モバイル向け言語モデル「MobileLLM」、On-Deviceに向けた10億未満のスケールの大規模言語モデルのアーキテクチャ最適 ...,https://ai-scholar.tech/articles/large-language-models/mobilellm,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/mobilellm_1_.png
 2024-05-31,二重連結性に着目しグラフニューラルネットワークの性能を大幅向上,https://ai-scholar.tech/articles/gnn/GD-WL,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/graphormer-gd.png
 2024-05-31,LLMエージェントの認知バイアス,https://ai-data-base.com/archives/70084,AIDB,https://ai-data-base.com/wp-content/uploads/2024/05/AIDB_70084.jpg
 2024-05-30,サイバー攻防の新時代！ウェブサイトの脆弱性を暴く、大規模言語モデルによる自動ハッキングとは,https://ai-scholar.tech/articles/large-language-models/llm-agents-can-autonomously-hack-websites﻿,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/March2024/llm_agents_can_autonomously_hack_websites.png
