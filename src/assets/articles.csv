@@ -1,6 +1,7 @@
 date,title,link,source,ogimage
 2024-06-05,プログラミング不要で科学論文を読み解くGPT-4Vの有用性,https://ai-scholar.tech/articles/large-language-models/reticular-chemistry-gpt4v,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/reticular-chemistry-gpt4v.png
 2024-06-05,「GPT-4」が示す化学の知識と問題解決能力とは？,https://ai-scholar.tech/articles/large-language-models/prompt-chemical-research,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/prompt-chemical-research.png
+2024-06-05,MMLUをアップデートしたベンチマーク『MMLU-Pro』Phi-3やLlama 3、Claude 3、GPT-4oなどの評価結果,https://ai-data-base.com/archives/70358,AIDB,https://ai-data-base.com/wp-content/uploads/2024/06/AIDB_70358.jpg
 2024-06-04,グラフニューラルネットワークを活用したRAG手法『GNN-RAG』　7BのLLMでも最先端性能,https://ai-data-base.com/archives/70237,AIDB,https://ai-data-base.com/wp-content/uploads/2024/06/AIDB_70237.jpg
 2024-06-03,LLMで因果推論を行うためのプロンプト手法,https://ai-data-base.com/archives/70145,AIDB,https://ai-data-base.com/wp-content/uploads/2024/05/AIDB_70145.jpg
 2024-05-31,盲目のAIが環境の地図を学習するという興味深い発見,https://ai-scholar.tech/articles/reinforcement-learning/blind-agent,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/May2024/blind_ai_learns_environment_maps.png
