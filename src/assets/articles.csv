@@ -1,4 +1,37 @@
 date,title,link,source,ogimage
+2024-07-15,LLMの「頑固な知識」を変えることができるコンテキスト内編集手法（中国科学院大学Baolong Bi氏）,https://ai-data-base.com/archives/72359,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_72359.jpg
+2024-07-12,NVIDIAが教えるRAGチャットボット実装の重要ポイント,https://ai-data-base.com/archives/72680,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_72680.jpg
+2024-07-11,複数LLM協調アプローチ「マージング」「アンサンブル」「協力」について,https://ai-data-base.com/archives/72609,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_72609.jpg
+2024-07-10,【HiFi-GAN】単一GPUで22kHzの音声を生成可能なGANベースのボコーダー,https://ai-scholar.tech/articles/speech-synthesis/hifi-gan,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/hifi-gan.png
+2024-07-10,潜在拡散モデルは必ずしも「サイズを大きくすれば良い」というわけではない,https://ai-scholar.tech/articles/diffusion-model/scaling-properties-ldm,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/scaling-properties-ldm_1_.png
+2024-07-10,10億人のペルソナ（人物像）で多様な合成データを作成するための技術,https://ai-data-base.com/archives/72498,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_72498.jpg
+2024-07-09,LLMの価値観は一貫しているのか？,https://ai-data-base.com/archives/72401,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_72401.jpg
+2024-07-08,LLMに量子化が与える影響とは？日本語を含む多言語でCohereが調査,https://ai-data-base.com/archives/72292,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_72292.jpg
+2024-07-05,人間のような内省メカニズムをLLMに導入することの効果 Google DeepMindなどが検証,https://ai-data-base.com/archives/72194,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_72194.jpg
+2024-07-04,RAGシステムの最適な構築を探る,https://ai-data-base.com/archives/72121,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_72121.jpg
+2024-07-03,LLMエージェントの評価はLLM単体の評価と大きく異なる,https://ai-data-base.com/archives/72074,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_72074.jpg
+2024-07-02,LLMの小規模化と高性能化を両立させた『Gemma 2』Google DeepMindが発表,https://ai-data-base.com/archives/71982,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_71982.jpg
+2024-07-01,【VoiceCraft】業界最高レベルで自然な音声を合成できる言語モデル,https://ai-scholar.tech/articles/speech-synthesis/voice-craft,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/voice-craft.png
+2024-07-01,「LLMが長文を出力する際の正確さ」を自動評価する手法が誕生,https://ai-scholar.tech/articles/large-language-models/long-form-factuality,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/long-form-factuality.png
+2024-07-01,【Mustango】音楽のドメイン知識を活用した音楽生成モデル,https://ai-scholar.tech/articles/audio-and-speech-processing/mustango,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/mustango.png
+2024-07-01,LLMにおける通説への提言,https://ai-data-base.com/archives/71978,AIDB,https://ai-data-base.com/wp-content/uploads/2024/06/AIDB_71942.jpg
+2024-06-28,大規模言語モデルによる法律サービスの変革！速度と正確性で人間を超える？,https://ai-scholar.tech/articles/large-language-models/llms-against-lawyers,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/llms-against-lawyers.png
+2024-06-28,LLMはRAGコンテキストと事前知識のどちらに依存する？,https://ai-data-base.com/archives/71857,AIDB,https://ai-data-base.com/wp-content/uploads/2024/06/AIDB_71857.jpg
+2024-06-27,VideoPrismが切り開くビデオ解析の可能性,https://ai-scholar.tech/articles/large-language-models/videoprism,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/videoprism.png
+2024-06-27,日本語特化の大規模言語モデルの最前線を切り拓く「RakutenAI-7B」,https://ai-scholar.tech/articles/large-language-models/rakutenai7b,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/rakutenai-7b.png
+2024-06-27,デコンパイルに特化した大規模言語モデル「LLM4Decompile」の登場,https://ai-scholar.tech/articles/large-language-models/LLM4Decompile,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/llm4decompile.png
+2024-06-27,RAGにおいて長文を検索することで一気に効率を上げるアプローチ『LongRAG』,https://ai-data-base.com/archives/71774,AIDB,https://ai-data-base.com/wp-content/uploads/2024/06/AIDB_71774.jpg
+2024-06-26,LLMにハイレベルな問題の解決アプローチを自分で考えさせるエージェント化手法「SelfGoal」,https://ai-data-base.com/archives/71720,AIDB,https://ai-data-base.com/wp-content/uploads/2024/06/AIDB_71720.jpg
+2024-06-25,タスクを一度視覚化して取り組ませることで、LLMの推論能力を大きく向上させるプロンプト手法『Whiteboard-of-Thought（ホワイトボード思考法）』,https://ai-data-base.com/archives/71633,AIDB,https://ai-data-base.com/wp-content/uploads/2024/06/AIDB_71633.jpg
+2024-06-24,【HumanoidBench】人型ロボットの未来をシュミレーション,https://ai-scholar.tech/articles/robot/HumanoidBench,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/humanoidbench.png
+2024-06-24,インフォグラフィックスからUIまで画像とテキストを理解する「ScreenAI」,https://ai-scholar.tech/articles/large-language-models/screenai,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/screenai.png
+2024-06-24,自律設計から実行までマルチ大規模言語モデルによる科学実験の自動化,https://ai-scholar.tech/articles/large-language-models/scientific-research-llms,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/scientific-research-llms.png
+2024-06-24,CLIPを通じたゼロショット画像理解モデルの堅牢性評価,https://ai-scholar.tech/articles/contrastive-learning/Zero-Shot-Robustness,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/benchmarking-multimodal-models.png
+2024-06-21,売上損失削減の鍵：高速サロゲート支援MCTSによる企業施設ネットワークの最適化,https://ai-scholar.tech/articles/optimization/Monte-Carlo-Tree-Search,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/monte-carlo-tree-search.png
+2024-06-21,【VideoAgent】大規模言語モデルをエージェントとして使用した長編ビデオの理解,https://ai-scholar.tech/articles/computer-vision/VideoAgent,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/videoagent.png
+2024-06-19,ゲーム用LMベースエージェント（LMA）のアーキテクチャのレビューと課題,https://ai-scholar.tech/articles/large-language-models/Game-Playing-Agents,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/game-playing-agents.png
+2024-06-18,【Segment Anything】ゼロショットセグメンテーションモデル,https://ai-scholar.tech/articles/segmentation/segment-anything,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/segment_anything.png
+2024-06-17,【MSGW-FLM】IoTの力で災害時の緊急救助を最適化,https://ai-scholar.tech/articles/iot/MSGW-FLM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2024/msgw-flm.png
 2024-06-14,包括的なRAG評価ベンチマーク『CRAG』Metaなどが開発,https://ai-data-base.com/archives/70850,AIDB,https://ai-data-base.com/wp-content/uploads/2024/06/AIDB_70850.jpg
 2024-06-13,"人とLLMの実際のチャット履歴から抽出した1,024のリアルなタスクでLlama-3などを評価した結果",https://ai-data-base.com/archives/70812,AIDB,https://ai-data-base.com/wp-content/uploads/2024/06/AIDB_70812.jpg
 2024-06-12,LLMに内在するバイアスを知るには、役割を与えて訊く　GPT-4などにおける実験結果,https://ai-data-base.com/archives/70696,AIDB,https://ai-data-base.com/wp-content/uploads/2024/06/AIDB_70696.jpg
