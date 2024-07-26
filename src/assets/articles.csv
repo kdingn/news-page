@@ -1,4 +1,8 @@
 date,title,link,source,ogimage
+2024-07-26,Among UsのようなゲームでLLMエージェントはどれほど活躍できるか,https://ai-data-base.com/archives/71915,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_71915.jpg
+2024-07-25,テンソルCNNを用いた欠陥検知の強化,https://ai-scholar.tech/articles/other/T-CNN,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/t-cnn.png
+2024-07-25,【Double Descent】なぜ「大きなモデル」と「大きなデータセット」が重要なのか,https://ai-scholar.tech/articles/neural-network/double-descent,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/double_descent.png
+2024-07-25,【レビュー】スマート・マニュファクチャリングを推進する産業IoT,https://ai-scholar.tech/articles/iot/IIoT-Review,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/iiot-review.png
 2024-07-25,LLMによるText to SQL（SQLクエリ生成）の現状まとめ,https://ai-data-base.com/archives/73368,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_73368.jpg
 2024-07-24,【Chat-REC】LLMをベースとしたレコメンデーションシステムの提案,https://ai-scholar.tech/articles/recommendation/chatrec-recommendation,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/chat-rec.png
 2024-07-24,監督と俳優をLLMエージェントで立てて優れた脚本を生成する方法,https://ai-data-base.com/archives/73294,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_73294.jpg
