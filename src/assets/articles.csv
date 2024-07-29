@@ -1,4 +1,7 @@
 date,title,link,source,ogimage
+2024-07-29,RAGとLong-Contextを比較するよりハイブリッドで活用する,https://ai-data-base.com/archives/73468,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_73468.jpg
+2024-07-28,モデル自身が自分に報酬を与えてトレーニングを行う！？,https://ai-scholar.tech/articles/self-rewarding/Self-Rewarding-LLM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/self-rewarding-llm.png
+2024-07-28,【IGModel】GNN+Attention機構を応用した手法が創薬における実用性の向上,https://ai-scholar.tech/articles/medical/IGModel,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/igmodel.png
 2024-07-26,【構音障害者音声を生成！？】学習データ不足を解消する魔法のデータ拡張技術とは,https://ai-scholar.tech/articles/sound/Dysarthric-Speech-Recognition,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/dysarthric-speech-recognition.png
 2024-07-26,【Unit-DSR】HuBERTによる障害者音声から健常者音声への正規化,https://ai-scholar.tech/articles/self-supervised-learning/Unit-DSR,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/unit-dsr.png
 2024-07-26,【JMMLU】プロンプトの礼儀正しさがLLMのパフォーマンスに影響する！？,https://ai-scholar.tech/articles/chatgpt/JMMLU,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/jmmlu.png
