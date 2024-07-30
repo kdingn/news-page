@@ -1,4 +1,10 @@
 date,title,link,source,ogimage
+2024-07-30,LLMでASDを含む人間同士のコミュニケーションを支援するアプリケーション開発事例,https://ai-data-base.com/archives/73534,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_73534.jpg
+2024-07-29,ディープフェイク検出の自己教師ありViT,https://ai-scholar.tech/articles/self-supervised-learning/SSLViTs,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/sslvits.png
+2024-07-29,【SpliceBERT】生物種の遺伝情報で事前学習を行うBERTモデル！,https://ai-scholar.tech/articles/medical/SpliceBERT,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/splicebert.png
+2024-07-29,【DIFFUSSM】Attentionに依存しない拡散モデル,https://ai-scholar.tech/articles/image-generation/diffussm,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/diffussm_1_.png
+2024-07-29,周波数マスクによる次世代ディープフェイク検出技術,https://ai-scholar.tech/articles/fake-detection/freq-masking-detection,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/freq-masking-detection.png
+2024-07-29,【FreqNet】 周波数空間での学習による汎用的ディープフェイク検知,https://ai-scholar.tech/articles/fake-detection/FreqNet,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/freqnet.png
 2024-07-29,RAGとLong-Contextを比較するよりハイブリッドで活用する,https://ai-data-base.com/archives/73468,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_73468.jpg
 2024-07-28,モデル自身が自分に報酬を与えてトレーニングを行う！？,https://ai-scholar.tech/articles/self-rewarding/Self-Rewarding-LLM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/self-rewarding-llm.png
 2024-07-28,【IGModel】GNN+Attention機構を応用した手法が創薬における実用性の向上,https://ai-scholar.tech/articles/medical/IGModel,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/igmodel.png
