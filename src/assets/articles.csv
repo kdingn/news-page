@@ -1,4 +1,9 @@
 date,title,link,source,ogimage
+2024-07-31,LLMに専門的なドメイン知識を学ばせるのに有効な「読解タスクテキストに変換する」テクニック,https://ai-data-base.com/archives/73575,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_73575.jpg
+2024-07-30,知識グラフが切り拓く理解可能なAIの未来,https://ai-scholar.tech/articles/survey/AI-Knowledge-Graphs,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/comprehensible_artificial_intelligence_on_knowledge_graphs_a_survey__2_.png
+2024-07-30,ロボットに『因果の目』を与える：ブロック積み上げタスクで高い成功率を達成,https://ai-scholar.tech/articles/robot/Physics-Causal-Reasoning,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/physics-causal-reasoning.png
+2024-07-30,AIによる口頭試験シミュレーション、STEM教育に革命をもたらすLLM,https://ai-scholar.tech/articles/large-language-models/future-proofing-llms,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/_future-proofing-education.png
+2024-07-30,AI技術の進化が招く『知識の崩壊』の危険性,https://ai-scholar.tech/articles/computers-and-society/AI-Knowledge-Collapse,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/ai_and_the_problem_of_knowledge_collapse_.png
 2024-07-30,LLMでASDを含む人間同士のコミュニケーションを支援するアプリケーション開発事例,https://ai-data-base.com/archives/73534,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_73534.jpg
 2024-07-29,ディープフェイク検出の自己教師ありViT,https://ai-scholar.tech/articles/self-supervised-learning/SSLViTs,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/sslvits.png
 2024-07-29,【SpliceBERT】生物種の遺伝情報で事前学習を行うBERTモデル！,https://ai-scholar.tech/articles/medical/SpliceBERT,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/splicebert.png
