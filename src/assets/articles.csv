@@ -1,4 +1,7 @@
 date,title,link,source,ogimage
+2024-07-31,診断の精度向上、医療に特化したLLMによる新たな診断支援,https://ai-scholar.tech/articles/large-language-models/llms-correct-physicians,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/llms-correct-physicians.png
+2024-07-31,ChatGPTを用いたメディアバイアス検出の可能性と限界,https://ai-scholar.tech/articles/large-language-models/chatgpt-vs-media-bias,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/chatgpt-vs-media-bias.png
+2024-07-31,【ReALM】LLMによる画面上のエンティティ位置を活用した参照解決,https://ai-scholar.tech/articles/large-language-models/ReALM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/realm.png
 2024-07-31,LLMに専門的なドメイン知識を学ばせるのに有効な「読解タスクテキストに変換する」テクニック,https://ai-data-base.com/archives/73575,AIDB,https://ai-data-base.com/wp-content/uploads/2024/07/AIDB_73575.jpg
 2024-07-30,知識グラフが切り拓く理解可能なAIの未来,https://ai-scholar.tech/articles/survey/AI-Knowledge-Graphs,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/comprehensible_artificial_intelligence_on_knowledge_graphs_a_survey__2_.png
 2024-07-30,ロボットに『因果の目』を与える：ブロック積み上げタスクで高い成功率を達成,https://ai-scholar.tech/articles/robot/Physics-Causal-Reasoning,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2024/physics-causal-reasoning.png
