@@ -1,4 +1,8 @@
 date,title,link,source,ogimage
+2024-08-28,人間を討論で言い負かすディベート上手なLLMの実装,https://ai-data-base.com/archives/74886,AIDB,https://ai-data-base.com/wp-content/uploads/2024/08/AIDB_74886.jpg
+2024-08-27,超長いプロンプト文を圧縮してメモリを抑えるGoogleの高性能LLM,https://ai-scholar.tech/articles/large-language-models/infini-attention,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/August2024/infini-attention.png
+2024-08-27,【BitNet b1.58】モデルパラメータを3値で表現しLlama以上の精度を達成！？,https://ai-scholar.tech/articles/large-language-models/BitNet1-58b,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/August2024/bitnet_b1.58.png
+2024-08-27,プロンプトの影響によるLLMの性能のばらつきを考慮した評価指標「Sharpeスコア」　NAIST研究者ら考案,https://ai-data-base.com/archives/74842,AIDB,https://ai-data-base.com/wp-content/uploads/2024/08/AIDB_74842.jpg
 2024-08-26,GenTron: 画像生成、動画生成向けのDiffusion Transformers,https://ai-scholar.tech/articles/image-generation/gentron,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/August2024/gentron.png
 2024-08-26,Diffusion2GAN: 拡散モデルを条件付きGANに知識蒸留,https://ai-scholar.tech/articles/image-generation/diffusion2gan,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/August2024/diffusion2gan.png
 2024-08-26,モデルとデータの大規模化で変化するLLMのハルシネーション　Google DeepMindの研究,https://ai-data-base.com/archives/74778,AIDB,https://ai-data-base.com/wp-content/uploads/2024/08/AIDB_74778.jpg
