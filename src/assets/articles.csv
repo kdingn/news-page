@@ -1,4 +1,7 @@
 date,title,link,source,ogimage
+2024-08-29,LLMのRAGシステムで「検索能力を高める」方法　AWSの研究,https://ai-data-base.com/archives/74922,AIDB,https://ai-data-base.com/wp-content/uploads/2024/08/AIDB_74922.jpg
+2024-08-28,GMS: ChatGPTと拡散モデルを活用した製造革命,https://ai-scholar.tech/articles/manufacturing/Generative-Manufacturing-Systems,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/August2024/gms.png
+2024-08-28,【CoMat】テキストとイメージの乖離を解消する,https://ai-scholar.tech/articles/computer-vision/CoMat,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/August2024/comat_1_.png
 2024-08-28,人間を討論で言い負かすディベート上手なLLMの実装,https://ai-data-base.com/archives/74886,AIDB,https://ai-data-base.com/wp-content/uploads/2024/08/AIDB_74886.jpg
 2024-08-27,超長いプロンプト文を圧縮してメモリを抑えるGoogleの高性能LLM,https://ai-scholar.tech/articles/large-language-models/infini-attention,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/August2024/infini-attention.png
 2024-08-27,【BitNet b1.58】モデルパラメータを3値で表現しLlama以上の精度を達成！？,https://ai-scholar.tech/articles/large-language-models/BitNet1-58b,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/August2024/bitnet_b1.58.png
