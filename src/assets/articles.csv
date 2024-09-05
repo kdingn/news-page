@@ -1,4 +1,7 @@
 date,title,link,source,ogimage
+2024-09-05,RAGの検索データにおける「ノイズ（事実とは異なる情報など）」には有益なノイズと有害なノイズがある,https://ai-data-base.com/archives/75220,AIDB,https://ai-data-base.com/wp-content/uploads/2024/09/AIDB_75220.jpg
+2024-09-04,【InsectMamba】スマート農業を支える状態空間モデルを使用した害虫の分類,https://ai-scholar.tech/articles/computer-vision/InsectMamba,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/August2024/insectmamba.png
+2024-09-04,ドキュメントを細かく切って質問に変換　企業向けRAGのテクニック,https://ai-data-base.com/archives/75110,AIDB,https://ai-data-base.com/wp-content/uploads/2024/09/AIDB_75110.jpg
 2024-09-03,"言語モデルの""頭の中""を可視化 - 知識グラフで解明するLLMsの内部メカニズム",https://ai-scholar.tech/articles/computation-and-language/Unveiling-LLMs,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/August2024/unveiling-llms.png
 2024-09-03,LLMが「文化的な背景」を考慮した回答を行うようにする方法,https://ai-data-base.com/archives/75111,AIDB,https://ai-data-base.com/wp-content/uploads/2024/09/AIDB_75111.jpg
 2024-09-02,モバイルUI向けマルチモーダル大規模言語モデル「Ferret-UI」,https://ai-scholar.tech/articles/large-language-models/ferretui,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/August2024/ferret-ui.png
