@@ -1,4 +1,5 @@
 date,title,link,source,ogimage
+2024-09-06,HCI研究における大規模言語モデルの統合と倫理的課題,https://ai-scholar.tech/articles/large-language-models/HCI-Ethics-LLM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/August2024/hci-ethics-llm.png
 2024-09-06,ロングコンテキストLLM台頭の今もRAGを使用する理由,https://ai-data-base.com/archives/75289,AIDB,https://ai-data-base.com/wp-content/uploads/2024/09/AIDB_75289.jpg
 2024-09-05,失敗から学ぶLLM、新しいベンチマーク「COTERRORSET」の提案,https://ai-scholar.tech/articles/large-language-models/COTERRORSET,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/August2024/coterrorset.png
 2024-09-05,RAGの検索データにおける「ノイズ（事実とは異なる情報など）」には有益なノイズと有害なノイズがある,https://ai-data-base.com/archives/75220,AIDB,https://ai-data-base.com/wp-content/uploads/2024/09/AIDB_75220.jpg
