@@ -1,4 +1,6 @@
 date,title,link,source,ogimage
+2024-09-25,LLMの「自己対話」により複雑な問題の解決能力を飛躍的に向上させる手法『Iteration of Thought』,https://ai-data-base.com/archives/76134,AIDB,https://ai-data-base.com/wp-content/uploads/2024/09/AIDB_76134.jpg
+2024-09-24,MLPの代わりにKolmogorov-Arnold Network（KAN）を導入してモデルの表現力と性能を向上,https://ai-scholar.tech/articles/large-language-models/Kolmogorov-Arnold-Network,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/kolmogorov-arnold-network.png
 2024-09-24,CoT（思考の連鎖）は数学や論理で劇的に性能を向上させる一方、常識や知識のタスクでほとんど効果がない,https://ai-data-base.com/archives/75942,AIDB,https://ai-data-base.com/wp-content/uploads/2024/09/AIDB_75942.jpg
 2024-09-23,タンパク質の機能を化学結合を基に予測し性能を向上させるCNNベースのモデルが登場,https://ai-scholar.tech/articles/medical/DeepSS2GO,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/deepss2go_1_.png
 2024-09-23,医療のような専門分野におけるLLMの性能は「知識グラフと再ランキングの併用」で大幅に向上（東京大学Irene Li氏）,https://ai-data-base.com/archives/75999,AIDB,https://ai-data-base.com/wp-content/uploads/2024/09/AIDB_75999.jpg
