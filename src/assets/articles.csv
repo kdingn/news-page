@@ -1,4 +1,7 @@
 date,title,link,source,ogimage
+2024-09-25,大規模言語モデルを使用して執筆されたコンテンツに対する所有感覚と著作感覚,https://ai-scholar.tech/articles/large-language-models/llms-as-writing-assistants,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/llms-as-writing-assistants.png
+2024-09-25,【beeFormer】推薦システムでのテキスト情報とインタラクションデータを組み合わせてTransformerを学習,https://ai-scholar.tech/articles/large-language-models/beeFormer,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/beeformer.png
+2024-09-25,AI×職人技で生まれた「恋の味」がするパン,https://ai-scholar.tech/articles/human-computer-interaction/taste-of-love,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/taste-of-love.png
 2024-09-25,LLMの「自己対話」により複雑な問題の解決能力を飛躍的に向上させる手法『Iteration of Thought』,https://ai-data-base.com/archives/76134,AIDB,https://ai-data-base.com/wp-content/uploads/2024/09/AIDB_76134.jpg
 2024-09-24,MLPの代わりにKolmogorov-Arnold Network（KAN）を導入してモデルの表現力と性能を向上,https://ai-scholar.tech/articles/large-language-models/Kolmogorov-Arnold-Network,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/kolmogorov-arnold-network.png
 2024-09-24,CoT（思考の連鎖）は数学や論理で劇的に性能を向上させる一方、常識や知識のタスクでほとんど効果がない,https://ai-data-base.com/archives/75942,AIDB,https://ai-data-base.com/wp-content/uploads/2024/09/AIDB_75942.jpg
