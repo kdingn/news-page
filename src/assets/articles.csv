@@ -1,4 +1,6 @@
 date,title,link,source,ogimage
+2024-09-26,【Ferret】LLMの分散環境での全パラメータ調整を効率化する手法！通信コストを大幅に削減しモデル精度を向上,https://ai-scholar.tech/articles/large-language-models/Ferret-tuning,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/ferret-tuning.png
+2024-09-26,OpenAIの新しいモデルo1、従来のLLMと比べて「計画能力」で圧倒的な性能向上,https://ai-data-base.com/archives/76177,AIDB,https://ai-data-base.com/wp-content/uploads/2024/09/AIDB_76177.jpg
 2024-09-25,大規模言語モデルを使用して執筆されたコンテンツに対する所有感覚と著作感覚,https://ai-scholar.tech/articles/large-language-models/llms-as-writing-assistants,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/llms-as-writing-assistants.png
 2024-09-25,【beeFormer】推薦システムでのテキスト情報とインタラクションデータを組み合わせてTransformerを学習,https://ai-scholar.tech/articles/large-language-models/beeFormer,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/beeformer.png
 2024-09-25,AI×職人技で生まれた「恋の味」がするパン,https://ai-scholar.tech/articles/human-computer-interaction/taste-of-love,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/taste-of-love.png
