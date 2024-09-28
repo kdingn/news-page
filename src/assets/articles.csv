@@ -1,4 +1,9 @@
 date,title,link,source,ogimage
+2024-09-27,人間の記憶特性がLLMにも存在することが明らかに！,https://ai-scholar.tech/articles/large-language-models/human-memory-LLM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/human-memory-llm.png
+2024-09-27,【NVLM】画像と言語タスクにおいてGPT-4oを上回るマルチモーダルLLM,https://ai-scholar.tech/articles/large-language-models/NVLM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/nvlm.png
+2024-09-27,【AdaptIoT】製造業における因果関係を活用した自己ラベル付けシステム,https://ai-scholar.tech/articles/iot/AdaptIoT-system,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/adaptiot-system.png
+2024-09-27,LLMが文化的常識を理解しているのかを検証した論文が登場！,https://ai-scholar.tech/articles/cultural-commonsense/LLM-Limitations,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/llm_limitations.png
+2024-09-27,RAG-LLMシステムへのユーザークエリは4つのレベルに分類できる　最も複雑なのは「隠れた根拠からの推論が必要なクエリ」Microsoftによる研究,https://ai-data-base.com/archives/76241,AIDB,https://ai-data-base.com/wp-content/uploads/2024/09/AIDB_76241.jpg
 2024-09-26,【Ferret】LLMの分散環境での全パラメータ調整を効率化する手法！通信コストを大幅に削減しモデル精度を向上,https://ai-scholar.tech/articles/large-language-models/Ferret-tuning,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/ferret-tuning.png
 2024-09-26,OpenAIの新しいモデルo1、従来のLLMと比べて「計画能力」で圧倒的な性能向上,https://ai-data-base.com/archives/76177,AIDB,https://ai-data-base.com/wp-content/uploads/2024/09/AIDB_76177.jpg
 2024-09-25,大規模言語モデルを使用して執筆されたコンテンツに対する所有感覚と著作感覚,https://ai-scholar.tech/articles/large-language-models/llms-as-writing-assistants,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/llms-as-writing-assistants.png
