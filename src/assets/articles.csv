@@ -1,4 +1,9 @@
 date,title,link,source,ogimage
+2024-10-01,米国3人に1人が生成AIを使用　ブルーカラー労働者も生産性向上　大規模調査より,https://ai-data-base.com/archives/76405,AIDB,https://ai-data-base.com/wp-content/uploads/2024/09/AIDB_76405.jpg
+2024-09-30,【WavLM】すべての音声認識モデルを過去にする！？構造や性能はどうなっているのか？,https://ai-scholar.tech/articles/speech-processing/WavLM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/wavlm_1_.png
+2024-09-30,より良いAttention機構がLLMの長文処理の性能を向上させる！,https://ai-scholar.tech/articles/large-language-models/Long-Context-extension-generalization,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/long-context-extension-generalization.png
+2024-09-30,TryOnDiffusion: 試着画像生成の最強モデル,https://ai-scholar.tech/articles/image-generation/tryondiffusion,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/tryondiffusion.png
+2024-09-30,【PIDM】物理的正則化付き拡散モデル,https://ai-scholar.tech/articles/diffusion-model/PIDM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/pidm.png
 2024-09-30,V3D:画像一枚から３次元物体生成,https://ai-scholar.tech/articles/3d/v3d,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/v3d.png
 2024-09-30,LLMの論理的推論能力をステップバイステップ以上に向上させる手法『Logic-of-Thought』プロンプティング（テンプレートつき）,https://ai-data-base.com/archives/76306,AIDB,https://ai-data-base.com/wp-content/uploads/2024/09/AIDB_76306.jpg
 2024-09-29,【OmniGen】あらゆる画像系タスクをたった一つの生成モデルで実現！,https://ai-scholar.tech/articles/image-generation/OmniGen,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/omnigen.png
