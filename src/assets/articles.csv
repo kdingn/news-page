@@ -1,4 +1,6 @@
 date,title,link,source,ogimage
+2024-10-17,ロングコンテキストLLMでも、情報の数は「多ければ多いほど良い」わけではない,https://ai-data-base.com/archives/77127,AIDB,https://ai-data-base.com/wp-content/uploads/2024/10/AIDB_77127.jpg
+2024-10-16,数学教育を変革するAI、大規模言語モデルを活用した数学問題解決の可能性と課題,https://ai-scholar.tech/articles/large-language-models/llms-mathematical-reasoning,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/llms-mathematical-reasoning.png
 2024-10-16,OpenAIのo1-previewモデル、Kaggleのグランドマスター基準を上回るデータ分析性能を発揮,https://ai-data-base.com/archives/77077,AIDB,https://ai-data-base.com/wp-content/uploads/2024/10/AIDB_77077.jpg
 2024-10-15,LLMの推論能力は単純に文脈を繰り返すだけでも大幅に向上　最大で30%改善,https://ai-data-base.com/archives/76967,AIDB,https://ai-data-base.com/wp-content/uploads/2024/10/AIDB_76967.jpg
 2024-10-13,希少遺伝性疾患診断のためのマルチモーダルモデル「GestaltMML」,https://ai-scholar.tech/articles/large-language-models/gestaltmml,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/September2024/gestaltmml_1_.png
