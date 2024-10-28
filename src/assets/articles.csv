@@ -1,4 +1,5 @@
 date,title,link,source,ogimage
+2024-10-28,コンテキスト内で重要な情報同士が離れすぎるとLLMの性能は大幅に下がる,https://ai-data-base.com/archives/77563,AIDB,https://ai-data-base.com/wp-content/uploads/2024/10/AIDB_77563.jpg
 2024-10-25,予測の精度を極める: VAEneuとCRPSを活用した確率的アプローチ,https://ai-scholar.tech/articles/neural-network/VAEneu,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/vaeneu.png
 2024-10-25,IoTデバイス向き：推論負荷を分散する連合学習手法,https://ai-scholar.tech/articles/iot/Federated-Learning-CIS,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/federated-learning-cis_1_.png
 2024-10-25,LLMには正解例だけでなく、「よくある間違い例」と理由も一緒に教えるのが有効,https://ai-data-base.com/archives/77507,AIDB,https://ai-data-base.com/wp-content/uploads/2024/10/AIDB_77507_top2.jpg
