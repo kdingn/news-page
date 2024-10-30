@@ -1,4 +1,8 @@
 date,title,link,source,ogimage
+2024-10-30,手の込んだ手法よりシンプルな手法の方がLLMは幻覚を起こしにくい　問題に応じて戦略を変える必要性,https://ai-data-base.com/archives/77700,AIDB,https://ai-data-base.com/wp-content/uploads/2024/10/AIDB_77700.jpg
+2024-10-29,MatSci-LLMの可能性と課題、材料科学における大規模言語モデルの活用に向けた挑戦,https://ai-scholar.tech/articles/large-language-models/MatSci-LLM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/matsci-llm.png
+2024-10-29,【MMSEARCH】画像とテキストを統合したマルチモーダル検索システム,https://ai-scholar.tech/articles/large-language-models/MMSEARCH,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/mmsearch_1_.png
+2024-10-29,NAVERが開発！韓国語に特化した大規模言語モデル「HyperCLOVA X」,https://ai-scholar.tech/articles/large-language-models/HyperCLOVA-X,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/hyperclova-x.png
 2024-10-29,開発企業や言語ごとに異なるLLMのイデオロギー、価値観や態度,https://ai-data-base.com/archives/77645,AIDB,https://ai-data-base.com/wp-content/uploads/2024/10/AIDB_77645.jpg
 2024-10-28,生成モデルと大規模言語モデルによって進化するレコメンドシステムGen-RecSysの体系的な調査,https://ai-scholar.tech/articles/large-language-models/review-gen-recsys,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/review-gen-recsys_1_.png
 2024-10-28,大規模言語モデルにおけるデータ汚染分野の包括的な調査と「LLMSanitize」,https://ai-scholar.tech/articles/large-language-models/LLMSanitize,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/llmsanitize_1_.png
