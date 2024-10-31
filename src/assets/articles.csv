@@ -1,4 +1,8 @@
 date,title,link,source,ogimage
+2024-10-31,プレイヤーの行動に応じてゲームを自動生成する技術　Googleなどが開発,https://ai-data-base.com/archives/77790,AIDB,https://ai-data-base.com/wp-content/uploads/2024/10/AIDB_77790.jpg
+2024-10-30,遺伝情報が記されたmRNAの機能予測を行うBERTベースのモデルが登場！,https://ai-scholar.tech/articles/large-language-models/m6A-BERT-Deg,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/m6a-bert-deg.png
+2024-10-30,大規模言語モデルを活用した、新しい効率的な少数ショット学習手法「Chain of Thoughts Attribute Manip ...,https://ai-scholar.tech/articles/large-language-models/CoTAM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/cotam.png
+2024-10-30,【InfiMM-WebMath-40B】24億の数学文書からなるデータセットでLLMの数学性能を向上させる！,https://ai-scholar.tech/articles/datasets/InfiMM-WebMath-40B,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/infimm-webmath-40b_1_.png
 2024-10-30,手の込んだ手法よりシンプルな手法の方がLLMは幻覚を起こしにくい　問題に応じて戦略を変える必要性,https://ai-data-base.com/archives/77700,AIDB,https://ai-data-base.com/wp-content/uploads/2024/10/AIDB_77700.jpg
 2024-10-29,MatSci-LLMの可能性と課題、材料科学における大規模言語モデルの活用に向けた挑戦,https://ai-scholar.tech/articles/large-language-models/MatSci-LLM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/matsci-llm.png
 2024-10-29,【MMSEARCH】画像とテキストを統合したマルチモーダル検索システム,https://ai-scholar.tech/articles/large-language-models/MMSEARCH,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/mmsearch_1_.png
