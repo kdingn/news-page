@@ -1,5 +1,8 @@
 date,title,link,source,ogimage
-2024-10-31,プレイヤーの行動に応じてゲームを自動生成する技術　Googleなどが開発,https://ai-data-base.com/archives/77790,AIDB,https://ai-data-base.com/wp-content/uploads/2024/10/AIDB_77790.jpg
+2024-11-01,LLMに対するオープンソース安全性評価ツールの比較,https://ai-data-base.com/archives/77301,AIDB,https://ai-data-base.com/wp-content/uploads/2024/10/AIDB_77301-1.jpg
+2024-10-31,敵対的ドメイン適応をベースにがんの治療薬候補を予測する手法が提案！,https://ai-scholar.tech/articles/neural-network/adversarial-learning-cancer,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/adversarial-learning-cancer.png
+2024-10-31,【SCoRe】LLMの自己修正能力を高める強化学習！多段階的にエラーを特定して修正する,https://ai-scholar.tech/articles/large-language-models/SCoRe,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/score.png
+2024-10-31,プレイヤーの行動に応じてゲームを自動生成する技術　Googleなどが開発,https://ai-data-base.com/archives/77790,AIDB,https://ai-data-base.com/wp-content/uploads/2024/10/AIDB_77790_top2.jpg
 2024-10-30,遺伝情報が記されたmRNAの機能予測を行うBERTベースのモデルが登場！,https://ai-scholar.tech/articles/large-language-models/m6A-BERT-Deg,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/m6a-bert-deg.png
 2024-10-30,大規模言語モデルを活用した、新しい効率的な少数ショット学習手法「Chain of Thoughts Attribute Manip ...,https://ai-scholar.tech/articles/large-language-models/CoTAM,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/cotam.png
 2024-10-30,【InfiMM-WebMath-40B】24億の数学文書からなるデータセットでLLMの数学性能を向上させる！,https://ai-scholar.tech/articles/datasets/InfiMM-WebMath-40B,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/infimm-webmath-40b_1_.png
