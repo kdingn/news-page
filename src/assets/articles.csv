@@ -1,5 +1,8 @@
 date,title,link,source,ogimage
+2024-11-14,Llama 3.1シリーズを4分の1のサイズに軽量化しても99%以上の精度を維持するとの実験報告,https://ai-data-base.com/archives/78430,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_78430.jpg
+2024-11-13,日本語の質問応答能力を革新する新しい大規模データセット「JDocQAデータセット」,https://ai-scholar.tech/articles/large-language-models/JDocQA,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/November2024/jdocqa.png
 2024-11-13,25本の話題を同時に追跡しても、Claude 3.5 Sonnetは性能低下なし,https://ai-data-base.com/archives/78379,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_78379.jpg
+2024-11-13,LLMにおける長文処理能力の進化を調査 Claude 3.5は情報の流れを追跡するスキルに長ける,https://ai-data-base.com/archives/78379,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_78379.jpg
 2024-11-12,WhisperとGPTの統合した「Pepper-GPT」によるUXの向上とスムーズなコミュニケーションの実現,https://ai-scholar.tech/articles/large-language-models/Pepper-GPT,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/November2024/pepper-gpt.png
 2024-11-12,上司役のLLMが部下LLMたちに的確に仕事を振り分ける『Magentic-One』マイクロソフトが開発,https://ai-data-base.com/archives/77850,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_77850.jpg
 2024-11-11,ChatGPTを活用したAIエージェントによる、化学文献のマイニングの進化,https://ai-scholar.tech/articles/large-language-models/ai-agent-chemical-mining,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/ai-agent-chemical-mining.png
