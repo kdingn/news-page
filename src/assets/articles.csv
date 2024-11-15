@@ -1,5 +1,8 @@
 date,title,link,source,ogimage
+2024-11-15,画像も文字も表も全部まとめて理解するRAGシステムの提案　Bloombergなど,https://ai-data-base.com/archives/78490,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_78490.jpg
+2024-11-14,言葉で心を癒す、精神保健ケアにおける大規模言語モデルの可能性,https://ai-scholar.tech/articles/large-language-models/llms-scoping-review,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/November2024/llms-scoping-review_1_.png
 2024-11-14,Llama 3.1シリーズを4分の1のサイズに軽量化しても99%以上の精度を維持するとの実験報告,https://ai-data-base.com/archives/78430,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_78430.jpg
+2024-11-14,Llama 3.1シリーズ、8ビット量子化で半分以下のサイズでも性能をほぼ完全維持、実験で確認,https://ai-data-base.com/archives/78430,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_78430.jpg
 2024-11-13,日本語の質問応答能力を革新する新しい大規模データセット「JDocQAデータセット」,https://ai-scholar.tech/articles/large-language-models/JDocQA,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/November2024/jdocqa.png
 2024-11-13,25本の話題を同時に追跡しても、Claude 3.5 Sonnetは性能低下なし,https://ai-data-base.com/archives/78379,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_78379.jpg
 2024-11-13,LLMにおける長文処理能力の進化を調査 Claude 3.5は情報の流れを追跡するスキルに長ける,https://ai-data-base.com/archives/78379,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_78379.jpg
