@@ -1,4 +1,7 @@
 date,title,link,source,ogimage
+2024-11-22,「LLMの安全性を評価するデータセット」の初の体系的なレビュー,https://ai-scholar.tech/articles/large-language-models/safetyprompts,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/safetyprompts.png
+2024-11-22,YesBut：VLMに皮肉や風刺画を理解させるデータセットの登場！,https://ai-scholar.tech/articles/dataset/YesBut,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/yesbut.png
+2024-11-22,LLMによる時系列データ分析に「ニュース情報」を混ぜるアプローチ　為替予測精度など大幅に向上,https://ai-data-base.com/archives/79028,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_79028.jpg
 2024-11-21,Claude 3.5 Computer Useのケーススタディ集　示唆される「GUIエージェントの夜明け」,https://ai-data-base.com/archives/78895,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_78895.jpg
 2024-11-20,大規模言語モデルを活用したデータ汚染の検出手法,https://ai-scholar.tech/articles/large-language-models/llm-decontaminator,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/llm-decontaminator.png
 2024-11-20,LLMが長々と説明するのは自信がない証拠　14個のモデルで実証,https://ai-data-base.com/archives/78828,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_78828.jpg
