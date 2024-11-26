@@ -1,4 +1,6 @@
 date,title,link,source,ogimage
+2024-11-26,Gemini-1.5-proやGPT-4o-miniなどの性能を上回るLLaVA-o1（11Bパラメータ）,https://ai-data-base.com/archives/79215,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_79215.jpg
+2024-11-25,【CACTUS】LLMと化学系のツールを融合した薬剤の発見手法,https://ai-scholar.tech/articles/large-language-models/cactus,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/cactus.png
 2024-11-25,LLMによるバグ全自動修正に成功するケースと失敗するケースの違い,https://ai-data-base.com/archives/78378,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_78378.jpg
 2024-11-22,「LLMの安全性を評価するデータセット」の初の体系的なレビュー,https://ai-scholar.tech/articles/large-language-models/safetyprompts,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/safetyprompts.png
 2024-11-22,YesBut：VLMに皮肉や風刺画を理解させるデータセットの登場！,https://ai-scholar.tech/articles/dataset/YesBut,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/yesbut.png
