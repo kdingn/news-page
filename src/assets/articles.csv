@@ -1,4 +1,7 @@
 date,title,link,source,ogimage
+2024-11-29,『LLM-as-a-judge』のさまざまな応用と分野の展望,https://ai-data-base.com/archives/79535,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_79535.jpg
+2024-11-28,【SciAssess】LLMの「科学文献の分析性能」を評価するベンチマーク,https://ai-scholar.tech/articles/large-language-models/sciassess,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/sciassess.png
+2024-11-28,「分子の幾何学構造を理解できるLLM」の性能を評価,https://ai-scholar.tech/articles/large-language-models/llm-molecule-prediction,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/llm-molecule-prediction_1_.png
 2024-11-28,LLMを「評価者」として活用する『LLM-as-a-judge』の基本,https://ai-data-base.com/archives/79428,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_79428.jpg
 2024-11-27,OpenAIのo1モデルへの対抗馬　アリババが独自の推論モデル「Marco-o1」を開発　オープンソースで公開,https://ai-data-base.com/archives/79273,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_79273.jpg
 2024-11-26,【RiceChem】LLMによる自動長文採点（ALAG）を評価するデータセット,https://ai-scholar.tech/articles/large-language-models/ricechem-dataset,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/ricechem-dataset.png
