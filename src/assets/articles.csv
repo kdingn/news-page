@@ -1,4 +1,6 @@
 date,title,link,source,ogimage
+2024-12-04,クラモトモデルが可能にする非ユークリッド空間での機械学習,https://ai-scholar.tech/articles/computer-vision/Kuramoto-model,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/kuramoto-model.png
+2024-12-04,実際の企業データからなるtext-to-SQLベンチマーク「Spider 2.0」と専門エージェント『Spider-Agent』,https://ai-data-base.com/archives/79831,AIDB,https://ai-data-base.com/wp-content/uploads/2024/12/AIDB_79831.jpg
 2024-12-03,【Octo】大規模ロボットデータセットで学習された汎用ロボット,https://ai-scholar.tech/articles/large-language-models/octo-generalist-robot,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/octo-generalist-robot.png
 2024-12-03,時系列データをグラフにしてLLMに見せると文字だけより最大150%性能向上　トークンも節約,https://ai-data-base.com/archives/79686,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_79686.jpg
 2024-12-03,時系列データをグラフにしてLLMに見せると文字だけより最大120%性能向上　トークンも節約,https://ai-data-base.com/archives/79686,AIDB,https://ai-data-base.com/wp-content/uploads/2024/11/AIDB_79686.jpg
