@@ -1,5 +1,7 @@
 date,title,link,source,ogimage
+2024-12-06,【SA-FedLoRA】フェデレーテッドラーニングの通信コスト削減手法,https://ai-scholar.tech/articles/medical/sa-fedlora,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/sa-fedlora.png
 2024-12-06,実在する人間1052人をエージェントとしてモデル化しシミュレート　本人の未来の行動とぴたり一致したケースも,https://ai-data-base.com/archives/80107,AIDB,https://ai-data-base.com/wp-content/uploads/2024/12/AIDB_80107.jpg
+2024-12-06,実在する人間1052人の態度と行動をAIでモデル化　インタビューベースのエージェントが人間の回答を85%再現,https://ai-data-base.com/archives/80107,AIDB,https://ai-data-base.com/wp-content/uploads/2024/12/AIDB_80107.jpg
 2024-12-05,テキストだけでなく画像・動画生成もこなすAmazon Novaモデルファミリー　高性能で高速,https://ai-data-base.com/archives/80001,AIDB,https://ai-data-base.com/wp-content/uploads/2024/12/AIDB_80001.jpg
 2024-12-04,クラモトモデルが可能にする非ユークリッド空間での機械学習,https://ai-scholar.tech/articles/computer-vision/Kuramoto-model,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/kuramoto-model.png
 2024-12-04,実際の企業データからなるtext-to-SQLベンチマーク「Spider 2.0」と専門エージェント『Spider-Agent』,https://ai-data-base.com/archives/79831,AIDB,https://ai-data-base.com/wp-content/uploads/2024/12/AIDB_79831.jpg
