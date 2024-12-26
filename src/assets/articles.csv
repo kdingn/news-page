@@ -1,4 +1,7 @@
 date,title,link,source,ogimage
+2024-12-26,LLMと人間の協働に必要となる「ユーザーの適切な依存」,https://ai-data-base.com/archives/81239,AIDB,https://ai-data-base.com/wp-content/uploads/2024/12/AIDB_81239.jpg
+2024-12-25,構音障害者も高齢者も見捨てない、A2A変換器による音声認識率改善,https://ai-scholar.tech/articles/speech-recognition-for-the-dysarthric/Self-supervised-ASR,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/self-supervised-asr.png
+2024-12-25,MicroDiffusion: 数万ドルのモデルに勝る千ドルの生成画質モデル,https://ai-scholar.tech/articles/image-generation/micro-diffusion,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/micro-diffusion.png
 2024-12-25,8つの質問で自分自身の答えを批評する哲学的手法を活用したLLMのプロンプティング技術,https://ai-data-base.com/archives/81166,AIDB,https://ai-data-base.com/wp-content/uploads/2024/12/AIDB_81166-1.jpg
 2024-12-24,大規模言語モデルで実現する人間-ロボット協働組立,https://ai-scholar.tech/articles/robot/HumanRobot-Collaborative-Assembly,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/humanrobot-collaborative-assembly.png
 2024-12-24,科学論文におけるChatGPTの活用と影響、Binocularsによる分析,https://ai-scholar.tech/articles/large-language-models/largescale-analysis-preprint,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/largescale-analysis-preprint.png
