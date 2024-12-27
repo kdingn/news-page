@@ -1,4 +1,6 @@
 date,title,link,source,ogimage
+2024-12-27,ブラウザでLLMをローカル展開する手法,https://ai-data-base.com/archives/81302,AIDB,https://ai-data-base.com/wp-content/uploads/2024/12/AIDB_81302.jpg
+2024-12-26,推論過程を書き出すホワイトボードを与えることで、LLMの視覚的推論能力が大きく向上！？,https://ai-scholar.tech/articles/prompting-method/wot,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/wot_1_.png
 2024-12-26,LLMと人間の協働に必要となる「ユーザーの適切な依存」,https://ai-data-base.com/archives/81239,AIDB,https://ai-data-base.com/wp-content/uploads/2024/12/AIDB_81239.jpg
 2024-12-25,構音障害者も高齢者も見捨てない、A2A変換器による音声認識率改善,https://ai-scholar.tech/articles/speech-recognition-for-the-dysarthric/Self-supervised-ASR,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/self-supervised-asr.png
 2024-12-25,MicroDiffusion: 数万ドルのモデルに勝る千ドルの生成画質モデル,https://ai-scholar.tech/articles/image-generation/micro-diffusion,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/micro-diffusion.png
