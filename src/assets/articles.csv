@@ -1,5 +1,7 @@
 date,title,link,source,ogimage
 2025-01-31,MVANet: 背景削除の最強モデル,https://ai-scholar.tech/articles/neural-network/MVANet,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/mvanet.png
+2025-01-31,LLMの弱点を暴く「TruthEval」データセットの構築と分析,https://ai-scholar.tech/articles/large-language-models/trutheval-dataset,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/trutheval-dataset.png
+2025-01-31,OpenAI o3-miniの安全機能に関する大規模検証　1万件超のテスト結果,https://ai-data-base.com/archives/83156,AIDB,https://ai-data-base.com/wp-content/uploads/2025/01/AIDB_83156.png
 2025-01-31,学習者の目標達成をサポートするLLMシステムの開発,https://ai-data-base.com/archives/83097,AIDB,https://ai-data-base.com/wp-content/uploads/2025/01/AIDB_83097.png
 2025-01-30,CLAP-IPA: 音声とIPA列の対照学習による多言語音声表現の獲得,https://ai-scholar.tech/articles/natural-language-processing/clap-ipa,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/clap-ipa.png
 2025-01-30,大規模言語モデルのスポーツの理解力を測る新データセット「SportQA」,https://ai-scholar.tech/articles/large-language-models/sportqa-benchmark,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/October2024/sportqa-benchmark.png
