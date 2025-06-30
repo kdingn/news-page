@@ -1,4 +1,8 @@
 date,title,link,source,ogimage
+2025-06-30,「LLMで繰り返しコードを改良」で発生するセキュリティ脆弱性リスク,https://ai-data-base.com/archives/91572,AIDB,https://ai-data-base.com/wp-content/uploads/2025/06/AIDB_91572.png
+2025-06-29,OpenScholar：LLMによる科学文献の知識合成と信頼性強化,https://ai-scholar.tech/articles/llm-paper/openscholar,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2025/openscholar.png
+2025-06-29,大規模な画像エンコーダのマルチモーダル自己回帰的事前学習モデル,https://ai-scholar.tech/articles/llm-paper/multimodal-autoregressive-pre-training-of-large-vision-encoders,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2025/langrlのコピー.png
+2025-06-29,【Marco-o1】オープンエンドなソリューションのための推論モデルに向けて,https://ai-scholar.tech/articles/llm-paper/marco-o1,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2025/marco-o1.png
 2025-06-28,今週の注目AI論文リスト（論文公開日2025/6/23～6/27）,https://ai-data-base.com/archives/91805,AIDB,https://ai-data-base.com/wp-content/uploads/2023/10/AIDB_site.png
 2025-06-27,LLMコスト効率を高める「プロンプト圧縮」入門　比較で見える実践のポイント,https://ai-data-base.com/archives/91507,AIDB,https://ai-data-base.com/wp-content/uploads/2025/06/AIDB_91507.png
 2025-06-26,LLMアプリのコストパフォーマンスを開発動向から紐解く,https://ai-data-base.com/archives/91425,AIDB,https://ai-data-base.com/wp-content/uploads/2025/06/AIDB_91425.png
