@@ -1,4 +1,8 @@
 date,title,link,source,ogimage
+2025-07-01,Deep Researchの各種比較、仕組み、現状の課題,https://ai-data-base.com/archives/91614,AIDB,https://ai-data-base.com/wp-content/uploads/2025/06/AIDB_91614.png
+2025-06-30,UnifiedCrawl：低リソース言語データ収集と効率的LLM適応の新アプローチ,https://ai-scholar.tech/articles/others/unifiedcrawl,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2025/unifiedcrawl.png
+2025-06-30,ProtoReasoning: 論理と計画で磨く汎用推論能力,https://ai-scholar.tech/articles/others/protoreasoning,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2025/protoreasoning.png
+2025-06-30,マルチモーダルLLMの推論性能を革新する混合優先最適化の提案！,https://ai-scholar.tech/articles/llm-paper/preference-guided-reasoning,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2025/preference-guided-reasoning_1_.png
 2025-06-30,「LLMで繰り返しコードを改良」で発生するセキュリティ脆弱性リスク,https://ai-data-base.com/archives/91572,AIDB,https://ai-data-base.com/wp-content/uploads/2025/06/AIDB_91572.png
 2025-06-29,OpenScholar：LLMによる科学文献の知識合成と信頼性強化,https://ai-scholar.tech/articles/llm-paper/openscholar,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2025/openscholar.png
 2025-06-29,大規模な画像エンコーダのマルチモーダル自己回帰的事前学習モデル,https://ai-scholar.tech/articles/llm-paper/multimodal-autoregressive-pre-training-of-large-vision-encoders,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/June2025/langrlのコピー.png
