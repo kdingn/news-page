@@ -1,6 +1,9 @@
 date,title,link,source,ogimage
+2025-07-06,AIは何を感じ 何を選び どこまで自分を形づくるのか,https://ai-data-base.com/archives/91979,AIDB,https://ai-data-base.com/wp-content/uploads/2025/06/image.png
+2025-07-05,物理とデジタルを融合する次世代AI『Embodied Web Agents』の挑戦,https://ai-scholar.tech/articles/llm-paper/embodied-web-agents,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2025/embodied-web-agents.png
+2025-07-05,長文生成を進化させる新しい評価法『PrefBERT』による意味重視の報酬設計,https://ai-scholar.tech/articles/llm-paper/PrefBERT,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2025/prefbert.png
 2025-07-04,5つの業界における現場導入から学ぶRAGシステム実践の教訓12個,https://ai-data-base.com/archives/91808,AIDB,https://ai-data-base.com/wp-content/uploads/2025/06/AIDB_91808.png
-2025-07-03,多話者音声認識の新潮流！DiCoWとDiariZenによる高精度システムの挑戦,https://ai-scholar.tech/articles/others/dicow-diarizen,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2025/dicow-diarizen_1_.png
+2025-07-03,多話者音声認識の新潮流！DiCoWとDiariZenによる高精度システムの挑戦,https://ai-scholar.tech/articles/llm-paper/dicow-diarizen,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2025/dicow-diarizen_1_.png
 2025-07-03,LLMの性格を、「特性の強度」にもとづき詳細に設定する方法,https://ai-data-base.com/archives/91747,AIDB,https://ai-data-base.com/wp-content/uploads/2025/06/AIDB_91747.png
 2025-07-02,労働者の声が示す、LLMエージェントによる自動化が本当に求められる現場,https://ai-data-base.com/archives/91677,AIDB,https://ai-data-base.com/wp-content/uploads/2025/06/AIDB_91677.png
 2025-07-01,軽量高性能を実現する汎用蒸留フレームワーク『GenRecal』,https://ai-scholar.tech/articles/others/genrecal,AI-SCHOLAR,https://aisholar.s3.ap-northeast-1.amazonaws.com/media/July2025/genrecal.png
